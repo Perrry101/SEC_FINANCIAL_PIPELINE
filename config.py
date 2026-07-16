@@ -201,6 +201,40 @@ INCOME_STATEMENT_TAGS = {
 }
 
 # =============================================================================
+# CASH FLOW TAGS
+# =============================================================================
+
+CASH_FLOW_TAGS = {
+
+    "operating_cash_flow": [
+        "NetCashProvidedByUsedInOperatingActivities",
+        "NetCashProvidedByOperatingActivities",
+    ],
+
+    "investing_cash_flow": [
+        "NetCashProvidedByUsedInInvestingActivities",
+    ],
+
+    "financing_cash_flow": [
+        "NetCashProvidedByUsedInFinancingActivities",
+    ],
+
+    "capital_expenditure": [
+        "PaymentsToAcquirePropertyPlantAndEquipment",
+        "CapitalExpendituresIncurredButNotYetPaid",
+    ],
+
+    "depreciation": [
+        "Depreciation",
+        "DepreciationAndAmortization",
+    ],
+
+    "amortization": [
+        "AmortizationOfIntangibleAssets",
+    ],
+}
+
+# =============================================================================
 # DATASET COLUMNS
 # =============================================================================
 
