@@ -1,0 +1,31 @@
+ticker,cik,company,sic_code,sic_description,target_sector
+NVDA,1045810,NVIDIA CORP,3674,Semiconductors & Related Devices,Industrials
+AAPL,320193,Apple Inc.,3571,Electronic Computers,Technology
+GOOGL,1652044,Alphabet Inc.,7370,"Services-Computer Programming, Data Processing, Etc.",Technology
+MSFT,789019,MICROSOFT CORP,7372,Services-Prepackaged Software,Technology
+AMZN,1018724,AMAZON COM INC,5961,Retail-Catalog & Mail-Order Houses,Retail
+AVGO,1730168,Broadcom Inc.,3674,Semiconductors & Related Devices,Industrials
+META,1326801,"Meta Platforms, Inc.",7370,"Services-Computer Programming, Data Processing, Etc.",Technology
+TSLA,1318605,"Tesla, Inc.",3711,Motor Vehicles & Passenger Car Bodies,Industrials
+MU,723125,MICRON TECHNOLOGY INC,3674,Semiconductors & Related Devices,Industrials
+BRK-B,1067983,BERKSHIRE HATHAWAY INC,6331,"Fire, Marine & Casualty Insurance",Other / Financial / Services
+LLY,59478,ELI LILLY & Co,2834,Pharmaceutical Preparations,Healthcare
+AMD,2488,ADVANCED MICRO DEVICES INC,3674,Semiconductors & Related Devices,Industrials
+WMT,104169,Walmart Inc.,5331,Retail-Variety Stores,Retail
+JPM,19617,JPMORGAN CHASE & CO,6021,National Commercial Banks,Other / Financial / Services
+ASML,937966,ASML HOLDING NV,3559,"Special Industry Machinery, NEC",Industrials
+V,1403161,VISA INC.,7389,"Services-Business Services, NEC",Other / Financial / Services
+JNJ,200406,JOHNSON & JOHNSON,2834,Pharmaceutical Preparations,Healthcare
+XOM,2115436,ExxonMobil Holdings Corp,2911,Petroleum Refining,Energy
+INTC,50863,INTEL CORP,3674,Semiconductors & Related Devices,Industrials
+AMAT,6951,APPLIED MATERIALS INC /DE,3674,Semiconductors & Related Devices,Industrials
+CSCO,858877,"CISCO SYSTEMS, INC.",3576,Computer Communications Equipment,Technology
+MA,1141391,Mastercard Inc,7389,"Services-Business Services, NEC",Other / Financial / Services
+LRCX,707549,LAM RESEARCH CORP,3559,"Special Industry Machinery, NEC",Industrials
+CAT,18230,CATERPILLAR INC,3531,Construction Machinery & Equip,Industrials
+ABBV,1551152,AbbVie Inc.,2834,Pharmaceutical Preparations,Healthcare
+BAC,70858,BANK OF AMERICA CORP /DE/,6021,National Commercial Banks,Other / Financial / Services
+ORCL,1341439,ORACLE CORP,7372,Services-Prepackaged Software,Technology
+COST,909832,COSTCO WHOLESALE CORP /NEW,5331,Retail-Variety Stores,Retail
+UNH,731766,UNITEDHEALTH GROUP INC,6324,Hospital & Medical Service Plans,Other / Financial / Services
+GE,40545,GENERAL ELECTRIC CO,3600,Electronic & Other Electrical Equipment (No Computer Equip),Industrials
