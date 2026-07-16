@@ -29,7 +29,7 @@ PROCESSED_DATA_DIR = DATA_DIR / "processed"
 COMPANY_FACTS_DIR = RAW_DATA_DIR / "company_facts"
 
 # Output dataset
-OUTPUT_DATASET = PROCESSED_DATA_DIR / "balance_sheet_dataset.csv"
+OUTPUT_DATASET = PROCESSED_DATA_DIR / "financial_dataset.csv"
 
 # Company list
 COMPANIES_FILE = PROJECT_ROOT / "companies.csv"
