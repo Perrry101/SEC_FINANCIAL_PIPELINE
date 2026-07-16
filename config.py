@@ -72,20 +72,81 @@ REQUEST_DELAY = 0.25          # seconds between SEC requests
 MAX_RETRIES = 3
 
 # =============================================================================
-# BALANCE SHEET TAGS (US GAAP)
+# BALANCE SHEET TAGS
 # =============================================================================
 
 BALANCE_SHEET_TAGS = {
-    "cash": "CashAndCashEquivalentsAtCarryingValue",
-    "current_assets": "AssetsCurrent",
-    "total_assets": "Assets",
-    "inventory": "InventoryNet",
-    "receivables": "AccountsReceivableNetCurrent",
-    "current_liabilities": "LiabilitiesCurrent",
-    "total_liabilities": "Liabilities",
-    "equity": "StockholdersEquity",
-}
 
+    "cash": [
+        "CashAndCashEquivalentsAtCarryingValue",
+        "Cash",
+        "CashCashEquivalentsRestrictedCash",
+        "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+    ],
+
+    "short_term_investments": [
+        "AvailableForSaleSecuritiesCurrent",
+        "ShortTermInvestments",
+        "MarketableSecuritiesCurrent",
+    ],
+
+    "receivables": [
+        "AccountsReceivableNetCurrent",
+        "ReceivablesNetCurrent",
+    ],
+
+    "inventory": [
+        "InventoryNet",
+        "InventoryCurrent",
+        "InventoryFinishedGoods",
+        "InventoryGross",
+    ],
+
+    "current_assets": [
+        "AssetsCurrent",
+    ],
+
+    "ppe": [
+        "PropertyPlantAndEquipmentNet",
+        "PropertyPlantAndEquipmentGross",
+    ],
+
+    "goodwill": [
+        "Goodwill",
+    ],
+
+    "intangible_assets": [
+        "FiniteLivedIntangibleAssetsNet",
+        "IntangibleAssetsNetExcludingGoodwill",
+    ],
+
+    "total_assets": [
+        "Assets",
+    ],
+
+    "accounts_payable": [
+        "AccountsPayableCurrent",
+    ],
+
+    "current_liabilities": [
+        "LiabilitiesCurrent",
+    ],
+
+    "long_term_debt": [
+        "LongTermDebtNoncurrent",
+        "LongTermDebt",
+        "LongTermBorrowings",
+    ],
+
+    "total_liabilities": [
+        "Liabilities",
+    ],
+
+    "equity": [
+        "StockholdersEquity",
+        "StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest",
+    ],
+}
 # Some companies use alternate tag names.
 # These can be added later if required.
 
