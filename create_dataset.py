@@ -1,7 +1,7 @@
 """
 create_dataset.py
 
-Creates the final balance sheet dataset from the extracted
+Creates the final financial dataset from the extracted
 SEC Company Facts data.
 """
 
@@ -26,17 +26,36 @@ def clean_dataset(df: pd.DataFrame) -> pd.DataFrame:
 
     df = df.copy()
 
-    # Convert date
+    # -------------------------------------------------------------------------
+    # Convert dates
+    # -------------------------------------------------------------------------
+
     df["period_end"] = pd.to_datetime(df["period_end"])
 
-    # Sort
+    df["filing_date"] = pd.to_datetime(df["filing_date"])
+
+    # -------------------------------------------------------------------------
+    # Sort records
+    # -------------------------------------------------------------------------
+
     df = df.sort_values(
-        ["ticker", "period_end"]
+        [
+            "ticker",
+            "fiscal_year",
+            "fiscal_quarter",
+            "period_end",
+        ]
     )
 
+    # -------------------------------------------------------------------------
     # Remove duplicate company-quarter observations
+    # -------------------------------------------------------------------------
+
     df = df.drop_duplicates(
-        subset=["ticker", "period_end"]
+        subset=[
+            "ticker",
+            "period_end",
+        ]
     )
 
     df.reset_index(
@@ -51,39 +70,95 @@ def clean_dataset(df: pd.DataFrame) -> pd.DataFrame:
 # FEATURE ENGINEERING
 # ==============================================================================
 
-def calculate_financial_ratios(df: pd.DataFrame) -> pd.DataFrame:
+def calculate_financial_ratios(
+    df: pd.DataFrame
+) -> pd.DataFrame:
 
     df = df.copy()
 
+    # -------------------------------------------------------------------------
     # Working Capital
+    # -------------------------------------------------------------------------
+
     df["working_capital"] = (
-        df["current_assets"] -
+
+        df["current_assets"]
+
+        -
+
         df["current_liabilities"]
+
     )
 
-    # Current Ratio
+    # -------------------------------------------------------------------------
+    # Liquidity Ratios
+    # -------------------------------------------------------------------------
+
     df["current_ratio"] = (
-        df["current_assets"] /
-        df["current_liabilities"]
+
+        df["current_assets"]
+
+        /
+
+        df["current_liabilities"].replace(0, pd.NA)
+
     )
 
-    # Debt to Equity
-    df["debt_to_equity"] = (
-        df["total_liabilities"] /
-        df["equity"]
-    )
-
-    # Debt to Assets
-    df["debt_to_assets"] = (
-        df["total_liabilities"] /
-        df["total_assets"]
-    )
-
-    # Cash Ratio
     df["cash_ratio"] = (
-        df["cash"] /
-        df["current_liabilities"]
+
+        df["cash"]
+
+        /
+
+        df["current_liabilities"].replace(0, pd.NA)
+
     )
+
+    # -------------------------------------------------------------------------
+    # Leverage Ratios
+    # -------------------------------------------------------------------------
+
+    df["debt_to_equity"] = (
+
+        df["total_liabilities"]
+
+        /
+
+        df["equity"].replace(0, pd.NA)
+
+    )
+
+    df["debt_to_assets"] = (
+
+        df["total_liabilities"]
+
+        /
+
+        df["total_assets"].replace(0, pd.NA)
+
+    )
+
+    # -------------------------------------------------------------------------
+    # Round ratios
+    # -------------------------------------------------------------------------
+
+    ratio_columns = [
+
+        "working_capital",
+
+        "current_ratio",
+
+        "cash_ratio",
+
+        "debt_to_equity",
+
+        "debt_to_assets",
+
+    ]
+
+    df[ratio_columns] = df[
+        ratio_columns
+    ].round(4)
 
     return df
 
@@ -92,7 +167,9 @@ def calculate_financial_ratios(df: pd.DataFrame) -> pd.DataFrame:
 # SAVE DATASET
 # ==============================================================================
 
-def save_dataset(df: pd.DataFrame):
+def save_dataset(
+    df: pd.DataFrame
+):
 
     OUTPUT_DATASET.parent.mkdir(
         parents=True,
@@ -101,11 +178,15 @@ def save_dataset(df: pd.DataFrame):
 
     df.to_csv(
         OUTPUT_DATASET,
-        index=False
+        index=False,
+        encoding="utf-8-sig"
     )
 
     print()
-    print(f"Dataset saved to:\n{OUTPUT_DATASET}")
+
+    print(
+        f"Dataset saved to:\n{OUTPUT_DATASET}"
+    )
 
 
 # ==============================================================================
@@ -115,44 +196,143 @@ def save_dataset(df: pd.DataFrame):
 def main():
 
     print(LOG_SEPARATOR)
-    print("CREATE BALANCE SHEET DATASET")
+    print("CREATE FINANCIAL DATASET")
     print(LOG_SEPARATOR)
 
-    print("\nExtracting balance sheets...")
+    # -------------------------------------------------------------------------
+    # Extraction
+    # -------------------------------------------------------------------------
+
+    print("\nExtracting financial statements...\n")
 
     df = extract_all_balance_sheets()
 
-    print(f"Rows extracted : {len(df)}")
+    print(
+        f"Rows extracted : {len(df):,}"
+    )
 
-    print("\nCleaning dataset...")
+    # -------------------------------------------------------------------------
+    # Cleaning
+    # -------------------------------------------------------------------------
+
+    print("\nCleaning dataset...\n")
 
     df = clean_dataset(df)
 
-    print(f"Rows after cleaning : {len(df)}")
+    print(
+        f"Rows after cleaning : {len(df):,}"
+    )
 
-    print("\nCalculating financial ratios...")
+    # -------------------------------------------------------------------------
+    # Feature Engineering
+    # -------------------------------------------------------------------------
+
+    print("\nCalculating financial ratios...\n")
 
     df = calculate_financial_ratios(df)
 
-    print("\nDataset Preview\n")
+    # -------------------------------------------------------------------------
+    # Preview
+    # -------------------------------------------------------------------------
+
+    print(LOG_SEPARATOR)
+    print("DATASET PREVIEW")
+    print(LOG_SEPARATOR)
 
     print(df.head())
 
+    # -------------------------------------------------------------------------
+    # Save
+    # -------------------------------------------------------------------------
+
     save_dataset(df)
 
+    # -------------------------------------------------------------------------
+    # Dataset Info
+    # -------------------------------------------------------------------------
+
     print()
+
+    print(LOG_SEPARATOR)
+    print("DATASET INFO")
+    print(LOG_SEPARATOR)
 
     print(df.info())
 
+    # -------------------------------------------------------------------------
+    # Accounting Validation
+    # -------------------------------------------------------------------------
+
     print()
 
-    print(df.describe(include="all"))
+    print(LOG_SEPARATOR)
+    print("ACCOUNTING VALIDATION")
+    print(LOG_SEPARATOR)
+
+    print(
+        df["balance_sheet_valid"]
+        .value_counts(dropna=False)
+    )
+
+    # -------------------------------------------------------------------------
+    # Missing Values
+    # -------------------------------------------------------------------------
+
+    print()
+
+    print(LOG_SEPARATOR)
+    print("MISSING VALUES")
+    print(LOG_SEPARATOR)
+
+    print(
+        df.isna()
+        .sum()
+        .sort_values(
+            ascending=False
+        )
+    )
+
+    # -------------------------------------------------------------------------
+    # Summary Statistics
+    # -------------------------------------------------------------------------
+
+    print()
+
+    print(LOG_SEPARATOR)
+    print("SUMMARY STATISTICS")
+    print(LOG_SEPARATOR)
+
+    print(
+        df.describe(
+            include="all"
+        )
+    )
+
+    # -------------------------------------------------------------------------
+    # Pipeline Complete
+    # -------------------------------------------------------------------------
 
     print()
 
     print(LOG_SEPARATOR)
     print("PIPELINE COMPLETED")
     print(LOG_SEPARATOR)
+
+    print(f"Total Rows      : {len(df):,}")
+
+    print(
+        f"Companies       : {df['ticker'].nunique():,}"
+    )
+
+    print(
+        f"Fiscal Years    : "
+        f"{df['fiscal_year'].min()} - "
+        f"{df['fiscal_year'].max()}"
+    )
+
+    print(
+        f"Dataset Saved   : {OUTPUT_DATASET}"
+    )
 
 
 # ==============================================================================

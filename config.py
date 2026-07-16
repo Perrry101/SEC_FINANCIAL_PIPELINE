@@ -72,7 +72,7 @@ REQUEST_DELAY = 0.25          # seconds between SEC requests
 MAX_RETRIES = 3
 
 # =============================================================================
-# BALANCE SHEET TAGS
+# SHEET TAGS
 # =============================================================================
 
 BALANCE_SHEET_TAGS = {
@@ -157,7 +157,7 @@ BALANCE_SHEET_TAGS = {
 INCOME_STATEMENT_TAGS = {
 
     "revenue": [
-        "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "RevenueFromContBALANCE ractWithCustomerExcludingAssessedTax",
         "SalesRevenueNet",
         "Revenues",
     ],
