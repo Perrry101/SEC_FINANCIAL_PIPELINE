@@ -151,6 +151,56 @@ BALANCE_SHEET_TAGS = {
 # These can be added later if required.
 
 # =============================================================================
+# INCOME STATEMENT TAGS
+# =============================================================================
+
+INCOME_STATEMENT_TAGS = {
+
+    "revenue": [
+        "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "SalesRevenueNet",
+        "Revenues",
+    ],
+
+    "cost_of_revenue": [
+        "CostOfGoodsSold",
+        "CostOfRevenue",
+    ],
+
+    "gross_profit": [
+        "GrossProfit",
+    ],
+
+    "operating_income": [
+        "OperatingIncomeLoss",
+    ],
+
+    "pretax_income": [
+        "IncomeBeforeTaxExpenseBenefit",
+    ],
+
+    "income_tax": [
+        "IncomeTaxExpenseBenefit",
+    ],
+
+    "net_income": [
+        "NetIncomeLoss",
+    ],
+
+    "interest_expense": [
+        "InterestExpense",
+    ],
+
+    "basic_eps": [
+        "EarningsPerShareBasic",
+    ],
+
+    "diluted_eps": [
+        "EarningsPerShareDiluted",
+    ],
+}
+
+# =============================================================================
 # DATASET COLUMNS
 # =============================================================================
 
