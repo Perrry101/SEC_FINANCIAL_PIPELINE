@@ -1,7 +1,8 @@
 """
 download_companies.py
 
-Loads and validates the company universe for the SEC Financial Pipeline.
+Loads, validates and cleans the company universe
+for the SEC Financial Pipeline.
 """
 
 from pathlib import Path
@@ -22,22 +23,13 @@ REQUIRED_COLUMNS = [
     "company",
 ]
 
-
 # =============================================================================
 # LOAD COMPANY LIST
 # =============================================================================
 
 def load_companies(file_path: Path = COMPANIES_FILE) -> pd.DataFrame:
     """
-    Load companies.csv into a DataFrame.
-
-    Parameters
-    ----------
-    file_path : Path
-
-    Returns
-    -------
-    pandas.DataFrame
+    Load companies.csv.
     """
 
     if not file_path.exists():
@@ -51,17 +43,18 @@ def load_companies(file_path: Path = COMPANIES_FILE) -> pd.DataFrame:
 
 
 # =============================================================================
-# VALIDATE COMPANY LIST
+# VALIDATE
 # =============================================================================
 
 def validate_companies(df: pd.DataFrame) -> None:
     """
-    Validate the company DataFrame.
+    Validate required columns.
     """
 
     missing = [
-        col for col in REQUIRED_COLUMNS
-        if col not in df.columns
+        column
+        for column in REQUIRED_COLUMNS
+        if column not in df.columns
     ]
 
     if missing:
@@ -70,24 +63,58 @@ def validate_companies(df: pd.DataFrame) -> None:
         )
 
     if df.empty:
-        raise ValueError(
-            "companies.csv is empty."
-        )
+        raise ValueError("companies.csv is empty.")
 
 
 # =============================================================================
-# CLEAN DATA
+# CLEAN COMPANY LIST
 # =============================================================================
 
 def clean_companies(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Standardize company information.
+    Clean and standardize company information.
     """
 
     df = df.copy()
 
-    # Remove whitespace
-    df["ticker"] = df["ticker"].astype(str).str.strip().str.upper()
+    # ---------------------------------------------------------
+    # Remove rows with missing required values
+    # ---------------------------------------------------------
+
+    df = df.dropna(
+        subset=[
+            "ticker",
+            "cik",
+            "company",
+        ]
+    )
+
+    # ---------------------------------------------------------
+    # Remove empty strings
+    # ---------------------------------------------------------
+
+    df = df[
+        df["ticker"].astype(str).str.strip() != ""
+    ]
+
+    df = df[
+        df["company"].astype(str).str.strip() != ""
+    ]
+
+    # ---------------------------------------------------------
+    # Standardize ticker
+    # ---------------------------------------------------------
+
+    df["ticker"] = (
+        df["ticker"]
+        .astype(str)
+        .str.strip()
+        .str.upper()
+    )
+
+    # ---------------------------------------------------------
+    # Standardize company name
+    # ---------------------------------------------------------
 
     df["company"] = (
         df["company"]
@@ -95,42 +122,90 @@ def clean_companies(df: pd.DataFrame) -> pd.DataFrame:
         .str.strip()
     )
 
+    # ---------------------------------------------------------
     # SEC requires 10-digit CIK
+    # ---------------------------------------------------------
+
     df["cik"] = (
         df["cik"]
         .astype(str)
         .str.replace(".0", "", regex=False)
+        .str.strip()
         .str.zfill(10)
     )
 
-    # Remove duplicate tickers
+    # ---------------------------------------------------------
+    # Remove duplicate ticker
+    # ---------------------------------------------------------
+
     df = df.drop_duplicates(
-        subset="ticker"
-    ).reset_index(drop=True)
+        subset="ticker",
+        keep="first",
+    )
+
+    # ---------------------------------------------------------
+    # Remove duplicate CIK
+    # ---------------------------------------------------------
+
+    df = df.drop_duplicates(
+        subset="cik",
+        keep="first",
+    )
+
+    # ---------------------------------------------------------
+    # Optional columns
+    # ---------------------------------------------------------
+
+    optional_columns = [
+        "sic_code",
+        "sic_description",
+        "target_sector",
+    ]
+
+    for column in optional_columns:
+
+        if column not in df.columns:
+            df[column] = ""
+
+    # ---------------------------------------------------------
+    # Reorder columns
+    # ---------------------------------------------------------
+
+    ordered_columns = [
+        "ticker",
+        "cik",
+        "company",
+        "sic_code",
+        "sic_description",
+        "target_sector",
+    ]
+
+    df = df[ordered_columns]
+
+    df.reset_index(
+        drop=True,
+        inplace=True,
+    )
 
     return df
 
 
 # =============================================================================
-# PIPELINE FUNCTION
+# PIPELINE
 # =============================================================================
 
 def get_company_list() -> pd.DataFrame:
     """
-    Complete pipeline.
-
-    Returns
-    -------
-    Clean company DataFrame
+    Load + validate + clean company list.
     """
 
-    df = load_companies()
+    companies = load_companies()
 
-    validate_companies(df)
+    validate_companies(companies)
 
-    df = clean_companies(df)
+    companies = clean_companies(companies)
 
-    return df
+    return companies
 
 
 # =============================================================================
@@ -147,9 +222,14 @@ if __name__ == "__main__":
 
     print(f"\nTotal Companies : {len(companies)}\n")
 
-    print(companies)
+    print(companies.head(20))
 
     print("\nData Types\n")
+
     print(companies.dtypes)
+
+    print("\nMissing Values\n")
+
+    print(companies.isna().sum())
 
     print("\nDone.")
