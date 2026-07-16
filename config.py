@@ -242,18 +242,13 @@ DATASET_COLUMNS = [
     "company",
     "ticker",
     "cik",
+    "sic_code",
+    "sic_description",
+    "target_sector",
     "filing_date",
     "period_end",
     "fiscal_year",
     "fiscal_quarter",
-    "cash",
-    "current_assets",
-    "total_assets",
-    "inventory",
-    "receivables",
-    "current_liabilities",
-    "total_liabilities",
-    "equity",
 ]
 
 # =============================================================================
