@@ -5,6 +5,7 @@ Creates the final financial dataset from the extracted
 SEC Company Facts data.
 """
 
+import numpy as np
 import pandas as pd
 
 from extract_balance_sheet import extract_all_balance_sheets
@@ -12,6 +13,7 @@ from extract_balance_sheet import extract_all_balance_sheets
 from config import (
     OUTPUT_DATASET,
     LOG_SEPARATOR,
+    logger,
 )
 
 
@@ -81,61 +83,46 @@ def calculate_financial_ratios(
     # -------------------------------------------------------------------------
 
     df["working_capital"] = (
-
-        df["current_assets"]
-
-        -
-
-        df["current_liabilities"]
-
+        df["current_assets"] - df["current_liabilities"]
     )
 
     # -------------------------------------------------------------------------
     # Liquidity Ratios
+    # Safe division: np.divide with where avoids replacing
+    # zero with NA (which would silently drop valid companies
+    # that genuinely have zero liabilities).
     # -------------------------------------------------------------------------
 
-    df["current_ratio"] = (
-
-        df["current_assets"]
-
-        /
-
-        df["current_liabilities"].replace(0, pd.NA)
-
+    df["current_ratio"] = np.divide(
+        df["current_assets"],
+        df["current_liabilities"],
+        out=np.full(len(df), np.nan),
+        where=df["current_liabilities"].fillna(0).ne(0),
     )
 
-    df["cash_ratio"] = (
-
-        df["cash"]
-
-        /
-
-        df["current_liabilities"].replace(0, pd.NA)
-
+    df["cash_ratio"] = np.divide(
+        df["cash"],
+        df["current_liabilities"],
+        out=np.full(len(df), np.nan),
+        where=df["current_liabilities"].fillna(0).ne(0),
     )
 
     # -------------------------------------------------------------------------
     # Leverage Ratios
     # -------------------------------------------------------------------------
 
-    df["debt_to_equity"] = (
-
-        df["total_liabilities"]
-
-        /
-
-        df["equity"].replace(0, pd.NA)
-
+    df["debt_to_equity"] = np.divide(
+        df["total_liabilities"],
+        df["equity"],
+        out=np.full(len(df), np.nan),
+        where=df["equity"].fillna(0).ne(0),
     )
 
-    df["debt_to_assets"] = (
-
-        df["total_liabilities"]
-
-        /
-
-        df["total_assets"].replace(0, pd.NA)
-
+    df["debt_to_assets"] = np.divide(
+        df["total_liabilities"],
+        df["total_assets"],
+        out=np.full(len(df), np.nan),
+        where=df["total_assets"].fillna(0).ne(0),
     )
 
     # -------------------------------------------------------------------------
@@ -195,39 +182,33 @@ def save_dataset(
 
 def main():
 
-    print(LOG_SEPARATOR)
-    print("CREATE FINANCIAL DATASET")
-    print(LOG_SEPARATOR)
+    logger.info("CREATE FINANCIAL DATASET")
 
     # -------------------------------------------------------------------------
     # Extraction
     # -------------------------------------------------------------------------
 
-    print("\nExtracting financial statements...\n")
+    logger.info("Extracting financial statements...")
 
     df = extract_all_balance_sheets()
 
-    print(
-        f"Rows extracted : {len(df):,}"
-    )
+    logger.info("Rows extracted: %d", len(df))
 
     # -------------------------------------------------------------------------
     # Cleaning
     # -------------------------------------------------------------------------
 
-    print("\nCleaning dataset...\n")
+    logger.info("Cleaning dataset...")
 
     df = clean_dataset(df)
 
-    print(
-        f"Rows after cleaning : {len(df):,}"
-    )
+    logger.info("Rows after cleaning: %d", len(df))
 
     # -------------------------------------------------------------------------
     # Feature Engineering
     # -------------------------------------------------------------------------
 
-    print("\nCalculating financial ratios...\n")
+    logger.info("Calculating financial ratios...")
 
     df = calculate_financial_ratios(df)
 
@@ -265,9 +246,7 @@ def main():
 
     print()
 
-    print(LOG_SEPARATOR)
-    print("ACCOUNTING VALIDATION")
-    print(LOG_SEPARATOR)
+    logger.info("ACCOUNTING VALIDATION")
 
     print(
         df["balance_sheet_valid"]
@@ -280,9 +259,7 @@ def main():
 
     print()
 
-    print(LOG_SEPARATOR)
-    print("MISSING VALUES")
-    print(LOG_SEPARATOR)
+    logger.info("MISSING VALUES")
 
     print(
         df.isna()
@@ -298,9 +275,7 @@ def main():
 
     print()
 
-    print(LOG_SEPARATOR)
-    print("SUMMARY STATISTICS")
-    print(LOG_SEPARATOR)
+    logger.info("SUMMARY STATISTICS")
 
     print(
         df.describe(
@@ -314,25 +289,15 @@ def main():
 
     print()
 
-    print(LOG_SEPARATOR)
-    print("PIPELINE COMPLETED")
-    print(LOG_SEPARATOR)
-
-    print(f"Total Rows      : {len(df):,}")
-
-    print(
-        f"Companies       : {df['ticker'].nunique():,}"
+    logger.info("PIPELINE COMPLETE")
+    logger.info("Total Rows: %d", len(df))
+    logger.info("Companies: %d", df["ticker"].nunique())
+    logger.info(
+        "Fiscal Years: %s - %s",
+        df["fiscal_year"].min(),
+        df["fiscal_year"].max(),
     )
-
-    print(
-        f"Fiscal Years    : "
-        f"{df['fiscal_year'].min()} - "
-        f"{df['fiscal_year'].max()}"
-    )
-
-    print(
-        f"Dataset Saved   : {OUTPUT_DATASET}"
-    )
+    logger.info("Dataset Saved: %s", OUTPUT_DATASET)
 
 
 # ==============================================================================

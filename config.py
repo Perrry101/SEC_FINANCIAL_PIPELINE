@@ -17,7 +17,6 @@ from pathlib import Path
 # =============================================================================
 
 # Root directory of the project
-# Root directory of the project
 PROJECT_ROOT = Path(__file__).resolve().parent
 
 # Data directories
@@ -70,6 +69,11 @@ SEC_HEADERS = {
 REQUEST_TIMEOUT = 30          # seconds
 REQUEST_DELAY = 0.25          # seconds between SEC requests
 MAX_RETRIES = 3
+
+# Balance sheet validation: difference is valid if it is within
+# this absolute value OR within 1% of total_assets, whichever is larger.
+VALIDATION_ABS_TOLERANCE = 1_000_000   # $1M absolute floor
+VALIDATION_PCT_TOLERANCE = 0.01        # 1% relative tolerance
 
 # =============================================================================
 # SHEET TAGS
@@ -157,7 +161,7 @@ BALANCE_SHEET_TAGS = {
 INCOME_STATEMENT_TAGS = {
 
     "revenue": [
-        "RevenueFromContBALANCE ractWithCustomerExcludingAssessedTax",
+        "RevenueFromContractWithCustomerExcludingAssessedTax",
         "SalesRevenueNet",
         "Revenues",
     ],
@@ -254,6 +258,12 @@ DATASET_COLUMNS = [
 # =============================================================================
 # LOGGING
 # =============================================================================
+
+import logging
+
+LOG_FORMAT = "%(asctime)s | %(levelname)-8s | %(message)s"
+logging.basicConfig(level=logging.INFO, format=LOG_FORMAT)
+logger = logging.getLogger("sec_pipeline")
 
 LOG_SEPARATOR = "=" * 80
 

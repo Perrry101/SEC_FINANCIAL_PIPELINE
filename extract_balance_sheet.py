@@ -22,7 +22,10 @@ import pandas as pd
 from config import (
     COMPANY_FACTS_DIR,
     BALANCE_SHEET_TAGS,
+    VALIDATION_ABS_TOLERANCE,
+    VALIDATION_PCT_TOLERANCE,
     LOG_SEPARATOR,
+    logger,
 )
 
 from download_companies import get_company_list
@@ -35,10 +38,18 @@ from download_companies import get_company_list
 def load_company_json(file_path: Path) -> dict:
     """
     Load one SEC Company Facts JSON file.
+    Returns empty dict on failure.
     """
 
-    with open(file_path, "r", encoding="utf-8") as f:
-        return json.load(f)
+    try:
+        with open(file_path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except json.JSONDecodeError as e:
+        logger.error("Corrupt JSON: %s — %s", file_path.name, e)
+        return {}
+    except OSError as e:
+        logger.error("Cannot read file: %s — %s", file_path.name, e)
+        return {}
 
 
 # =============================================================================
@@ -291,29 +302,22 @@ def merge_company_metadata(
 
     companies = get_company_list()
 
-    metadata_columns = [
-
-        "ticker",
-
+    # Dataset already has ticker and company (from entityName),
+    # so only merge the columns it doesn't have yet.
+    merge_columns = [
         "cik",
-
         "sic_code",
-
         "sic_description",
-
         "target_sector",
-
     ]
 
-    companies = companies[
-        metadata_columns
-    ]
+    companies = companies[merge_columns]
 
     dataset = dataset.merge(
-    companies.drop(columns=["ticker", "company"], errors="ignore"),
-    on="cik",
-    how="left",
-)
+        companies,
+        on="cik",
+        how="left",
+    )
 
     
 
@@ -328,56 +332,41 @@ def validate_balance_sheet(
     df: pd.DataFrame,
 ) -> pd.DataFrame:
     """
-    Validate the accounting equation
-
+    Validate the accounting equation:
     Assets ≈ Liabilities + Equity
+
+    A row is valid if the absolute difference is within
+    VALIDATION_ABS_TOLERANCE (e.g. $1M) OR within
+    VALIDATION_PCT_TOLERANCE (e.g. 1%) of total_assets,
+    whichever is more lenient.
     """
 
     df = df.copy()
 
     required = [
-
         "total_assets",
-
         "total_liabilities",
-
         "equity",
-
     ]
 
     for column in required:
-
         if column not in df.columns:
-
             df[column] = pd.NA
 
     difference = (
-
         df["total_assets"]
-
-        -
-
-        (
-
-            df["total_liabilities"]
-
-            +
-
-            df["equity"]
-
-        )
-
+        - (df["total_liabilities"] + df["equity"])
     ).abs()
 
     df["balance_sheet_difference"] = difference
 
-    tolerance = 1.0
+    # Relative tolerance: 1% of total_assets (floor = $1M)
+    assets = df["total_assets"].fillna(0).abs()
+    threshold = (
+        assets * VALIDATION_PCT_TOLERANCE
+    ).clip(lower=VALIDATION_ABS_TOLERANCE)
 
-    df["balance_sheet_valid"] = (
-
-        difference <= tolerance
-
-    )
+    df["balance_sheet_valid"] = difference <= threshold
 
     return df
 
@@ -400,13 +389,7 @@ def extract_all_balance_sheets():
 
     )
 
-    print()
-
-    print(
-
-        f"Processing {len(files)} Company Facts files...\n"
-
-    )
+    logger.info("Processing %d Company Facts files...", len(files))
 
     for file in files:
 
@@ -415,6 +398,10 @@ def extract_all_balance_sheets():
             file
 
         )
+
+        if not company_json:
+
+            continue
 
         df = extract_balance_sheet(
 
@@ -588,15 +575,13 @@ def extract_all_balance_sheets():
 
 if __name__ == "__main__":
 
-    print(LOG_SEPARATOR)
-    print("EXTRACT BALANCE SHEETS")
-    print(LOG_SEPARATOR)
+    logger.info("EXTRACT BALANCE SHEETS")
 
     dataset = extract_all_balance_sheets()
 
     if dataset.empty:
 
-        print("\nNo balance sheet data extracted.")
+        logger.warning("No balance sheet data extracted.")
 
     else:
 
@@ -610,42 +595,28 @@ if __name__ == "__main__":
 
         print()
 
-        print(LOG_SEPARATOR)
-        print("SUMMARY")
-        print(LOG_SEPARATOR)
+        logger.info("SUMMARY")
 
-        print(f"Rows               : {len(dataset):,}")
-
-        print(
-            f"Companies          : {dataset['ticker'].nunique():,}"
+        logger.info("Rows: %d", len(dataset))
+        logger.info("Companies: %d", dataset["ticker"].nunique())
+        logger.info(
+            "Fiscal Years: %s - %s",
+            dataset["fiscal_year"].min(),
+            dataset["fiscal_year"].max(),
         )
-
-        print(
-            f"Fiscal Years       : "
-            f"{dataset['fiscal_year'].min()} - "
-            f"{dataset['fiscal_year'].max()}"
+        logger.info("Latest Period: %s", dataset["period_end"].max())
+        logger.info(
+            "Valid Balance Sheets: %d",
+            dataset["balance_sheet_valid"].sum(),
         )
-
-        print(
-            f"Latest Period      : "
-            f"{dataset['period_end'].max()}"
-        )
-
-        print(
-            f"Valid Balance Sheets : "
-            f"{dataset['balance_sheet_valid'].sum():,}"
-        )
-
-        print(
-            f"Invalid Balance Sheets : "
-            f"{(~dataset['balance_sheet_valid']).sum():,}"
+        logger.info(
+            "Invalid Balance Sheets: %d",
+            (~dataset["balance_sheet_valid"]).sum(),
         )
 
         print()
 
-        print(LOG_SEPARATOR)
-        print("MISSING VALUES")
-        print(LOG_SEPARATOR)
+        logger.info("MISSING VALUES")
 
         print(
             dataset.isna().sum().sort_values(
@@ -655,9 +626,7 @@ if __name__ == "__main__":
 
         print()
 
-        print(LOG_SEPARATOR)
-        print("NUMERIC SUMMARY")
-        print(LOG_SEPARATOR)
+        logger.info("NUMERIC SUMMARY")
 
         print(
             dataset.describe(

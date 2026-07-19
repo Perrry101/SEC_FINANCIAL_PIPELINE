@@ -22,6 +22,7 @@ from config import (
     REQUEST_DELAY,
     MAX_RETRIES,
     LOG_SEPARATOR,
+    logger,
 )
 
 from download_companies import get_company_list
@@ -34,6 +35,9 @@ from download_companies import get_company_list
 def download_company_facts(cik: str, ticker: str) -> bool:
     """
     Download Company Facts JSON for one company.
+
+    Uses exponential backoff on retries and handles HTTP 429
+    (rate limit) responses with a longer cooldown.
 
     Parameters
     ----------
@@ -55,7 +59,7 @@ def download_company_facts(cik: str, ticker: str) -> bool:
 
     # Skip already downloaded files
     if output_file.exists():
-        print(f"Skipping {ticker} (already exists)")
+        logger.info("Skipping %s (already exists)", ticker)
         return True
 
     for attempt in range(1, MAX_RETRIES + 1):
@@ -68,9 +72,31 @@ def download_company_facts(cik: str, ticker: str) -> bool:
                 timeout=REQUEST_TIMEOUT
             )
 
+            # ---------------------------------------------------------
+            # Rate limited — back off longer
+            # ---------------------------------------------------------
+            if response.status_code == 429:
+                wait = 2 ** attempt * 5
+                logger.warning(
+                    "%s: Rate limited (429). Waiting %ds",
+                    ticker, wait,
+                )
+                time.sleep(wait)
+                continue
+
             if response.status_code == 200:
 
                 data = response.json()
+
+                # -----------------------------------------------------
+                # Validate expected SEC JSON structure
+                # -----------------------------------------------------
+                if "facts" not in data:
+                    logger.warning(
+                        "%s: Response missing 'facts' key, skipping",
+                        ticker,
+                    )
+                    return False
 
                 with open(output_file, "w", encoding="utf-8") as f:
                     json.dump(data, f, indent=4)
@@ -79,19 +105,25 @@ def download_company_facts(cik: str, ticker: str) -> bool:
 
                 return True
 
-            print(
-                f"{ticker}: HTTP {response.status_code}"
+            logger.warning(
+                "%s: HTTP %d", ticker, response.status_code
             )
 
-        except Exception as e:
-
-            print(
-                f"{ticker}: Attempt {attempt} failed"
+        except json.JSONDecodeError:
+            logger.error(
+                "%s: Response was not valid JSON (attempt %d)",
+                ticker, attempt,
             )
 
-            print(e)
+        except requests.exceptions.RequestException as e:
+            logger.error(
+                "%s: Request failed (attempt %d): %s",
+                ticker, attempt, e,
+            )
 
-            time.sleep(2)
+        # Exponential backoff: 2s, 4s, 8s, ...
+        wait = 2 ** attempt
+        time.sleep(wait)
 
     return False
 
@@ -107,9 +139,8 @@ def download_all_company_facts():
     success = 0
     failed = 0
 
-    print(LOG_SEPARATOR)
-    print("DOWNLOADING COMPANY FACTS")
-    print(LOG_SEPARATOR)
+    logger.info("DOWNLOADING COMPANY FACTS")
+    logger.info("Total companies: %d", len(companies))
 
     for _, row in tqdm(
         companies.iterrows(),
@@ -126,15 +157,10 @@ def download_all_company_facts():
         else:
             failed += 1
 
-    print()
-
-    print(LOG_SEPARATOR)
-
-    print(f"Downloaded : {success}")
-
-    print(f"Failed     : {failed}")
-
-    print(LOG_SEPARATOR)
+    logger.info(
+        "Download complete — Downloaded: %d | Failed: %d",
+        success, failed,
+    )
 
 
 # ==============================================================================

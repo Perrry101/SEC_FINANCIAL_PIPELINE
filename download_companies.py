@@ -11,6 +11,7 @@ import pandas as pd
 from config import (
     COMPANIES_FILE,
     LOG_SEPARATOR,
+    logger,
 )
 
 # =============================================================================
@@ -124,13 +125,14 @@ def clean_companies(df: pd.DataFrame) -> pd.DataFrame:
 
     # ---------------------------------------------------------
     # SEC requires 10-digit CIK
+    # Handles float strings like "320193.0" and plain "320193"
     # ---------------------------------------------------------
 
     df["cik"] = (
-        df["cik"]
+        pd.to_numeric(df["cik"], errors="coerce")
+        .fillna(0)
+        .astype(int)
         .astype(str)
-        .str.replace(".0", "", regex=False)
-        .str.strip()
         .str.zfill(10)
     )
 
