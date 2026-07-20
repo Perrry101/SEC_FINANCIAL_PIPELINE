@@ -1,526 +1,475 @@
 ticker,cik,company,sic_code,sic_description,target_sector
-PG,80424,PROCTER & GAMBLE Co,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-KLAC,319201,KLA CORP,3827,Optical Instruments & Lenses,Manufacturing
-LIN,1707925,LINDE PLC,2810,Industrial Inorganic Chemicals,Manufacturing
-TMO,97745,THERMO FISHER SCIENTIFIC INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-GLW,24741,CORNING INC /NY,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
-DHR,313616,DANAHER CORP /DE/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-UL,217410,UNILEVER PLC,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-PH,76334,Parker-Hannifin Corp,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-HWM,4281,Howmet Aerospace Inc.,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-TT,1466258,Trane Technologies plc,3822,Auto Controls For Regulating Residential & Comml Environments,Manufacturing
-ECL,31462,ECOLAB INC.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-NOC,1133421,NORTHROP GRUMMAN CORP /DE/,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-CL,21665,COLGATE PALMOLIVE CO,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-CRH,849395,CRH PUBLIC LTD CO,3241,"Cement, Hydraulic",Manufacturing
-APD,2969,"Air Products & Chemicals, Inc.",2810,Industrial Inorganic Chemicals,Manufacturing
-NKE,320187,"NIKE, Inc.",3021,Rubber & Plastics Footwear,Manufacturing
-COHR,820318,COHERENT CORP.,3827,Optical Instruments & Lenses,Manufacturing
-TER,97210,"TERADYNE, INC",3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-KEYS,1601046,"Keysight Technologies, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-LHX,202058,"L3HARRIS TECHNOLOGIES, INC. /DE/",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-AME,1037868,AMETEK INC/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-ROK,1024478,"ROCKWELL AUTOMATION, INC",3829,"Measuring & Controlling Devices, NEC",Manufacturing
-NUE,73309,NUCOR CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-MT,1243429,ArcelorMittal,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-GRMN,1121788,GARMIN LTD,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-AXON,1069183,"AXON ENTERPRISE, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-HLN,1900304,Haleon plc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-TRI,1075124,THOMSON REUTERS CORP /CAN/,2741,Miscellaneous Publishing,Manufacturing
-A,1090872,"AGILENT TECHNOLOGIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-KVUE,1944048,Kenvue Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-KMB,55785,KIMBERLY CLARK CORP,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-WAT,1000697,WATERS CORP /DE/,3826,Laboratory Analytical Instruments,Manufacturing
-ROP,882835,ROPER TECHNOLOGIES INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-ALC,1167379,ALCON INC,3851,Ophthalmic Goods,Manufacturing
-STLD,1022671,STEEL DYNAMICS INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-NTR,1725964,Nutrien Ltd.,2870,Agricultural Chemicals,Manufacturing
-EL,1001250,ESTEE LAUDER COMPANIES INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-TDY,1094285,TELEDYNE TECHNOLOGIES INC,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-CRS,17843,CARPENTER TECHNOLOGY CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-ILMN,1110803,"ILLUMINA, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-TPR,1116132,"TAPESTRY, INC.",3100,Leather & Leather Products,Manufacturing
-AMRZ,2035989,Amrize Ltd,3241,"Cement, Hydraulic",Manufacturing
-TS,1190723,TENARIS SA,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-MTD,1037646,METTLER TOLEDO INTERNATIONAL INC/,3826,Laboratory Analytical Instruments,Manufacturing
-PPG,79879,PPG INDUSTRIES INC,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
-ATI,1018963,ATI INC,3317,Steel Pipe & Tubes,Manufacturing
-MKSI,1049502,MKS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-SW,2005951,Smurfit Westrock plc,2650,Paperboard Containers & Boxes,Manufacturing
-CHD,313927,CHURCH & DWIGHT CO INC /DE/,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-VLTO,1967680,Veralto Corp,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-ENTG,1101302,ENTEGRIS INC,3089,"Plastics Products, NEC",Manufacturing
-SNA,91440,Snap-on Inc,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-DOW,1751788,DOW INC.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-PKG,75677,PACKAGING CORP OF AMERICA,2650,Paperboard Containers & Boxes,Manufacturing
-IP,51434,INTERNATIONAL PAPER CO /NEW/,2621,Paper Mills,Manufacturing
-AMCR,1748790,Amcor plc,3990,Miscellaneous Manufacturing Industries,Manufacturing
-IFF,51253,INTERNATIONAL FLAVORS & FRAGRANCES INC,2860,Industrial Organic Chemicals,Manufacturing
-FTV,1659166,Fortive Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-DD,1666700,"DuPont de Nemours, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-LYB,1489393,LyondellBasell Industries N.V.,2860,Industrial Organic Chemicals,Manufacturing
-CX,1076378,CEMEX SAB DE CV,3241,"Cement, Hydraulic",Manufacturing
-CF,1324404,"CF Industries Holdings, Inc.",2870,Agricultural Chemicals,Manufacturing
-BALL,9389,BALL Corp,3411,Metal Cans,Manufacturing
-ONTO,704532,ONTO INNOVATION INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-MAS,62996,MASCO CORP /DE/,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
-PKX,889132,POSCO HOLDINGS INC.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-NVMI,1109345,NOVA LTD.,3827,Optical Instruments & Lenses,Manufacturing
-ALB,915913,ALBEMARLE CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-NWSA,1564708,NEWS CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-DECK,910521,DECKERS OUTDOOR CORP,3021,Rubber & Plastics Footwear,Manufacturing
-JHX,1159152,James Hardie Industries plc,3272,"Concrete Products, Except Block & Brick",Manufacturing
-COO,711404,"COOPER COMPANIES, INC.",3851,Ophthalmic Goods,Manufacturing
-SWK,93556,"STANLEY BLACK & DECKER, INC.",3420,"Cutlery, Handtools & General Hardware",Manufacturing
-RPM,110621,RPM INTERNATIONAL INC/DE/,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
-CSL,790051,CARLISLE COMPANIES INC,3060,"Fabricated Rubber Products, NEC",Manufacturing
-AA,1675149,Alcoa Corp,3334,Primary Production of  Aluminum,Manufacturing
-ONON,1858985,On Holding AG,3021,Rubber & Plastics Footwear,Manufacturing
-CR,1944013,Crane Co,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-MLI,89439,MUELLER INDUSTRIES INC,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-RVTY,31791,"REVVITY, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-CCK,1219601,"CROWN HOLDINGS, INC.",3411,Metal Cans,Manufacturing
-AVY,8818,Avery Dennison Corp,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-TRMB,864749,TRIMBLE INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-NYT,71691,NEW YORK TIMES CO,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-CLX,21076,CLOROX CO /DE/,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
-WTS,795403,WATTS WATER TECHNOLOGIES INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-DRS,1833756,"Leonardo DRS, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-WMS,1604028,"ADVANCED DRAINAGE SYSTEMS, INC.",3086,Plastics Foam Products,Manufacturing
-OC,1370946,Owens Corning,3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Manufacturing
-AKZOY,3124,AKZO NOBEL NV,2800,Chemicals & Allied Products,Manufacturing
-CGNX,851205,COGNEX CORP,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-VMI,102729,VALMONT INDUSTRIES INC,3440,Fabricated Structural Metal Products,Manufacturing
-PSO,938323,PEARSON PLC,2731,Books: Publishing or  Publishing & Printing,Manufacturing
-GTLS,892553,CHART INDUSTRIES INC,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-SUZ,909327,Suzano S.A.,2621,Paper Mills,Manufacturing
-SOLS,2064953,Solstice Advanced Materials Inc.,2800,Chemicals & Allied Products,Manufacturing
-ESI,1590714,Element Solutions Inc,2890,Miscellaneous Chemical Products,Manufacturing
-WLK,1262823,WESTLAKE CORP,2860,Industrial Organic Chemicals,Manufacturing
-BRKR,1109354,BRUKER CORP,3826,Laboratory Analytical Instruments,Manufacturing
-GGB,1073404,GERDAU S.A.,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-TX,1342874,Ternium S.A.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-BIRK,1977102,Birkenstock Holding plc,3140,"Footwear, (No Rubber)",Manufacturing
-ATR,896622,"APTARGROUP, INC.",3089,"Plastics Products, NEC",Manufacturing
-BIO,12208,"BIO-RAD LABORATORIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-SSD,920371,"Simpson Manufacturing Co., Inc.",3420,"Cutlery, Handtools & General Hardware",Manufacturing
-RAL,2041385,Ralliant Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-EMN,915389,EASTMAN CHEMICAL CO,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-HXL,717605,HEXCEL CORP /DE/,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-ACA,1739445,"Arcosa, Inc.",3440,Fabricated Structural Metal Products,Manufacturing
-AVTR,1722482,"Avantor, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-NEU,1282637,NEWMARKET CORP,2860,Industrial Organic Chemicals,Manufacturing
-DPC,2107018,DPC Holdings Ltd,3360,Nonferrous Foundries (Castings),Manufacturing
-NPO,1164863,Enpro Inc.,3050,"Gaskets, Packg & Sealg Devices & Rubber & Plastics Hose",Manufacturing
-AXTA,1616862,Axalta Coating Systems Ltd.,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
-CMC,22444,COMMERCIAL METALS Co,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-MOS,1285785,MOSAIC CO,2870,Agricultural Chemicals,Manufacturing
-CAMT,1109138,CAMTEK LTD,3827,Optical Instruments & Lenses,Manufacturing
-AWI,7431,ARMSTRONG WORLD INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
-ST,1477294,Sensata Technologies Holding plc,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-CROX,1334036,"Crocs, Inc.",3021,Rubber & Plastics Footwear,Manufacturing
-EXP,918646,EAGLE MATERIALS INC,3241,"Cement, Hydraulic",Manufacturing
-ICL,941221,ICL Group Ltd.,2870,Agricultural Chemicals,Manufacturing
-FBIN,1519751,"Fortune Brands Innovations, Inc.",2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Manufacturing
-BLCO,1860742,Bausch & Lomb Corp,3851,Ophthalmic Goods,Manufacturing
-REYN,1786431,Reynolds Consumer Products Inc.,2673,"Plastics, Foil & Coated Paper Bags",Manufacturing
-PRM,1880319,"Perimeter Solutions, Inc.",2800,Chemicals & Allied Products,Manufacturing
-SON,91767,SONOCO PRODUCTS CO,2650,Paperboard Containers & Boxes,Manufacturing
-MTRN,1104657,MATERION Corp,3460,Metal Forgings & Stampings,Manufacturing
-TXG,1770787,"10x Genomics, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-WFG,1402388,"WEST FRASER TIMBER CO., LTD",2421,"Sawmills & Planting Mills, General",Manufacturing
-BCPC,9326,BALCHEM CORP,2800,Chemicals & Allied Products,Manufacturing
-CE,1306830,Celanese Corp,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
-LPX,60519,LOUISIANA-PACIFIC CORP,2400,Lumber & Wood Products (No Furniture),Manufacturing
-SXT,310142,SENSIENT TECHNOLOGIES CORP,2860,Industrial Organic Chemicals,Manufacturing
-TREX,1069878,TREX CO INC,2400,Lumber & Wood Products (No Furniture),Manufacturing
-UFPI,912767,UFP INDUSTRIES INC,2421,"Sawmills & Planting Mills, General",Manufacturing
-SLGN,849869,SILGAN HOLDINGS INC,3411,Metal Cans,Manufacturing
-XE,2088896,"X-Energy, Inc.",3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-CSW,1624794,"CSW INDUSTRIALS, INC.",2891,Adhesives & Sealants,Manufacturing
-SIM,887153,"GRUPO SIMEC, S.A.B. de C.V.",3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-ELF,1600033,"e.l.f. Beauty, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-CBT,16040,CABOT CORP,2890,Miscellaneous Chemical Products,Manufacturing
-SKY,90896,"Champion Homes, Inc.",2451,Mobile Homes,Manufacturing
-CENX,949157,CENTURY ALUMINUM CO,3334,Primary Production of  Aluminum,Manufacturing
-CVCO,278166,"CAVCO INDUSTRIES, INC.",2451,Mobile Homes,Manufacturing
-AZZ,8947,AZZ INC,3470,"Coating, Engraving & Allied Services",Manufacturing
-BRC,746598,BRADY CORP,3990,Miscellaneous Manufacturing Industries,Manufacturing
-BMI,9092,BADGER METER INC,3824,Totalizing Fluid Meters & Counting Devices,Manufacturing
-GFF,50725,GRIFFON CORP,3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
-BDC,913142,BELDEN INC.,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
-GEF,43920,"GREIF, INC",3412,"Metal Shipping Barrels, Drums, Kegs & Pails",Manufacturing
-VNT,1786842,Vontier Corp,3824,Totalizing Fluid Meters & Counting Devices,Manufacturing
-MIR,1809987,"Mirion Technologies, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
-CSTM,1563411,CONSTELLIUM SE,3341,Secondary Smelting & Refining of  Nonferrous Metals,Manufacturing
-MWA,1350593,"Mueller Water Products, Inc.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
-SMG,825542,SCOTTS MIRACLE-GRO CO,2870,Agricultural Chemicals,Manufacturing
-IPAR,822663,INTERPARFUMS INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ITRI,780571,"ITRON, INC.",3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-MEOH,886977,METHANEX CORP,2860,Industrial Organic Chemicals,Manufacturing
-WDFC,105132,WD 40 CO,2890,Miscellaneous Chemical Products,Manufacturing
-WRBY,1504776,Warby Parker Inc.,3851,Ophthalmic Goods,Manufacturing
-AVNT,1122976,AVIENT CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-SMR,1822966,NUSCALE POWER Corp,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-GPK,1408075,GRAPHIC PACKAGING HOLDING CO,2650,Paperboard Containers & Boxes,Manufacturing
-SHOO,913241,"STEVEN MADDEN, LTD.",3140,"Footwear, (No Rubber)",Manufacturing
-FUL,39368,FULLER H B CO,2891,Adhesives & Sealants,Manufacturing
-CXT,25445,"Crane NXT, Co.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
-AMBP,1845097,Ardagh Metal Packaging S.A.,3411,Metal Cans,Manufacturing
-CC,1627223,Chemours Co,2800,Chemicals & Allied Products,Manufacturing
-WOR,108516,"WORTHINGTON ENTERPRISES, INC.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-COHU,21535,COHU INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-HLIO,1024795,"HELIOS TECHNOLOGIES, INC.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
-KALU,811596,KAISER ALUMINUM CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-LUNR,1844452,"Intuitive Machines, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-WLY,107140,"JOHN WILEY & SONS, INC.",2731,Books: Publishing or  Publishing & Printing,Manufacturing
-NGVT,1653477,Ingevity Corp,2800,Chemicals & Allied Products,Manufacturing
-ROG,84748,ROGERS CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-CMPR,1262976,CIMPRESS plc,2750,Commercial Printing,Manufacturing
-OLN,74303,OLIN Corp,2800,Chemicals & Allied Products,Manufacturing
-AEHR,1040470,AEHR TEST SYSTEMS,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-MTX,891014,MINERALS TECHNOLOGIES INC,2810,Industrial Inorganic Chemicals,Manufacturing
-NWL,814453,NEWELL BRANDS INC.,3089,"Plastics Products, NEC",Manufacturing
-NN,1865631,NEXTNAV INC.,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-IMAX,921582,IMAX CORP,3861,Photographic Equipment & Supplies,Manufacturing
-CPRI,1530721,Capri Holdings Ltd,3100,Leather & Leather Products,Manufacturing
-IOSP,1054905,INNOSPEC INC.,2800,Chemicals & Allied Products,Manufacturing
-RMIX,2094433,"Suncrete, Inc.",3272,"Concrete Products, Except Block & Brick",Manufacturing
-COTY,1024305,COTY INC.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-GT,42582,GOODYEAR TIRE & RUBBER CO /OH/,3011,Tires & Inner Tubes,Manufacturing
-TGLS,1534675,Tecnoglass Inc.,3211,Flat Glass,Manufacturing
-HUN,1307954,Huntsman CORP,2800,Chemicals & Allied Products,Manufacturing
-ALMR,2104204,"Alamar Biosciences, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-MH,1951070,"McGraw Hill, Inc.",2741,Miscellaneous Publishing,Manufacturing
-PRLB,1443669,Proto Labs Inc,3440,Fabricated Structural Metal Products,Manufacturing
-BW,1630805,"Babcock & Wilcox Enterprises, Inc.",3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
-WS,1968487,"Worthington Steel, Inc.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-SLVM,1856485,Sylvamo Corp,2621,Paper Mills,Manufacturing
-EYE,1710155,"National Vision Holdings, Inc.",3851,Ophthalmic Goods,Manufacturing
-REX,744187,REX AMERICAN RESOURCES Corp,2860,Industrial Organic Chemicals,Manufacturing
-WBTN,1997859,WEBTOON Entertainment Inc.,2741,Miscellaneous Publishing,Manufacturing
-ALNT,46129,ALLIENT INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-HLMN,1822492,Hillman Solutions Corp.,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-ODC,74046,Oil-Dri Corp of America,3990,Miscellaneous Manufacturing Industries,Manufacturing
-TRS,842633,TRIMAS CORP,3460,Metal Forgings & Stampings,Manufacturing
-OI,812074,"O-I Glass, Inc. /DE/",3221,Glass Containers,Manufacturing
-PCT,1830033,"PureCycle Technologies, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-WWW,110471,WOLVERINE WORLD WIDE INC /DE/,3140,"Footwear, (No Rubber)",Manufacturing
-FMC,37785,FMC CORP,2800,Chemicals & Allied Products,Manufacturing
-STAA,718937,STAAR SURGICAL CO,3851,Ophthalmic Goods,Manufacturing
-SID,1049659,NATIONAL STEEL CO,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-LOMA,1711375,Loma Negra Compania Industrial Argentina Sociedad Anonima,3241,"Cement, Hydraulic",Manufacturing
-ECVT,1708035,Ecovyst Inc.,2800,Chemicals & Allied Products,Manufacturing
-NWPX,1001385,"NWPX Infrastructure, Inc.",3317,Steel Pipe & Tubes,Manufacturing
-SCL,94049,STEPAN CO,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-ROCK,912562,"GIBRALTAR INDUSTRIES, INC.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-XPEL,1767258,"XPEL, Inc.",3470,"Coating, Engraving & Allied Services",Manufacturing
-TDAY,1579684,"USA TODAY Co., Inc.",2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-EPC,1096752,EDGEWELL PERSONAL CARE Co,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-UAN,1425292,"CVR PARTNERS, LP",2870,Agricultural Chemicals,Manufacturing
-EYPT,1314102,"EyePoint, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-GPRE,1309402,Green Plains Inc.,2860,Industrial Organic Chemicals,Manufacturing
-MYE,69488,MYERS INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
-DLX,27996,DELUXE CORP,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Manufacturing
-LWLG,1325964,"Lightwave Logic, Inc.",3080,Miscellaneous Plastics Products,Manufacturing
-BAK,1071438,BRASKEM SA,2860,Industrial Organic Chemicals,Manufacturing
-TROX,1530804,Tronox Holdings plc,2810,Industrial Inorganic Chemicals,Manufacturing
-CPAC,1221029,CEMENTOS PACASMAYO SAA,3241,"Cement, Hydraulic",Manufacturing
-UAMY,101538,UNITED STATES ANTIMONY CORP,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
-DAKT,915779,DAKTRONICS INC /SD/,3990,Miscellaneous Manufacturing Industries,Manufacturing
-KOP,1315257,Koppers Holdings Inc.,2400,Lumber & Wood Products (No Furniture),Manufacturing
-FTK,928054,FLOTEK INDUSTRIES INC/CN/,2890,Miscellaneous Chemical Products,Manufacturing
-NPK,80172,NATIONAL PRESTO INDUSTRIES INC,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-MEC,1766368,"Mayville Engineering Company, Inc.",3460,Metal Forgings & Stampings,Manufacturing
-MOV,72573,MOVADO GROUP INC,3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
-SCHL,866729,SCHOLASTIC CORP,2731,Books: Publishing or  Publishing & Printing,Manufacturing
-MATW,63296,MATTHEWS INTERNATIONAL CORP,3360,Nonferrous Foundries (Castings),Manufacturing
-TRNS,99302,TRANSCAT INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-APOG,6845,"APOGEE ENTERPRISES, INC.",3231,"Glass Products, Made of  Purchased Glass",Manufacturing
-KODK,31235,EASTMAN KODAK CO,3861,Photographic Equipment & Supplies,Manufacturing
-NX,1423221,Quanex Building Products CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-ODD,1907085,Oddity Tech Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-MTUS,1598428,Metallus Inc.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-LXU,60714,"LSB INDUSTRIES, INC.",2810,Industrial Inorganic Chemicals,Manufacturing
-DJCO,783412,DAILY JOURNAL CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-WLKP,1604665,Westlake Chemical Partners LP,2860,Industrial Organic Chemicals,Manufacturing
-IMSR,2019804,Terrestrial Energy Inc. /DE/,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-SWIM,1833197,"Latham Group, Inc.",3089,"Plastics Products, NEC",Manufacturing
-JBI,1839839,"Janus International Group, Inc.",3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
-SWBI,1092796,"SMITH & WESSON BRANDS, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-SXC,1514705,"SunCoke Energy, Inc.",3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-KRO,1257640,KRONOS WORLDWIDE INC,2810,Industrial Inorganic Chemicals,Manufacturing
-KRT,1758021,Karat Packaging Inc.,3089,"Plastics Products, NEC",Manufacturing
-ASPI,1921865,ASP Isotopes Inc.,2890,Miscellaneous Chemical Products,Manufacturing
-LEGH,1436208,Legacy Housing Corp,2451,Mobile Homes,Manufacturing
-RGR,95029,STURM RUGER & CO INC,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-SLI,1537137,STANDARD LITHIUM LTD.,2800,Chemicals & Allied Products,Manufacturing
-CTKB,1831915,"Cytek Biosciences, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-PACK,1712463,Ranpak Holdings Corp.,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-IIIN,764401,INSTEEL INDUSTRIES INC,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-ADUR,1863934,ADURO CLEAN TECHNOLOGIES INC.,2800,Chemicals & Allied Products,Manufacturing
-FEIM,39020,FREQUENCY ELECTRONICS INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-ASIX,1673985,AdvanSix Inc.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-NKLR,2067627,Terra Innovatum Global N.V.,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-EBF,33002,"ENNIS, INC.",2761,Manifold Business Forms,Manufacturing
-MLAB,724004,MESA LABORATORIES INC /CO/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-PKOH,76282,PARK OHIO HOLDINGS CORP,3460,Metal Forgings & Stampings,Manufacturing
-RYAM,1597672,RAYONIER ADVANCED MATERIALS INC.,2611,Pulp Mills,Manufacturing
-PACB,1299130,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-ELMT,2101698,Elmet Group Co.,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-TWI,899751,TITAN INTERNATIONAL INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-LXFR,1096056,LUXFER HOLDINGS PLC,2810,Industrial Inorganic Chemicals,Manufacturing
-MAGN,41719,Magnera Corp,2621,Paper Mills,Manufacturing
-ALTO,778164,"Alto Ingredients, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-QUAD,1481792,"Quad/Graphics, Inc.",2750,Commercial Printing,Manufacturing
-MATV,1000623,"Mativ Holdings, Inc.",2621,Paper Mills,Manufacturing
-CAL,14707,CALERES INC,3140,"Footwear, (No Rubber)",Manufacturing
-VHI,59255,VALHI INC /DE/,2810,Industrial Inorganic Chemicals,Manufacturing
-ASTL,1860805,Algoma Steel Group Inc.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-OPTX,1866816,"SYNTEC OPTICS HOLDINGS, INC.",3827,Optical Instruments & Lenses,Manufacturing
-LAB,1162194,STANDARD BIOTOOLS INC.,3826,Laboratory Analytical Instruments,Manufacturing
-ACCO,712034,ACCO BRANDS Corp,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Manufacturing
-GEVO,1392380,"Gevo, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-YSG,1819580,Yatsen Holding Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-MASS,1555279,908 Devices Inc.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-CIX,1049606,COMPX INTERNATIONAL INC,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-LODE,1120970,Comstock Inc.,2860,Industrial Organic Chemicals,Manufacturing
-OEC,1609804,Orion S.A.,2890,Miscellaneous Chemical Products,Manufacturing
-RCKY,895456,"ROCKY BRANDS, INC.",3140,"Footwear, (No Rubber)",Manufacturing
-OFLX,1317945,"Omega Flex, Inc.",3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
-NL,72162,NL INDUSTRIES INC,2810,Industrial Inorganic Chemicals,Manufacturing
-SENS,1616543,"Senseonics Holdings, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-AERG,879911,"APPLIED ENERGETICS, INC.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-LTBR,1084554,LIGHTBRIDGE Corp,2810,Industrial Inorganic Chemicals,Manufacturing
-TG,850429,TREDEGAR CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-CLW,1441236,Clearwater Paper Corp,2631,Paperboard Mills,Manufacturing
-FRD,39092,FRIEDMAN INDUSTRIES INC,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-NAUT,1808805,"Nautilus Biotechnology, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-FOSL,883569,"Fossil Group, Inc.",3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
-PTNM,2046573,Pitanium Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-PMTS,1641614,CPI Card Group Inc.,2750,Commercial Printing,Manufacturing
-WALD,1840199,Waldencast plc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-CDXS,1200375,"CODEXIS, INC.",2860,Industrial Organic Chemicals,Manufacturing
-FF,1337298,FutureFuel Corp.,2860,Industrial Organic Chemicals,Manufacturing
-CMT,1026655,CORE MOLDING TECHNOLOGIES INC,3089,"Plastics Products, NEC",Manufacturing
-RXST,1111485,"RxSight, Inc.",3851,Ophthalmic Goods,Manufacturing
-SAFX,2019793,"XCF Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-QSI,1816431,Quantum-Si Inc,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-INTT,1036262,INTEST CORP,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-LCUT,874396,"LIFETIME BRANDS, INC",3420,"Cutlery, Handtools & General Hardware",Manufacturing
-QTRX,1503274,Quanterix Corp,3826,Laboratory Analytical Instruments,Manufacturing
-ACU,2098,ACME UNITED CORP,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-LQMT,1141240,LIQUIDMETAL TECHNOLOGIES INC,2800,Chemicals & Allied Products,Manufacturing
-LEE,58361,"LEE ENTERPRISES, Inc",2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-OWLT,1816708,"Owlet, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
-HUHU,1945415,HUHUTECH International Group Inc.,3360,Nonferrous Foundries (Castings),Manufacturing
-ZONE,1956741,"CleanCore Solutions, Inc.",2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
-CBUS,1705843,"Cibus, Inc.",2870,Agricultural Chemicals,Manufacturing
-ZHJD,1794276,Intelligent Hotel Group Ltd.,2870,Agricultural Chemicals,Manufacturing
-SMID,924719,SMITH MIDLAND CORP,3272,"Concrete Products, Except Block & Brick",Manufacturing
-EML,31107,EASTERN CO,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-HURC,315374,HURCO COMPANIES INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-EMPG,2005569,Empro Group Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-OCC,1000230,OPTICAL CABLE CORP,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
-WRAP,1702924,"WRAP TECHNOLOGIES, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-ACNT,95953,ASCENT INDUSTRIES CO.,2800,Chemicals & Allied Products,Manufacturing
-VATE,1006837,INNOVATE Corp.,3440,Fabricated Structural Metal Products,Manufacturing
-GPRO,1500435,"GoPro, Inc.",3861,Photographic Equipment & Supplies,Manufacturing
-BOOM,34067,DMC Global Inc.,3390,Miscellaneous Primary Metal Products,Manufacturing
-SEER,1726445,"Seer, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-BRLT,1866757,"Brilliant Earth Group, Inc.",3910,"Jewelry, Silverware & Plated Ware",Manufacturing
-ZJK,1941506,"ZJK Industrial Co., Ltd.",3452,"Bolts, Nuts, Screws, Rivets & Washers",Manufacturing
-KBLB,1413119,"Kraig Biocraft Laboratories, Inc.",2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
-VRA,1495320,"Vera Bradley, Inc.",3100,Leather & Leather Products,Manufacturing
-AMTX,738214,"AEMETIS, INC",2860,Industrial Organic Chemicals,Manufacturing
-CODA,1334325,"Coda Octopus Group, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-JELD,1674335,"JELD-WEN Holding, Inc.",2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Manufacturing
-KEQU,55529,KEWAUNEE SCIENTIFIC CORP /DE/,3821,Laboratory Apparatus & Furniture,Manufacturing
-BWEN,1120370,"BROADWIND, INC.",3360,Nonferrous Foundries (Castings),Manufacturing
-LUD,1984124,Luda Technology Group Ltd,3317,Steel Pipe & Tubes,Manufacturing
-RPID,1380106,"RAPID MICRO BIOSYSTEMS, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-ARQ,1515156,"Arq, Inc.",2890,Miscellaneous Chemical Products,Manufacturing
-GEOS,1001115,GEOSPACE TECHNOLOGIES CORP,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-NOBH,72205,NOBILITY HOMES INC,2451,Mobile Homes,Manufacturing
-CPSH,814676,CPS TECHNOLOGIES CORP/DE/,3260,Pottery & Related Products,Manufacturing
-OPXS,1397016,Optex Systems Holdings Inc,3827,Optical Instruments & Lenses,Manufacturing
-ZKIN,1687451,"ZK International Group Co., Ltd.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
-CSTE,1504379,Caesarstone Ltd.,3281,Cut Stone & Stone Products,Manufacturing
-NTIC,875582,NORTHERN TECHNOLOGIES INTERNATIONAL CORP,3470,"Coating, Engraving & Allied Services",Manufacturing
-AVD,5981,AMERICAN VANGUARD CORP,2870,Agricultural Chemicals,Manufacturing
-FSI,1069394,FLEXIBLE SOLUTIONS INTERNATIONAL INC,2890,Miscellaneous Chemical Products,Manufacturing
-LNZA,1843724,"LanzaTech Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-APWC,1026980,ASIA PACIFIC WIRE & CABLE CORP LTD,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
-ZTEK,1904501,Zentek Ltd.,2890,Miscellaneous Chemical Products,Manufacturing
-BFNH,1310488,"BIOFORCE NANOSCIENCES HOLDINGS, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-DSWL,946936,DESWELL INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
-BCHT,728385,Birchtech Corp.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-VGAS,1841425,"Verde Clean Fuels, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-MIND,926423,"MIND TECHNOLOGY, INC",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-SYPR,864240,SYPRIS SOLUTIONS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-SLSN,883107,"SOLESENCE, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-TPCS,1328792,TECHPRECISION CORP,3440,Fabricated Structural Metal Products,Manufacturing
-TGE,2053456,Generation Essentials Group,2721,Periodicals: Publishing or  Publishing & Printing,Manufacturing
-AIOS,1603993,AIOS Tech Inc.,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-PRPO,1043961,"Precipio, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-AXIL,1718500,"Axil Brands, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-MERC,1333274,MERCER INTERNATIONAL INC.,2611,Pulp Mills,Manufacturing
-LOOP,1504678,"Loop Industries, Inc.",2800,Chemicals & Allied Products,Manufacturing
-INIS,1038277,RADNOSTIX INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-DAIO,351998,DATA I/O CORP,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-BIOF,1549145,"BLUE BIOFUELS, INC.",2860,Industrial Organic Chemicals,Manufacturing
-VTSI,1085243,"VirTra, Inc",3990,Miscellaneous Manufacturing Industries,Manufacturing
-BLGO,880242,"BIOLARGO, INC.",2800,Chemicals & Allied Products,Manufacturing
-UG,101295,UNITED GUARDIAN INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-QTZM,1663038,Quantum Genesis AI Corp.,2860,Industrial Organic Chemicals,Manufacturing
-HBIO,1123494,HARVARD BIOSCIENCE INC,3826,Laboratory Analytical Instruments,Manufacturing
-ELSE,351789,ELECTRO SENSORS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-RETO,1687277,"ReTo Eco-Solutions, Inc.",3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Manufacturing
-CLIR,1434524,ClearSign Technologies Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-DETX,1919776,"LIBERTY DEFENSE HOLDINGS, LTD.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-BIOX,1769484,Bioceres Crop Solutions Corp.,2870,Agricultural Chemicals,Manufacturing
-TLF,909724,TANDY LEATHER FACTORY INC,3100,Leather & Leather Products,Manufacturing
-DSY,1999297,Big Tree Cloud Holdings Ltd,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-TOMZ,314227,"TOMI Environmental Solutions, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-ASTC,1001907,ASTROTECH Corp,3826,Laboratory Analytical Instruments,Manufacturing
-RECT,1995116,Rectitude Holdings Ltd.,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-SDST,1831979,Stardust Power Inc.,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
-KARX,1729637,Karbon-X Corp.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-WNDW,1071840,"SolarWindow Technologies, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-WFF,1980210,WF Holding Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
-MGIH,1903995,Millennium Group International Holdings Ltd,2750,Commercial Printing,Manufacturing
-NEWH,1371128,"NewHydrogen, Inc.",3081,Unsupported Plastics Film & Sheet,Manufacturing
-GWTI,1572386,"GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES",2860,Industrial Organic Chemicals,Manufacturing
-DOGZ,1707303,Dogness (International) Corp,3990,Miscellaneous Manufacturing Industries,Manufacturing
-BNGO,1411690,"Bionano Genomics, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-JBDI,1964314,JBDI Holdings Ltd,3412,"Metal Shipping Barrels, Drums, Kegs & Pails",Manufacturing
-HCAI,1958399,"Huachen AI Parking Management Technology Holding Co., Ltd",3990,Miscellaneous Manufacturing Industries,Manufacturing
-CSDX,1106861,CS DIAGNOSTICS CORP.,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
-HUDI,1791725,"Huadi International Group Co., Ltd.",3317,Steel Pipe & Tubes,Manufacturing
-CABR,2020737,"Caring Brands, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-SFHG,1926792,SAMFINE CREATION HOLDINGS GROUP Ltd,2750,Commercial Printing,Manufacturing
-MSAI,1863990,"MultiSensor AI Holdings, Inc.",3827,Optical Instruments & Lenses,Manufacturing
-PUBC,1575858,Purebase Corp,2870,Agricultural Chemicals,Manufacturing
-BNKK,1760903,"BONK, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-BNET,875729,BION ENVIRONMENTAL TECHNOLOGIES INC,2870,Agricultural Chemicals,Manufacturing
-LCTC,1493137,"Lifeloc Technologies, Inc",3826,Laboratory Analytical Instruments,Manufacturing
-AQMS,1621832,"Aqua Metals, Inc.",3341,Secondary Smelting & Refining of  Nonferrous Metals,Manufacturing
-HWKE,1750777,"Hawkeye Systems, Inc.",3861,Photographic Equipment & Supplies,Manufacturing
-FGI,1864943,FGI Industries Ltd.,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
-PURE,1006028,"PURE BIOSCIENCE, INC.",2890,Miscellaneous Chemical Products,Manufacturing
-CLNV,1391426,Clean Vision Corp,2860,Industrial Organic Chemicals,Manufacturing
-NCL,1923780,Northann Corp.,3089,"Plastics Products, NEC",Manufacturing
-SCND,87802,SCIENTIFIC INDUSTRIES INC,3826,Laboratory Analytical Instruments,Manufacturing
-YCBD,1644903,"cbdMD, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-YHGJ,1042187,YUNHONG GREEN CTI LTD.,3060,"Fabricated Rubber Products, NEC",Manufacturing
-QURT,1549631,"Quarta-Rad, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-MTEN,1948099,Mingteng International Corp Inc.,3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
-SNES,1680378,"SenesTech, Inc.",2870,Agricultural Chemicals,Manufacturing
-LUCY,1808377,Innovative Eyewear Inc,3851,Ophthalmic Goods,Manufacturing
-JCSE,1905511,JE Cleantech Holdings Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
-CRE,2003977,Cre8 Enterprise Ltd,2750,Commercial Printing,Manufacturing
-TANH,1588084,TANTECH HOLDINGS LTD,2860,Industrial Organic Chemicals,Manufacturing
-DQWS,1652561,DSwiss Inc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-APM,1734005,Aptorum Group Ltd,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-EVGN,1574565,Evogene Ltd.,2870,Agricultural Chemicals,Manufacturing
-MWG,1941500,Multi Ways Holdings Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
-MITQ,1770236,MOVING iMAGE TECHNOLOGIES INC.,3861,Photographic Equipment & Supplies,Manufacturing
-GURE,885462,"GULF RESOURCES, INC.",2800,Chemicals & Allied Products,Manufacturing
-DSS,771999,"DSS, INC.",2650,Paperboard Containers & Boxes,Manufacturing
-AREB,1648087,AMERICAN REBEL HOLDINGS INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-FMFC,2024656,Kandal M Venture Ltd,3100,Leather & Leather Products,Manufacturing
-BASA,1448705,"BASANITE, INC.",3990,Miscellaneous Manufacturing Industries,Manufacturing
-NWGL,1948294,CL Workshop Group Ltd,2400,Lumber & Wood Products (No Furniture),Manufacturing
-WNW,1787803,Meiwu Technology Co Ltd,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-POAS,2024258,PHAOS TECHNOLOGY HOLDINGS (CAYMAN) Ltd,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-CNEY,1780785,CN ENERGY GROUP. INC.,2860,Industrial Organic Chemicals,Manufacturing
-HIHO,1026785,HIGHWAY HOLDINGS LTD,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-BYAH,1986247,"Park Ha Biological Technology Co., Ltd.",2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-PLTYF,1433309,"Plastec Technologies, Ltd.",3089,"Plastics Products, NEC",Manufacturing
-ITP,1358190,"IT TECH PACKAGING, INC.",2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-VYST,1308027,Vystar Corp,3060,"Fabricated Rubber Products, NEC",Manufacturing
-SOBR,1425627,"SOBR Safe, Inc.",2721,Periodicals: Publishing or  Publishing & Printing,Manufacturing
-HGYN,1324759,HONG YUAN HOLDING GROUP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-FCUV,1590418,FOCUS UNIVERSAL INC.,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-BNRG,1901215,Brenmiller Energy Ltd.,3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
-XAGE,1842939,"Longevity Health Holdings, Inc.",2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-HGAS,1817232,Global Gas Corp,2810,Industrial Inorganic Chemicals,Manufacturing
-DDDX,1453122,"3DX Industries, Inc.",2750,Commercial Printing,Manufacturing
-STAI,1994624,ScanTech AI Systems Inc.,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-MOT,2099681,MetaOptics Ltd,3827,Optical Instruments & Lenses,Manufacturing
-VAT,2109801,"VARSAL TECH, INC.",2800,Chemicals & Allied Products,Manufacturing
-BLTG,2045873,BOUNDLESS GROUP,3827,Optical Instruments & Lenses,Manufacturing
-STDN,2086716,"Standard Nuclear, Inc.",2810,Industrial Inorganic Chemicals,Manufacturing
-FRTT,2092967,Fort Technology Inc,2870,Agricultural Chemicals,Manufacturing
-APEX,2069858,APEX Global Solutions Ltd,3470,"Coating, Engraving & Allied Services",Manufacturing
-NTMJ,2084296,Nintech Mould Factory Inc.,3089,"Plastics Products, NEC",Manufacturing
-GRVT,2078037,GreenVector Holdings Ltd,3241,"Cement, Hydraulic",Manufacturing
-ORIB,1854183,Orion Bliss Corp.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-TSEOQ,1519061,Trinseo PLC,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-FBDT,1892704,"First Breach, Inc.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-XXC,1875994,XINXU COPPER INDUSTRY TECHNOLOGY Ltd,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-CITR,894556,CitroTech Inc.,2800,Chemicals & Allied Products,Manufacturing
-UNLYF,217410,UNILEVER PLC,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-CTA-PB,30554,"EIDP, Inc.",2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
-CTA-PA,30554,"EIDP, Inc.",2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
-HLNCF,1900304,Haleon plc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-AMSYF,1243429,ArcelorMittal,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-TNRSF,1190723,TENARIS SA,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-CAJPY,16988,CANON INC,3861,Photographic Equipment & Supplies,Manufacturing
-CAJFF,16988,CANON INC,3861,Photographic Equipment & Supplies,Manufacturing
-NWS,1564708,NEWS CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-JHIUF,1159152,James Hardie Industries plc,3272,"Concrete Products, Except Block & Brick",Manufacturing
-AMCCF,1748790,Amcor plc,3990,Miscellaneous Manufacturing Industries,Manufacturing
-BIO-B,12208,"BIO-RAD LABORATORIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-AKZOF,3124,AKZO NOBEL NV,2800,Chemicals & Allied Products,Manufacturing
-ALMMF,1161611,ALUMINUM CORP OF CHINA LTD,3334,Primary Production of  Aluminum,Manufacturing
-CXMSF,1076378,CEMEX SAB DE CV,3241,"Cement, Hydraulic",Manufacturing
-PSORF,938323,PEARSON PLC,2731,Books: Publishing or  Publishing & Printing,Manufacturing
-SPTJF,908732,SINOPEC SHANGHAI PETROCHEMICAL CO LTD,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-GEF-B,43920,"GREIF, INC",3412,"Metal Shipping Barrels, Drums, Kegs & Pails",Manufacturing
-WLYB,107140,"JOHN WILEY & SONS, INC.",2731,Books: Publishing or  Publishing & Printing,Manufacturing
-OLPX,1868726,"OLAPLEX HOLDINGS, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-MTMV,1393044,Motomova Inc,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-ARCXF,1243429,ArcelorMittal,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-AATC,943034,AUTOSCOPE TECHNOLOGIES CORP,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-SLTN,1508786,"SILVERTON ENERGY, INC.",3021,Rubber & Plastics Footwear,Manufacturing
-SUIC,1394108,SUIC Worldwide Holdings Ltd.,2860,Industrial Organic Chemicals,Manufacturing
-RSCF,1103090,"REFLECT SCIENTIFIC, INC.",3821,Laboratory Apparatus & Furniture,Manufacturing
-NUVI,1410708,Emo Capital Corp.,2870,Agricultural Chemicals,Manufacturing
-UCLE,1543623,US NUCLEAR CORP.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-BKTH,1144392,MEGOLA INC,2890,Miscellaneous Chemical Products,Manufacturing
-DPUI,1791929,"DISCOUNT PRINT USA, INC.",2750,Commercial Printing,Manufacturing
-NWSLL,1564708,NEWS CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-QGAI,1663038,Quantum Genesis AI Corp.,2860,Industrial Organic Chemicals,Manufacturing
-LUCYW,1808377,Innovative Eyewear Inc,3851,Ophthalmic Goods,Manufacturing
-OWLTW,1816708,"Owlet, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
-OPTXW,1866816,"SYNTEC OPTICS HOLDINGS, INC.",3827,Optical Instruments & Lenses,Manufacturing
-PCTBP,1830033,"PureCycle Technologies, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-PCTTU,1830033,"PureCycle Technologies, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-PCTTW,1830033,"PureCycle Technologies, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-AMPWF,1845097,Ardagh Metal Packaging S.A.,3411,Metal Cans,Manufacturing
-XAGEW,1842939,"Longevity Health Holdings, Inc.",2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-WALDW,1840199,Waldencast plc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ASTLW,1860805,Algoma Steel Group Inc.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-HGASW,1817232,Global Gas Corp,2810,Industrial Inorganic Chemicals,Manufacturing
-VGASW,1841425,"Verde Clean Fuels, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-SDSTW,1831979,Stardust Power Inc.,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
-NXNVW,1865631,NEXTNAV INC.,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-LNZAW,1843724,"LanzaTech Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-ALBC,1834868,Alternative Ballistics Corp,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-IMSRW,2019804,Terrestrial Energy Inc. /DE/,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-DSYWW,1999297,Big Tree Cloud Holdings Ltd,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-MSAIW,1863990,"MultiSensor AI Holdings, Inc.",3827,Optical Instruments & Lenses,Manufacturing
-FGIWW,1864943,FGI Industries Ltd.,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
-SHFH,2032609,Scientist Home Future Health Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-MOVAA,72573,MOVADO GROUP INC,3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
-INPAP,51434,INTERNATIONAL PAPER CO /NEW/,2621,Paper Mills,Manufacturing
-ALB-PA,915913,ALBEMARLE CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-TMSOF,1075124,THOMSON REUTERS CORP /CAN/,2741,Miscellaneous Publishing,Manufacturing
-BRKRP,1109354,BRUKER CORP,3826,Laboratory Analytical Instruments,Manufacturing
-AERGP,879911,"APPLIED ENERGETICS, INC.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-CSCID,1113423,COSCIENS Biopharma Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-BWNB,1630805,"Babcock & Wilcox Enterprises, Inc.",3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
-BW-PA,1630805,"Babcock & Wilcox Enterprises, Inc.",3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
-AREBW,1648087,AMERICAN REBEL HOLDINGS INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-TGE-WT,2053456,Generation Essentials Group,2721,Periodicals: Publishing or  Publishing & Printing,Manufacturing
+A,0001090872,"AGILENT TECHNOLOGIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+AA,0001675149,Alcoa Corp,3334,Primary Production of  Aluminum,Manufacturing
+AATC,0000943034,AUTOSCOPE TECHNOLOGIES CORP,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+ACA,0001739445,"Arcosa, Inc.",3440,Fabricated Structural Metal Products,Manufacturing
+ACCO,0000712034,ACCO BRANDS Corp,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Manufacturing
+ACNT,0000095953,ASCENT INDUSTRIES CO.,2800,Chemicals & Allied Products,Manufacturing
+ACU,0000002098,ACME UNITED CORP,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+ADUR,0001863934,ADURO CLEAN TECHNOLOGIES INC.,2800,Chemicals & Allied Products,Manufacturing
+AEHR,0001040470,AEHR TEST SYSTEMS,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+AERG,0000879911,"APPLIED ENERGETICS, INC.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+AIOS,0001603993,AIOS Tech Inc.,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+AKZOY,0000003124,AKZO NOBEL NV,2800,Chemicals & Allied Products,Manufacturing
+ALB,0000915913,ALBEMARLE CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+ALBC,0001834868,Alternative Ballistics Corp,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+ALC,0001167379,ALCON INC,3851,Ophthalmic Goods,Manufacturing
+ALMMF,0001161611,ALUMINUM CORP OF CHINA LTD,3334,Primary Production of  Aluminum,Manufacturing
+ALMR,0002104204,"Alamar Biosciences, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+ALNT,0000046129,ALLIENT INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+ALTO,0000778164,"Alto Ingredients, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+AMBP,0001845097,Ardagh Metal Packaging S.A.,3411,Metal Cans,Manufacturing
+AMCR,0001748790,Amcor plc,3990,Miscellaneous Manufacturing Industries,Manufacturing
+AME,0001037868,AMETEK INC/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+AMRZ,0002035989,Amrize Ltd,3241,"Cement, Hydraulic",Manufacturing
+AMTX,0000738214,"AEMETIS, INC",2860,Industrial Organic Chemicals,Manufacturing
+APD,0000002969,"Air Products & Chemicals, Inc.",2810,Industrial Inorganic Chemicals,Manufacturing
+APEX,0002069858,APEX Global Solutions Ltd,3470,"Coating, Engraving & Allied Services",Manufacturing
+APM,0001734005,Aptorum Group Ltd,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+APOG,0000006845,"APOGEE ENTERPRISES, INC.",3231,"Glass Products, Made of  Purchased Glass",Manufacturing
+APWC,0001026980,ASIA PACIFIC WIRE & CABLE CORP LTD,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
+AQMS,0001621832,"Aqua Metals, Inc.",3341,Secondary Smelting & Refining of  Nonferrous Metals,Manufacturing
+AREB,0001648087,AMERICAN REBEL HOLDINGS INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+ARQ,0001515156,"Arq, Inc.",2890,Miscellaneous Chemical Products,Manufacturing
+ASIX,0001673985,AdvanSix Inc.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+ASPI,0001921865,ASP Isotopes Inc.,2890,Miscellaneous Chemical Products,Manufacturing
+ASTC,0001001907,ASTROTECH Corp,3826,Laboratory Analytical Instruments,Manufacturing
+ASTL,0001860805,Algoma Steel Group Inc.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+ATI,0001018963,ATI INC,3317,Steel Pipe & Tubes,Manufacturing
+ATR,0000896622,"APTARGROUP, INC.",3089,"Plastics Products, NEC",Manufacturing
+AVD,0000005981,AMERICAN VANGUARD CORP,2870,Agricultural Chemicals,Manufacturing
+AVNT,0001122976,AVIENT CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+AVTR,0001722482,"Avantor, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+AVY,0000008818,Avery Dennison Corp,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+AWI,0000007431,ARMSTRONG WORLD INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
+AXIL,0001718500,"Axil Brands, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+AXON,0001069183,"AXON ENTERPRISE, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+AXTA,0001616862,Axalta Coating Systems Ltd.,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
+AZZ,0000008947,AZZ INC,3470,"Coating, Engraving & Allied Services",Manufacturing
+BAK,0001071438,BRASKEM SA,2860,Industrial Organic Chemicals,Manufacturing
+BALL,0000009389,BALL Corp,3411,Metal Cans,Manufacturing
+BASA,0001448705,"BASANITE, INC.",3990,Miscellaneous Manufacturing Industries,Manufacturing
+BCHT,0000728385,Birchtech Corp.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+BCPC,0000009326,BALCHEM CORP,2800,Chemicals & Allied Products,Manufacturing
+BDC,0000913142,BELDEN INC.,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
+BFNH,0001310488,"BIOFORCE NANOSCIENCES HOLDINGS, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+BIO,0000012208,"BIO-RAD LABORATORIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+BIOF,0001549145,"BLUE BIOFUELS, INC.",2860,Industrial Organic Chemicals,Manufacturing
+BIOX,0001769484,Bioceres Crop Solutions Corp.,2870,Agricultural Chemicals,Manufacturing
+BIRK,0001977102,Birkenstock Holding plc,3140,"Footwear, (No Rubber)",Manufacturing
+BKTH,0001144392,MEGOLA INC,2890,Miscellaneous Chemical Products,Manufacturing
+BLCO,0001860742,Bausch & Lomb Corp,3851,Ophthalmic Goods,Manufacturing
+BLGO,0000880242,"BIOLARGO, INC.",2800,Chemicals & Allied Products,Manufacturing
+BLTG,0002045873,BOUNDLESS GROUP,3827,Optical Instruments & Lenses,Manufacturing
+BMI,0000009092,BADGER METER INC,3824,Totalizing Fluid Meters & Counting Devices,Manufacturing
+BNET,0000875729,BION ENVIRONMENTAL TECHNOLOGIES INC,2870,Agricultural Chemicals,Manufacturing
+BNGO,0001411690,"Bionano Genomics, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+BNKK,0001760903,"BONK, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+BNRG,0001901215,Brenmiller Energy Ltd.,3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
+BOOM,0000034067,DMC Global Inc.,3390,Miscellaneous Primary Metal Products,Manufacturing
+BRC,0000746598,BRADY CORP,3990,Miscellaneous Manufacturing Industries,Manufacturing
+BRKR,0001109354,BRUKER CORP,3826,Laboratory Analytical Instruments,Manufacturing
+BRLT,0001866757,"Brilliant Earth Group, Inc.",3910,"Jewelry, Silverware & Plated Ware",Manufacturing
+BW,0001630805,"Babcock & Wilcox Enterprises, Inc.",3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
+BWEN,0001120370,"BROADWIND, INC.",3360,Nonferrous Foundries (Castings),Manufacturing
+BYAH,0001986247,"Park Ha Biological Technology Co., Ltd.",2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+CABR,0002020737,"Caring Brands, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+CAJPY,0000016988,CANON INC,3861,Photographic Equipment & Supplies,Manufacturing
+CAL,0000014707,CALERES INC,3140,"Footwear, (No Rubber)",Manufacturing
+CAMT,0001109138,CAMTEK LTD,3827,Optical Instruments & Lenses,Manufacturing
+CBT,0000016040,CABOT CORP,2890,Miscellaneous Chemical Products,Manufacturing
+CBUS,0001705843,"Cibus, Inc.",2870,Agricultural Chemicals,Manufacturing
+CC,0001627223,Chemours Co,2800,Chemicals & Allied Products,Manufacturing
+CCK,0001219601,"CROWN HOLDINGS, INC.",3411,Metal Cans,Manufacturing
+CDXS,0001200375,"CODEXIS, INC.",2860,Industrial Organic Chemicals,Manufacturing
+CE,0001306830,Celanese Corp,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
+CENX,0000949157,CENTURY ALUMINUM CO,3334,Primary Production of  Aluminum,Manufacturing
+CF,0001324404,"CF Industries Holdings, Inc.",2870,Agricultural Chemicals,Manufacturing
+CGNX,0000851205,COGNEX CORP,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+CHD,0000313927,CHURCH & DWIGHT CO INC /DE/,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+CITR,0000894556,CitroTech Inc.,2800,Chemicals & Allied Products,Manufacturing
+CIX,0001049606,COMPX INTERNATIONAL INC,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+CL,0000021665,COLGATE PALMOLIVE CO,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+CLIR,0001434524,ClearSign Technologies Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+CLNV,0001391426,Clean Vision Corp,2860,Industrial Organic Chemicals,Manufacturing
+CLW,0001441236,Clearwater Paper Corp,2631,Paperboard Mills,Manufacturing
+CLX,0000021076,CLOROX CO /DE/,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
+CMC,0000022444,COMMERCIAL METALS Co,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+CMPR,0001262976,CIMPRESS plc,2750,Commercial Printing,Manufacturing
+CMT,0001026655,CORE MOLDING TECHNOLOGIES INC,3089,"Plastics Products, NEC",Manufacturing
+CNEY,0001780785,CN ENERGY GROUP. INC.,2860,Industrial Organic Chemicals,Manufacturing
+CODA,0001334325,"Coda Octopus Group, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+COHR,0000820318,COHERENT CORP.,3827,Optical Instruments & Lenses,Manufacturing
+COHU,0000021535,COHU INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+COO,0000711404,"COOPER COMPANIES, INC.",3851,Ophthalmic Goods,Manufacturing
+COTY,0001024305,COTY INC.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+CPAC,0001221029,CEMENTOS PACASMAYO SAA,3241,"Cement, Hydraulic",Manufacturing
+CPRI,0001530721,Capri Holdings Ltd,3100,Leather & Leather Products,Manufacturing
+CPSH,0000814676,CPS TECHNOLOGIES CORP/DE/,3260,Pottery & Related Products,Manufacturing
+CR,0001944013,Crane Co,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+CRE,0002003977,Cre8 Enterprise Ltd,2750,Commercial Printing,Manufacturing
+CRH,0000849395,CRH PUBLIC LTD CO,3241,"Cement, Hydraulic",Manufacturing
+CROX,0001334036,"Crocs, Inc.",3021,Rubber & Plastics Footwear,Manufacturing
+CRS,0000017843,CARPENTER TECHNOLOGY CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+CSCID,0001113423,COSCIENS Biopharma Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+CSDX,0001106861,CS DIAGNOSTICS CORP.,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
+CSL,0000790051,CARLISLE COMPANIES INC,3060,"Fabricated Rubber Products, NEC",Manufacturing
+CSTE,0001504379,Caesarstone Ltd.,3281,Cut Stone & Stone Products,Manufacturing
+CSTM,0001563411,CONSTELLIUM SE,3341,Secondary Smelting & Refining of  Nonferrous Metals,Manufacturing
+CSW,0001624794,"CSW INDUSTRIALS, INC.",2891,Adhesives & Sealants,Manufacturing
+CTKB,0001831915,"Cytek Biosciences, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+CVCO,0000278166,"CAVCO INDUSTRIES, INC.",2451,Mobile Homes,Manufacturing
+CX,0001076378,CEMEX SAB DE CV,3241,"Cement, Hydraulic",Manufacturing
+CXT,0000025445,"Crane NXT, Co.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
+DAIO,0000351998,DATA I/O CORP,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+DAKT,0000915779,DAKTRONICS INC /SD/,3990,Miscellaneous Manufacturing Industries,Manufacturing
+DD,0001666700,"DuPont de Nemours, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+DDDX,0001453122,"3DX Industries, Inc.",2750,Commercial Printing,Manufacturing
+DECK,0000910521,DECKERS OUTDOOR CORP,3021,Rubber & Plastics Footwear,Manufacturing
+DETX,0001919776,"LIBERTY DEFENSE HOLDINGS, LTD.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+DHR,0000313616,DANAHER CORP /DE/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+DJCO,0000783412,DAILY JOURNAL CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+DLX,0000027996,DELUXE CORP,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Manufacturing
+DOGZ,0001707303,Dogness (International) Corp,3990,Miscellaneous Manufacturing Industries,Manufacturing
+DOW,0001751788,DOW INC.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+DPC,0002107018,DPC Holdings Ltd,3360,Nonferrous Foundries (Castings),Manufacturing
+DPUI,0001791929,"DISCOUNT PRINT USA, INC.",2750,Commercial Printing,Manufacturing
+DRS,0001833756,"Leonardo DRS, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+DSS,0000771999,"DSS, INC.",2650,Paperboard Containers & Boxes,Manufacturing
+DSWL,0000946936,DESWELL INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
+DSY,0001999297,Big Tree Cloud Holdings Ltd,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+EBF,0000033002,"ENNIS, INC.",2761,Manifold Business Forms,Manufacturing
+ECL,0000031462,ECOLAB INC.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+ECVT,0001708035,Ecovyst Inc.,2800,Chemicals & Allied Products,Manufacturing
+EL,0001001250,ESTEE LAUDER COMPANIES INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ELF,0001600033,"e.l.f. Beauty, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ELMT,0002101698,Elmet Group Co.,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+ELSE,0000351789,ELECTRO SENSORS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+EML,0000031107,EASTERN CO,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+EMN,0000915389,EASTMAN CHEMICAL CO,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+EMPG,0002005569,Empro Group Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ENTG,0001101302,ENTEGRIS INC,3089,"Plastics Products, NEC",Manufacturing
+EPC,0001096752,EDGEWELL PERSONAL CARE Co,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ESI,0001590714,Element Solutions Inc,2890,Miscellaneous Chemical Products,Manufacturing
+EVGN,0001574565,Evogene Ltd.,2870,Agricultural Chemicals,Manufacturing
+EXP,0000918646,EAGLE MATERIALS INC,3241,"Cement, Hydraulic",Manufacturing
+EYE,0001710155,"National Vision Holdings, Inc.",3851,Ophthalmic Goods,Manufacturing
+EYPT,0001314102,"EyePoint, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+FBDT,0001892704,"First Breach, Inc.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+FBIN,0001519751,"Fortune Brands Innovations, Inc.",2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Manufacturing
+FCUV,0001590418,FOCUS UNIVERSAL INC.,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+FEIM,0000039020,FREQUENCY ELECTRONICS INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+FF,0001337298,FutureFuel Corp.,2860,Industrial Organic Chemicals,Manufacturing
+FGI,0001864943,FGI Industries Ltd.,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
+FMC,0000037785,FMC CORP,2800,Chemicals & Allied Products,Manufacturing
+FMFC,0002024656,Kandal M Venture Ltd,3100,Leather & Leather Products,Manufacturing
+FOSL,0000883569,"Fossil Group, Inc.",3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
+FRD,0000039092,FRIEDMAN INDUSTRIES INC,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+FRTT,0002092967,Fort Technology Inc,2870,Agricultural Chemicals,Manufacturing
+FSI,0001069394,FLEXIBLE SOLUTIONS INTERNATIONAL INC,2890,Miscellaneous Chemical Products,Manufacturing
+FTK,0000928054,FLOTEK INDUSTRIES INC/CN/,2890,Miscellaneous Chemical Products,Manufacturing
+FTV,0001659166,Fortive Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+FUL,0000039368,FULLER H B CO,2891,Adhesives & Sealants,Manufacturing
+GEF,0000043920,"GREIF, INC",3412,"Metal Shipping Barrels, Drums, Kegs & Pails",Manufacturing
+GEOS,0001001115,GEOSPACE TECHNOLOGIES CORP,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+GEVO,0001392380,"Gevo, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+GFF,0000050725,GRIFFON CORP,3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
+GGB,0001073404,GERDAU S.A.,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+GLW,0000024741,CORNING INC /NY,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
+GPK,0001408075,GRAPHIC PACKAGING HOLDING CO,2650,Paperboard Containers & Boxes,Manufacturing
+GPRE,0001309402,Green Plains Inc.,2860,Industrial Organic Chemicals,Manufacturing
+GPRO,0001500435,"GoPro, Inc.",3861,Photographic Equipment & Supplies,Manufacturing
+GRMN,0001121788,GARMIN LTD,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+GRVT,0002078037,GreenVector Holdings Ltd,3241,"Cement, Hydraulic",Manufacturing
+GT,0000042582,GOODYEAR TIRE & RUBBER CO /OH/,3011,Tires & Inner Tubes,Manufacturing
+GTLS,0000892553,CHART INDUSTRIES INC,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+GURE,0000885462,"GULF RESOURCES, INC.",2800,Chemicals & Allied Products,Manufacturing
+GWTI,0001572386,"GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES",2860,Industrial Organic Chemicals,Manufacturing
+HBIO,0001123494,HARVARD BIOSCIENCE INC,3826,Laboratory Analytical Instruments,Manufacturing
+HCAI,0001958399,"Huachen AI Parking Management Technology Holding Co., Ltd",3990,Miscellaneous Manufacturing Industries,Manufacturing
+HGAS,0001817232,Global Gas Corp,2810,Industrial Inorganic Chemicals,Manufacturing
+HGYN,0001324759,HONG YUAN HOLDING GROUP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+HIHO,0001026785,HIGHWAY HOLDINGS LTD,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+HLIO,0001024795,"HELIOS TECHNOLOGIES, INC.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
+HLMN,0001822492,Hillman Solutions Corp.,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+HLN,0001900304,Haleon plc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+HUDI,0001791725,"Huadi International Group Co., Ltd.",3317,Steel Pipe & Tubes,Manufacturing
+HUHU,0001945415,HUHUTECH International Group Inc.,3360,Nonferrous Foundries (Castings),Manufacturing
+HUN,0001307954,Huntsman CORP,2800,Chemicals & Allied Products,Manufacturing
+HURC,0000315374,HURCO COMPANIES INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+HWKE,0001750777,"Hawkeye Systems, Inc.",3861,Photographic Equipment & Supplies,Manufacturing
+HWM,0000004281,Howmet Aerospace Inc.,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+HXL,0000717605,HEXCEL CORP /DE/,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+ICL,0000941221,ICL Group Ltd.,2870,Agricultural Chemicals,Manufacturing
+IFF,0000051253,INTERNATIONAL FLAVORS & FRAGRANCES INC,2860,Industrial Organic Chemicals,Manufacturing
+IIIN,0000764401,INSTEEL INDUSTRIES INC,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+ILMN,0001110803,"ILLUMINA, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+IMAX,0000921582,IMAX CORP,3861,Photographic Equipment & Supplies,Manufacturing
+IMSR,0002019804,Terrestrial Energy Inc. /DE/,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+INIS,0001038277,RADNOSTIX INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+INTT,0001036262,INTEST CORP,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+IOSP,0001054905,INNOSPEC INC.,2800,Chemicals & Allied Products,Manufacturing
+IP,0000051434,INTERNATIONAL PAPER CO /NEW/,2621,Paper Mills,Manufacturing
+IPAR,0000822663,INTERPARFUMS INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ITP,0001358190,"IT TECH PACKAGING, INC.",2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+ITRI,0000780571,"ITRON, INC.",3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+JBDI,0001964314,JBDI Holdings Ltd,3412,"Metal Shipping Barrels, Drums, Kegs & Pails",Manufacturing
+JBI,0001839839,"Janus International Group, Inc.",3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
+JCSE,0001905511,JE Cleantech Holdings Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
+JELD,0001674335,"JELD-WEN Holding, Inc.",2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Manufacturing
+JHX,0001159152,James Hardie Industries plc,3272,"Concrete Products, Except Block & Brick",Manufacturing
+KALU,0000811596,KAISER ALUMINUM CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+KARX,0001729637,Karbon-X Corp.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+KBLB,0001413119,"Kraig Biocraft Laboratories, Inc.",2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
+KEQU,0000055529,KEWAUNEE SCIENTIFIC CORP /DE/,3821,Laboratory Apparatus & Furniture,Manufacturing
+KEYS,0001601046,"Keysight Technologies, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+KLAC,0000319201,KLA CORP,3827,Optical Instruments & Lenses,Manufacturing
+KMB,0000055785,KIMBERLY CLARK CORP,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+KODK,0000031235,EASTMAN KODAK CO,3861,Photographic Equipment & Supplies,Manufacturing
+KOP,0001315257,Koppers Holdings Inc.,2400,Lumber & Wood Products (No Furniture),Manufacturing
+KRO,0001257640,KRONOS WORLDWIDE INC,2810,Industrial Inorganic Chemicals,Manufacturing
+KRT,0001758021,Karat Packaging Inc.,3089,"Plastics Products, NEC",Manufacturing
+KVUE,0001944048,Kenvue Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+LAB,0001162194,STANDARD BIOTOOLS INC.,3826,Laboratory Analytical Instruments,Manufacturing
+LCTC,0001493137,"Lifeloc Technologies, Inc",3826,Laboratory Analytical Instruments,Manufacturing
+LCUT,0000874396,"LIFETIME BRANDS, INC",3420,"Cutlery, Handtools & General Hardware",Manufacturing
+LEE,0000058361,"LEE ENTERPRISES, Inc",2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+LEGH,0001436208,Legacy Housing Corp,2451,Mobile Homes,Manufacturing
+LHX,0000202058,"L3HARRIS TECHNOLOGIES, INC. /DE/",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+LIN,0001707925,LINDE PLC,2810,Industrial Inorganic Chemicals,Manufacturing
+LNZA,0001843724,"LanzaTech Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+LODE,0001120970,Comstock Inc.,2860,Industrial Organic Chemicals,Manufacturing
+LOMA,0001711375,Loma Negra Compania Industrial Argentina Sociedad Anonima,3241,"Cement, Hydraulic",Manufacturing
+LOOP,0001504678,"Loop Industries, Inc.",2800,Chemicals & Allied Products,Manufacturing
+LPX,0000060519,LOUISIANA-PACIFIC CORP,2400,Lumber & Wood Products (No Furniture),Manufacturing
+LQMT,0001141240,LIQUIDMETAL TECHNOLOGIES INC,2800,Chemicals & Allied Products,Manufacturing
+LTBR,0001084554,LIGHTBRIDGE Corp,2810,Industrial Inorganic Chemicals,Manufacturing
+LUCY,0001808377,Innovative Eyewear Inc,3851,Ophthalmic Goods,Manufacturing
+LUD,0001984124,Luda Technology Group Ltd,3317,Steel Pipe & Tubes,Manufacturing
+LUNR,0001844452,"Intuitive Machines, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+LWLG,0001325964,"Lightwave Logic, Inc.",3080,Miscellaneous Plastics Products,Manufacturing
+LXFR,0001096056,LUXFER HOLDINGS PLC,2810,Industrial Inorganic Chemicals,Manufacturing
+LXU,0000060714,"LSB INDUSTRIES, INC.",2810,Industrial Inorganic Chemicals,Manufacturing
+LYB,0001489393,LyondellBasell Industries N.V.,2860,Industrial Organic Chemicals,Manufacturing
+MAGN,0000041719,Magnera Corp,2621,Paper Mills,Manufacturing
+MAS,0000062996,MASCO CORP /DE/,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
+MASS,0001555279,908 Devices Inc.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+MATV,0001000623,"Mativ Holdings, Inc.",2621,Paper Mills,Manufacturing
+MATW,0000063296,MATTHEWS INTERNATIONAL CORP,3360,Nonferrous Foundries (Castings),Manufacturing
+MEC,0001766368,"Mayville Engineering Company, Inc.",3460,Metal Forgings & Stampings,Manufacturing
+MEOH,0000886977,METHANEX CORP,2860,Industrial Organic Chemicals,Manufacturing
+MERC,0001333274,MERCER INTERNATIONAL INC.,2611,Pulp Mills,Manufacturing
+MGIH,0001903995,Millennium Group International Holdings Ltd,2750,Commercial Printing,Manufacturing
+MH,0001951070,"McGraw Hill, Inc.",2741,Miscellaneous Publishing,Manufacturing
+MIND,0000926423,"MIND TECHNOLOGY, INC",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+MIR,0001809987,"Mirion Technologies, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
+MITQ,0001770236,MOVING iMAGE TECHNOLOGIES INC.,3861,Photographic Equipment & Supplies,Manufacturing
+MKSI,0001049502,MKS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+MLAB,0000724004,MESA LABORATORIES INC /CO/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+MLI,0000089439,MUELLER INDUSTRIES INC,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+MOS,0001285785,MOSAIC CO,2870,Agricultural Chemicals,Manufacturing
+MOT,0002099681,MetaOptics Ltd,3827,Optical Instruments & Lenses,Manufacturing
+MOV,0000072573,MOVADO GROUP INC,3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
+MSAI,0001863990,"MultiSensor AI Holdings, Inc.",3827,Optical Instruments & Lenses,Manufacturing
+MT,0001243429,ArcelorMittal,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+MTD,0001037646,METTLER TOLEDO INTERNATIONAL INC/,3826,Laboratory Analytical Instruments,Manufacturing
+MTEN,0001948099,Mingteng International Corp Inc.,3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
+MTMV,0001393044,Motomova Inc,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+MTRN,0001104657,MATERION Corp,3460,Metal Forgings & Stampings,Manufacturing
+MTUS,0001598428,Metallus Inc.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+MTX,0000891014,MINERALS TECHNOLOGIES INC,2810,Industrial Inorganic Chemicals,Manufacturing
+MWA,0001350593,"Mueller Water Products, Inc.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
+MWG,0001941500,Multi Ways Holdings Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
+MYE,0000069488,MYERS INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
+NAUT,0001808805,"Nautilus Biotechnology, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+NCL,0001923780,Northann Corp.,3089,"Plastics Products, NEC",Manufacturing
+NEU,0001282637,NEWMARKET CORP,2860,Industrial Organic Chemicals,Manufacturing
+NEWH,0001371128,"NewHydrogen, Inc.",3081,Unsupported Plastics Film & Sheet,Manufacturing
+NGVT,0001653477,Ingevity Corp,2800,Chemicals & Allied Products,Manufacturing
+NKE,0000320187,"NIKE, Inc.",3021,Rubber & Plastics Footwear,Manufacturing
+NKLR,0002067627,Terra Innovatum Global N.V.,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+NL,0000072162,NL INDUSTRIES INC,2810,Industrial Inorganic Chemicals,Manufacturing
+NN,0001865631,NEXTNAV INC.,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+NOBH,0000072205,NOBILITY HOMES INC,2451,Mobile Homes,Manufacturing
+NOC,0001133421,NORTHROP GRUMMAN CORP /DE/,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+NPK,0000080172,NATIONAL PRESTO INDUSTRIES INC,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+NPO,0001164863,Enpro Inc.,3050,"Gaskets, Packg & Sealg Devices & Rubber & Plastics Hose",Manufacturing
+NTIC,0000875582,NORTHERN TECHNOLOGIES INTERNATIONAL CORP,3470,"Coating, Engraving & Allied Services",Manufacturing
+NTMJ,0002084296,Nintech Mould Factory Inc.,3089,"Plastics Products, NEC",Manufacturing
+NTR,0001725964,Nutrien Ltd.,2870,Agricultural Chemicals,Manufacturing
+NUE,0000073309,NUCOR CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+NUVI,0001410708,Emo Capital Corp.,2870,Agricultural Chemicals,Manufacturing
+NVMI,0001109345,NOVA LTD.,3827,Optical Instruments & Lenses,Manufacturing
+NWGL,0001948294,CL Workshop Group Ltd,2400,Lumber & Wood Products (No Furniture),Manufacturing
+NWL,0000814453,NEWELL BRANDS INC.,3089,"Plastics Products, NEC",Manufacturing
+NWPX,0001001385,"NWPX Infrastructure, Inc.",3317,Steel Pipe & Tubes,Manufacturing
+NWSA,0001564708,NEWS CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+NX,0001423221,Quanex Building Products CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+NYT,0000071691,NEW YORK TIMES CO,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+OC,0001370946,Owens Corning,3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Manufacturing
+OCC,0001000230,OPTICAL CABLE CORP,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
+ODC,0000074046,Oil-Dri Corp of America,3990,Miscellaneous Manufacturing Industries,Manufacturing
+ODD,0001907085,Oddity Tech Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+OEC,0001609804,Orion S.A.,2890,Miscellaneous Chemical Products,Manufacturing
+OFLX,0001317945,"Omega Flex, Inc.",3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
+OI,0000812074,"O-I Glass, Inc. /DE/",3221,Glass Containers,Manufacturing
+OLN,0000074303,OLIN Corp,2800,Chemicals & Allied Products,Manufacturing
+OLPX,0001868726,"OLAPLEX HOLDINGS, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ONON,0001858985,On Holding AG,3021,Rubber & Plastics Footwear,Manufacturing
+ONTO,0000704532,ONTO INNOVATION INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+OPTX,0001866816,"SYNTEC OPTICS HOLDINGS, INC.",3827,Optical Instruments & Lenses,Manufacturing
+OPXS,0001397016,Optex Systems Holdings Inc,3827,Optical Instruments & Lenses,Manufacturing
+ORIB,0001854183,Orion Bliss Corp.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+OWLT,0001816708,"Owlet, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
+PACB,0001299130,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+PACK,0001712463,Ranpak Holdings Corp.,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+PCT,0001830033,"PureCycle Technologies, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+PG,0000080424,PROCTER & GAMBLE Co,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+PH,0000076334,Parker-Hannifin Corp,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+PKG,0000075677,PACKAGING CORP OF AMERICA,2650,Paperboard Containers & Boxes,Manufacturing
+PKOH,0000076282,PARK OHIO HOLDINGS CORP,3460,Metal Forgings & Stampings,Manufacturing
+PKX,0000889132,POSCO HOLDINGS INC.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+PMTS,0001641614,CPI Card Group Inc.,2750,Commercial Printing,Manufacturing
+POAS,0002024258,PHAOS TECHNOLOGY HOLDINGS (CAYMAN) Ltd,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+PPG,0000079879,PPG INDUSTRIES INC,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
+PRLB,0001443669,Proto Labs Inc,3440,Fabricated Structural Metal Products,Manufacturing
+PRM,0001880319,"Perimeter Solutions, Inc.",2800,Chemicals & Allied Products,Manufacturing
+PRPO,0001043961,"Precipio, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+PSO,0000938323,PEARSON PLC,2731,Books: Publishing or  Publishing & Printing,Manufacturing
+PTNM,0002046573,Pitanium Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+PUBC,0001575858,Purebase Corp,2870,Agricultural Chemicals,Manufacturing
+PURE,0001006028,"PURE BIOSCIENCE, INC.",2890,Miscellaneous Chemical Products,Manufacturing
+QSI,0001816431,Quantum-Si Inc,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+QTRX,0001503274,Quanterix Corp,3826,Laboratory Analytical Instruments,Manufacturing
+QTZM,0001663038,Quantum Genesis AI Corp.,2860,Industrial Organic Chemicals,Manufacturing
+QUAD,0001481792,"Quad/Graphics, Inc.",2750,Commercial Printing,Manufacturing
+QURT,0001549631,"Quarta-Rad, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+RAL,0002041385,Ralliant Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+RCKY,0000895456,"ROCKY BRANDS, INC.",3140,"Footwear, (No Rubber)",Manufacturing
+RECT,0001995116,Rectitude Holdings Ltd.,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+RETO,0001687277,"ReTo Eco-Solutions, Inc.",3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Manufacturing
+REX,0000744187,REX AMERICAN RESOURCES Corp,2860,Industrial Organic Chemicals,Manufacturing
+REYN,0001786431,Reynolds Consumer Products Inc.,2673,"Plastics, Foil & Coated Paper Bags",Manufacturing
+RGR,0000095029,STURM RUGER & CO INC,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+RMIX,0002094433,"Suncrete, Inc.",3272,"Concrete Products, Except Block & Brick",Manufacturing
+ROCK,0000912562,"GIBRALTAR INDUSTRIES, INC.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+ROG,0000084748,ROGERS CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+ROK,0001024478,"ROCKWELL AUTOMATION, INC",3829,"Measuring & Controlling Devices, NEC",Manufacturing
+ROP,0000882835,ROPER TECHNOLOGIES INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+RPID,0001380106,"RAPID MICRO BIOSYSTEMS, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+RPM,0000110621,RPM INTERNATIONAL INC/DE/,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
+RSCF,0001103090,"REFLECT SCIENTIFIC, INC.",3821,Laboratory Apparatus & Furniture,Manufacturing
+RVTY,0000031791,"REVVITY, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+RXST,0001111485,"RxSight, Inc.",3851,Ophthalmic Goods,Manufacturing
+RYAM,0001597672,RAYONIER ADVANCED MATERIALS INC.,2611,Pulp Mills,Manufacturing
+SAFX,0002019793,"XCF Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+SCHL,0000866729,SCHOLASTIC CORP,2731,Books: Publishing or  Publishing & Printing,Manufacturing
+SCL,0000094049,STEPAN CO,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+SCND,0000087802,SCIENTIFIC INDUSTRIES INC,3826,Laboratory Analytical Instruments,Manufacturing
+SDST,0001831979,Stardust Power Inc.,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
+SEER,0001726445,"Seer, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+SENS,0001616543,"Senseonics Holdings, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+SFHG,0001926792,SAMFINE CREATION HOLDINGS GROUP Ltd,2750,Commercial Printing,Manufacturing
+SHFH,0002032609,Scientist Home Future Health Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+SHOO,0000913241,"STEVEN MADDEN, LTD.",3140,"Footwear, (No Rubber)",Manufacturing
+SID,0001049659,NATIONAL STEEL CO,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+SIM,0000887153,"GRUPO SIMEC, S.A.B. de C.V.",3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+SKY,0000090896,"Champion Homes, Inc.",2451,Mobile Homes,Manufacturing
+SLGN,0000849869,SILGAN HOLDINGS INC,3411,Metal Cans,Manufacturing
+SLI,0001537137,STANDARD LITHIUM LTD.,2800,Chemicals & Allied Products,Manufacturing
+SLSN,0000883107,"SOLESENCE, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+SLTN,0001508786,"SILVERTON ENERGY, INC.",3021,Rubber & Plastics Footwear,Manufacturing
+SLVM,0001856485,Sylvamo Corp,2621,Paper Mills,Manufacturing
+SMG,0000825542,SCOTTS MIRACLE-GRO CO,2870,Agricultural Chemicals,Manufacturing
+SMID,0000924719,SMITH MIDLAND CORP,3272,"Concrete Products, Except Block & Brick",Manufacturing
+SMR,0001822966,NUSCALE POWER Corp,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+SNA,0000091440,Snap-on Inc,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+SNES,0001680378,"SenesTech, Inc.",2870,Agricultural Chemicals,Manufacturing
+SOBR,0001425627,"SOBR Safe, Inc.",2721,Periodicals: Publishing or  Publishing & Printing,Manufacturing
+SOLS,0002064953,Solstice Advanced Materials Inc.,2800,Chemicals & Allied Products,Manufacturing
+SON,0000091767,SONOCO PRODUCTS CO,2650,Paperboard Containers & Boxes,Manufacturing
+SPTJF,0000908732,SINOPEC SHANGHAI PETROCHEMICAL CO LTD,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+SSD,0000920371,"Simpson Manufacturing Co., Inc.",3420,"Cutlery, Handtools & General Hardware",Manufacturing
+ST,0001477294,Sensata Technologies Holding plc,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+STAA,0000718937,STAAR SURGICAL CO,3851,Ophthalmic Goods,Manufacturing
+STAI,0001994624,ScanTech AI Systems Inc.,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+STDN,0002086716,"Standard Nuclear, Inc.",2810,Industrial Inorganic Chemicals,Manufacturing
+STLD,0001022671,STEEL DYNAMICS INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+SUIC,0001394108,SUIC Worldwide Holdings Ltd.,2860,Industrial Organic Chemicals,Manufacturing
+SUZ,0000909327,Suzano S.A.,2621,Paper Mills,Manufacturing
+SW,0002005951,Smurfit Westrock plc,2650,Paperboard Containers & Boxes,Manufacturing
+SWBI,0001092796,"SMITH & WESSON BRANDS, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+SWIM,0001833197,"Latham Group, Inc.",3089,"Plastics Products, NEC",Manufacturing
+SWK,0000093556,"STANLEY BLACK & DECKER, INC.",3420,"Cutlery, Handtools & General Hardware",Manufacturing
+SXC,0001514705,"SunCoke Energy, Inc.",3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+SXT,0000310142,SENSIENT TECHNOLOGIES CORP,2860,Industrial Organic Chemicals,Manufacturing
+SYPR,0000864240,SYPRIS SOLUTIONS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+TANH,0001588084,TANTECH HOLDINGS LTD,2860,Industrial Organic Chemicals,Manufacturing
+TDAY,0001579684,"USA TODAY Co., Inc.",2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+TDY,0001094285,TELEDYNE TECHNOLOGIES INC,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+TER,0000097210,"TERADYNE, INC",3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+TG,0000850429,TREDEGAR CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+TGE,0002053456,Generation Essentials Group,2721,Periodicals: Publishing or  Publishing & Printing,Manufacturing
+TGLS,0001534675,Tecnoglass Inc.,3211,Flat Glass,Manufacturing
+TLF,0000909724,TANDY LEATHER FACTORY INC,3100,Leather & Leather Products,Manufacturing
+TMO,0000097745,THERMO FISHER SCIENTIFIC INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+TOMZ,0000314227,"TOMI Environmental Solutions, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+TPCS,0001328792,TECHPRECISION CORP,3440,Fabricated Structural Metal Products,Manufacturing
+TPR,0001116132,"TAPESTRY, INC.",3100,Leather & Leather Products,Manufacturing
+TREX,0001069878,TREX CO INC,2400,Lumber & Wood Products (No Furniture),Manufacturing
+TRI,0001075124,THOMSON REUTERS CORP /CAN/,2741,Miscellaneous Publishing,Manufacturing
+TRMB,0000864749,TRIMBLE INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+TRNS,0000099302,TRANSCAT INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+TROX,0001530804,Tronox Holdings plc,2810,Industrial Inorganic Chemicals,Manufacturing
+TRS,0000842633,TRIMAS CORP,3460,Metal Forgings & Stampings,Manufacturing
+TS,0001190723,TENARIS SA,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+TSEOQ,0001519061,Trinseo PLC,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+TT,0001466258,Trane Technologies plc,3822,Auto Controls For Regulating Residential & Comml Environments,Manufacturing
+TWI,0000899751,TITAN INTERNATIONAL INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+TX,0001342874,Ternium S.A.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+TXG,0001770787,"10x Genomics, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+UAMY,0000101538,UNITED STATES ANTIMONY CORP,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
+UAN,0001425292,"CVR PARTNERS, LP",2870,Agricultural Chemicals,Manufacturing
+UCLE,0001543623,US NUCLEAR CORP.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+UFPI,0000912767,UFP INDUSTRIES INC,2421,"Sawmills & Planting Mills, General",Manufacturing
+UG,0000101295,UNITED GUARDIAN INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+UL,0000217410,UNILEVER PLC,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+VAT,0002109801,"VARSAL TECH, INC.",2800,Chemicals & Allied Products,Manufacturing
+VATE,0001006837,INNOVATE Corp.,3440,Fabricated Structural Metal Products,Manufacturing
+VGAS,0001841425,"Verde Clean Fuels, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+VHI,0000059255,VALHI INC /DE/,2810,Industrial Inorganic Chemicals,Manufacturing
+VLTO,0001967680,Veralto Corp,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+VMI,0000102729,VALMONT INDUSTRIES INC,3440,Fabricated Structural Metal Products,Manufacturing
+VNT,0001786842,Vontier Corp,3824,Totalizing Fluid Meters & Counting Devices,Manufacturing
+VRA,0001495320,"Vera Bradley, Inc.",3100,Leather & Leather Products,Manufacturing
+VTSI,0001085243,"VirTra, Inc",3990,Miscellaneous Manufacturing Industries,Manufacturing
+VYST,0001308027,Vystar Corp,3060,"Fabricated Rubber Products, NEC",Manufacturing
+WALD,0001840199,Waldencast plc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+WAT,0001000697,WATERS CORP /DE/,3826,Laboratory Analytical Instruments,Manufacturing
+WBTN,0001997859,WEBTOON Entertainment Inc.,2741,Miscellaneous Publishing,Manufacturing
+WDFC,0000105132,WD 40 CO,2890,Miscellaneous Chemical Products,Manufacturing
+WFF,0001980210,WF Holding Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
+WFG,0001402388,"WEST FRASER TIMBER CO., LTD",2421,"Sawmills & Planting Mills, General",Manufacturing
+WLK,0001262823,WESTLAKE CORP,2860,Industrial Organic Chemicals,Manufacturing
+WLKP,0001604665,Westlake Chemical Partners LP,2860,Industrial Organic Chemicals,Manufacturing
+WLY,0000107140,"JOHN WILEY & SONS, INC.",2731,Books: Publishing or  Publishing & Printing,Manufacturing
+WMS,0001604028,"ADVANCED DRAINAGE SYSTEMS, INC.",3086,Plastics Foam Products,Manufacturing
+WNDW,0001071840,"SolarWindow Technologies, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+WNW,0001787803,Meiwu Technology Co Ltd,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+WOR,0000108516,"WORTHINGTON ENTERPRISES, INC.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+WRAP,0001702924,"WRAP TECHNOLOGIES, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+WRBY,0001504776,Warby Parker Inc.,3851,Ophthalmic Goods,Manufacturing
+WTS,0000795403,WATTS WATER TECHNOLOGIES INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+WWW,0000110471,WOLVERINE WORLD WIDE INC /DE/,3140,"Footwear, (No Rubber)",Manufacturing
+XAGE,0001842939,"Longevity Health Holdings, Inc.",2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+XE,0002088896,"X-Energy, Inc.",3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+XPEL,0001767258,"XPEL, Inc.",3470,"Coating, Engraving & Allied Services",Manufacturing
+XXC,0001875994,XINXU COPPER INDUSTRY TECHNOLOGY Ltd,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+YCBD,0001644903,"cbdMD, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+YHGJ,0001042187,YUNHONG GREEN CTI LTD.,3060,"Fabricated Rubber Products, NEC",Manufacturing
+YSG,0001819580,Yatsen Holding Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ZHJD,0001794276,Intelligent Hotel Group Ltd.,2870,Agricultural Chemicals,Manufacturing
+ZJK,0001941506,"ZJK Industrial Co., Ltd.",3452,"Bolts, Nuts, Screws, Rivets & Washers",Manufacturing
+ZKIN,0001687451,"ZK International Group Co., Ltd.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
+ZONE,0001956741,"CleanCore Solutions, Inc.",2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
+ZTEK,0001904501,Zentek Ltd.,2890,Miscellaneous Chemical Products,Manufacturing

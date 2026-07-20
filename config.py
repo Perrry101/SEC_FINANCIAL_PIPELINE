@@ -28,7 +28,7 @@ PROCESSED_DATA_DIR = DATA_DIR / "processed"
 COMPANY_FACTS_DIR = RAW_DATA_DIR / "company_facts"
 
 # Output dataset
-OUTPUT_DATASET = PROCESSED_DATA_DIR / "financial_dataset.csv"
+OUTPUT_DATASET = PROCESSED_DATA_DIR / "sec_financial_panel.csv"
 
 # Company list
 COMPANIES_FILE = PROJECT_ROOT / "companies.csv"
@@ -180,6 +180,7 @@ INCOME_STATEMENT_TAGS = {
     ],
 
     "pretax_income": [
+        "IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest",
         "IncomeBeforeTaxExpenseBenefit",
     ],
 
@@ -243,6 +244,7 @@ CASH_FLOW_TAGS = {
 # =============================================================================
 
 DATASET_COLUMNS = [
+    # --- Metadata ---
     "company",
     "ticker",
     "cik",
@@ -253,6 +255,42 @@ DATASET_COLUMNS = [
     "period_end",
     "fiscal_year",
     "fiscal_quarter",
+    # --- Balance Sheet ---
+    "cash",
+    "short_term_investments",
+    "receivables",
+    "inventory",
+    "current_assets",
+    "ppe",
+    "goodwill",
+    "intangible_assets",
+    "total_assets",
+    "accounts_payable",
+    "current_liabilities",
+    "long_term_debt",
+    "total_liabilities",
+    "equity",
+    # --- Income Statement ---
+    "revenue",
+    "cost_of_revenue",
+    "gross_profit",
+    "operating_income",
+    "pretax_income",
+    "income_tax",
+    "net_income",
+    "interest_expense",
+    "basic_eps",
+    "diluted_eps",
+    # --- Cash Flow ---
+    "operating_cash_flow",
+    "investing_cash_flow",
+    "financing_cash_flow",
+    "capital_expenditure",
+    "depreciation",
+    "amortization",
+    # --- Validation ---
+    "balance_sheet_difference",
+    "balance_sheet_valid",
 ]
 
 # =============================================================================

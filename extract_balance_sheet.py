@@ -22,6 +22,8 @@ import pandas as pd
 from config import (
     COMPANY_FACTS_DIR,
     BALANCE_SHEET_TAGS,
+    INCOME_STATEMENT_TAGS,
+    CASH_FLOW_TAGS,
     VALIDATION_ABS_TOLERANCE,
     VALIDATION_PCT_TOLERANCE,
     LOG_SEPARATOR,
@@ -59,10 +61,21 @@ def load_company_json(file_path: Path) -> dict:
 def extract_tag(
     company_data: dict,
     tag_name: str,
-    unit: str = "USD",
+    unit=None,
 ):
     """
     Extract one XBRL tag.
+
+    Parameters
+    ----------
+    company_data : dict
+        Parsed SEC Company Facts JSON.
+
+    tag_name : str
+        XBRL tag to extract (e.g. "Assets").
+
+    unit : str or list, optional
+        Accepted unit(s). Defaults to ["USD", "USD/shares"].
 
     Returns
     -------
@@ -79,6 +92,11 @@ def extract_tag(
     }
     """
 
+    if unit is None:
+        unit = ["USD", "USD/shares"]
+    elif isinstance(unit, str):
+        unit = [unit]
+
     try:
 
         units = (
@@ -92,19 +110,26 @@ def extract_tag(
 
         return {}
 
-    if unit not in units:
+    # Find first matching unit
+    matched_unit = None
+    for u in unit:
+        if u in units:
+            matched_unit = u
+            break
+
+    if matched_unit is None:
 
         return {}
 
     extracted = {}
 
-    for item in units[unit]:
+    for item in units[matched_unit]:
 
         # -----------------------------------------------------
-        # Keep quarterly and annual reports
+        # Keep accepted SEC filing types
         # -----------------------------------------------------
 
-        if item.get("form") not in ("10-Q", "10-K"):
+        if item.get("form") not in ("10-Q", "10-K", "10-K/A", "10-Q/A", "20-F", "20-F/A", "40-F"):
 
             continue
 
@@ -282,6 +307,42 @@ def extract_balance_sheet(
 
 
 # =============================================================================
+# INCOME STATEMENT WRAPPER
+# =============================================================================
+
+def extract_income_statement(
+    company_json: dict,
+) -> pd.DataFrame:
+    """
+    Extract income statement using the generic
+    statement extraction engine.
+    """
+
+    return extract_statement(
+        company_json,
+        INCOME_STATEMENT_TAGS,
+    )
+
+
+# =============================================================================
+# CASH FLOW WRAPPER
+# =============================================================================
+
+def extract_cash_flow(
+    company_json: dict,
+) -> pd.DataFrame:
+    """
+    Extract cash flow statement using the generic
+    statement extraction engine.
+    """
+
+    return extract_statement(
+        company_json,
+        CASH_FLOW_TAGS,
+    )
+
+
+# =============================================================================
 # COMPANY METADATA
 # =============================================================================
 
@@ -375,147 +436,136 @@ def validate_balance_sheet(
 # EXTRACT ALL COMPANIES
 # =============================================================================
 
-def extract_all_balance_sheets():
+def extract_all_statements():
+    """
+    Extract balance sheet, income statement, and cash flow
+    for every company in company_facts/.
+
+    For each company:
+      1. Extract all three statements independently
+      2. Left-join on period identifiers (balance sheet is the base)
+      3. Add ticker from filename
+
+    Returns a wide-format DataFrame with all financial fields.
+    """
 
     all_frames = []
 
     files = sorted(
-
-        COMPANY_FACTS_DIR.glob(
-
-            "*.json"
-
-        )
-
+        COMPANY_FACTS_DIR.glob("*.json")
     )
 
     logger.info("Processing %d Company Facts files...", len(files))
 
     for file in files:
 
-        company_json = load_company_json(
-
-            file
-
-        )
+        company_json = load_company_json(file)
 
         if not company_json:
-
             continue
 
-        df = extract_balance_sheet(
+        # -------------------------------------------------
+        # Extract each statement independently
+        # -------------------------------------------------
 
-            company_json
+        df_bs = extract_balance_sheet(company_json)
+        df_is = extract_income_statement(company_json)
+        df_cf = extract_cash_flow(company_json)
 
-        )
-
-        if df.empty:
-
+        # Skip if nothing extractable at all
+        if df_bs.empty and df_is.empty and df_cf.empty:
             continue
 
-        # ---------------------------------------------
+        # -------------------------------------------------
+        # Merge on shared period keys
+        # Balance sheet is the base (left join)
+        # -------------------------------------------------
+
+        merge_keys = [
+            "company",
+            "cik",
+            "period_end",
+            "filing_date",
+            "fiscal_year",
+            "fiscal_quarter",
+        ]
+
+        if not df_bs.empty:
+            df = df_bs.copy()
+        elif not df_is.empty:
+            df = df_is.copy()
+        else:
+            df = df_cf.copy()
+
+        if not df_is.empty:
+            df = df.merge(
+                df_is,
+                on=merge_keys,
+                how="left",
+                suffixes=("", "_is"),
+            )
+
+        if not df_cf.empty:
+            df = df.merge(
+                df_cf,
+                on=merge_keys,
+                how="left",
+                suffixes=("", "_cf"),
+            )
+
+        # -------------------------------------------------
         # Add ticker from filename
-        # ---------------------------------------------
+        # -------------------------------------------------
 
-        df.insert(
+        df.insert(1, "ticker", file.stem)
 
-            1,
-
-            "ticker",
-
-            file.stem,
-
-        )
-
-        all_frames.append(
-
-            df
-
-        )
+        all_frames.append(df)
 
     if not all_frames:
-
         return pd.DataFrame()
 
-    dataset = pd.concat(
-
-        all_frames,
-
-        ignore_index=True,
-
-    )
+    dataset = pd.concat(all_frames, ignore_index=True)
 
     # ---------------------------------------------
     # Merge metadata
     # ---------------------------------------------
 
-    dataset = merge_company_metadata(
-
-        dataset
-
-    )
+    dataset = merge_company_metadata(dataset)
 
     # ---------------------------------------------
     # Validate accounting identity
     # ---------------------------------------------
 
-    dataset = validate_balance_sheet(
-
-        dataset
-
-    )
+    dataset = validate_balance_sheet(dataset)
 
     # ---------------------------------------------
     # Sort records
     # ---------------------------------------------
 
     dataset = dataset.sort_values(
+        ["ticker", "period_end"]
+    ).reset_index(drop=True)
 
-        [
-
-            "ticker",
-
-            "period_end",
-
-        ]
-
-    ).reset_index(
-
-        drop=True
-
-    )
     # ---------------------------------------------
     # Remove duplicate records
     # ---------------------------------------------
 
     dataset = dataset.drop_duplicates(
-
-        subset=[
-
-            "ticker",
-
-            "period_end",
-
-        ]
-
-    ).reset_index(
-
-        drop=True
-
-    )
+        subset=["ticker", "period_end"]
+    ).reset_index(drop=True)
 
     # ---------------------------------------------
     # Ensure every configured financial column exists
     # ---------------------------------------------
 
-    financial_columns = list(
-        BALANCE_SHEET_TAGS.keys()
+    all_financial_columns = (
+        list(BALANCE_SHEET_TAGS.keys())
+        + list(INCOME_STATEMENT_TAGS.keys())
+        + list(CASH_FLOW_TAGS.keys())
     )
 
-    for column in financial_columns:
-
+    for column in all_financial_columns:
         if column not in dataset.columns:
-
             dataset[column] = pd.NA
 
     # ---------------------------------------------
@@ -523,50 +573,45 @@ def extract_all_balance_sheets():
     # ---------------------------------------------
 
     ordered_columns = [
-
         "company",
-
         "ticker",
-
         "cik",
-
         "sic_code",
-
         "sic_description",
-
         "target_sector",
-
         "filing_date",
-
         "period_end",
-
         "fiscal_year",
-
         "fiscal_quarter",
-
     ]
 
-    ordered_columns.extend(
-        financial_columns
-    )
+    # Balance sheet columns
+    ordered_columns.extend(BALANCE_SHEET_TAGS.keys())
 
-    ordered_columns.extend(
+    # Income statement columns
+    ordered_columns.extend(INCOME_STATEMENT_TAGS.keys())
 
-        [
+    # Cash flow columns
+    ordered_columns.extend(CASH_FLOW_TAGS.keys())
 
-            "balance_sheet_difference",
+    # Validation columns
+    ordered_columns.extend([
+        "balance_sheet_difference",
+        "balance_sheet_valid",
+    ])
 
-            "balance_sheet_valid",
-
-        ]
-
-    )
-
-    dataset = dataset[
-        ordered_columns
+    # Only select columns that actually exist
+    ordered_columns = [
+        c for c in ordered_columns if c in dataset.columns
     ]
+
+    dataset = dataset[ordered_columns]
 
     return dataset
+
+
+# Backward compatibility alias
+extract_all_balance_sheets = extract_all_statements
 
 
 # ==============================================================================
@@ -575,9 +620,9 @@ def extract_all_balance_sheets():
 
 if __name__ == "__main__":
 
-    logger.info("EXTRACT BALANCE SHEETS")
+    logger.info("EXTRACT ALL FINANCIAL STATEMENTS")
 
-    dataset = extract_all_balance_sheets()
+    dataset = extract_all_statements()
 
     if dataset.empty:
 
@@ -612,6 +657,10 @@ if __name__ == "__main__":
         logger.info(
             "Invalid Balance Sheets: %d",
             (~dataset["balance_sheet_valid"]).sum(),
+        )
+        logger.info(
+            "Columns: %d",
+            len(dataset.columns),
         )
 
         print()
