@@ -5,3 +5,5 @@ __pycache__/
 *.csv  
 data/ 
 "*.zip" 
+"submissions_bulk.zip" 
+"*.zip" 
