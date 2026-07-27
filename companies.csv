@@ -1,475 +1,1477 @@
 ticker,cik,company,sic_code,sic_description,target_sector
-A,0001090872,"AGILENT TECHNOLOGIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-AA,0001675149,Alcoa Corp,3334,Primary Production of  Aluminum,Manufacturing
-AATC,0000943034,AUTOSCOPE TECHNOLOGIES CORP,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-ACA,0001739445,"Arcosa, Inc.",3440,Fabricated Structural Metal Products,Manufacturing
-ACCO,0000712034,ACCO BRANDS Corp,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Manufacturing
-ACNT,0000095953,ASCENT INDUSTRIES CO.,2800,Chemicals & Allied Products,Manufacturing
-ACU,0000002098,ACME UNITED CORP,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-ADUR,0001863934,ADURO CLEAN TECHNOLOGIES INC.,2800,Chemicals & Allied Products,Manufacturing
-AEHR,0001040470,AEHR TEST SYSTEMS,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-AERG,0000879911,"APPLIED ENERGETICS, INC.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-AIOS,0001603993,AIOS Tech Inc.,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-AKZOY,0000003124,AKZO NOBEL NV,2800,Chemicals & Allied Products,Manufacturing
-ALB,0000915913,ALBEMARLE CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-ALBC,0001834868,Alternative Ballistics Corp,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-ALC,0001167379,ALCON INC,3851,Ophthalmic Goods,Manufacturing
-ALMMF,0001161611,ALUMINUM CORP OF CHINA LTD,3334,Primary Production of  Aluminum,Manufacturing
-ALMR,0002104204,"Alamar Biosciences, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-ALNT,0000046129,ALLIENT INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-ALTO,0000778164,"Alto Ingredients, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-AMBP,0001845097,Ardagh Metal Packaging S.A.,3411,Metal Cans,Manufacturing
-AMCR,0001748790,Amcor plc,3990,Miscellaneous Manufacturing Industries,Manufacturing
-AME,0001037868,AMETEK INC/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-AMRZ,0002035989,Amrize Ltd,3241,"Cement, Hydraulic",Manufacturing
-AMTX,0000738214,"AEMETIS, INC",2860,Industrial Organic Chemicals,Manufacturing
-APD,0000002969,"Air Products & Chemicals, Inc.",2810,Industrial Inorganic Chemicals,Manufacturing
-APEX,0002069858,APEX Global Solutions Ltd,3470,"Coating, Engraving & Allied Services",Manufacturing
-APM,0001734005,Aptorum Group Ltd,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-APOG,0000006845,"APOGEE ENTERPRISES, INC.",3231,"Glass Products, Made of  Purchased Glass",Manufacturing
-APWC,0001026980,ASIA PACIFIC WIRE & CABLE CORP LTD,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
-AQMS,0001621832,"Aqua Metals, Inc.",3341,Secondary Smelting & Refining of  Nonferrous Metals,Manufacturing
-AREB,0001648087,AMERICAN REBEL HOLDINGS INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-ARQ,0001515156,"Arq, Inc.",2890,Miscellaneous Chemical Products,Manufacturing
-ASIX,0001673985,AdvanSix Inc.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-ASPI,0001921865,ASP Isotopes Inc.,2890,Miscellaneous Chemical Products,Manufacturing
-ASTC,0001001907,ASTROTECH Corp,3826,Laboratory Analytical Instruments,Manufacturing
-ASTL,0001860805,Algoma Steel Group Inc.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-ATI,0001018963,ATI INC,3317,Steel Pipe & Tubes,Manufacturing
-ATR,0000896622,"APTARGROUP, INC.",3089,"Plastics Products, NEC",Manufacturing
-AVD,0000005981,AMERICAN VANGUARD CORP,2870,Agricultural Chemicals,Manufacturing
-AVNT,0001122976,AVIENT CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-AVTR,0001722482,"Avantor, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-AVY,0000008818,Avery Dennison Corp,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-AWI,0000007431,ARMSTRONG WORLD INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
-AXIL,0001718500,"Axil Brands, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-AXON,0001069183,"AXON ENTERPRISE, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-AXTA,0001616862,Axalta Coating Systems Ltd.,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
-AZZ,0000008947,AZZ INC,3470,"Coating, Engraving & Allied Services",Manufacturing
-BAK,0001071438,BRASKEM SA,2860,Industrial Organic Chemicals,Manufacturing
-BALL,0000009389,BALL Corp,3411,Metal Cans,Manufacturing
-BASA,0001448705,"BASANITE, INC.",3990,Miscellaneous Manufacturing Industries,Manufacturing
-BCHT,0000728385,Birchtech Corp.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-BCPC,0000009326,BALCHEM CORP,2800,Chemicals & Allied Products,Manufacturing
-BDC,0000913142,BELDEN INC.,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
-BFNH,0001310488,"BIOFORCE NANOSCIENCES HOLDINGS, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-BIO,0000012208,"BIO-RAD LABORATORIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-BIOF,0001549145,"BLUE BIOFUELS, INC.",2860,Industrial Organic Chemicals,Manufacturing
-BIOX,0001769484,Bioceres Crop Solutions Corp.,2870,Agricultural Chemicals,Manufacturing
-BIRK,0001977102,Birkenstock Holding plc,3140,"Footwear, (No Rubber)",Manufacturing
-BKTH,0001144392,MEGOLA INC,2890,Miscellaneous Chemical Products,Manufacturing
-BLCO,0001860742,Bausch & Lomb Corp,3851,Ophthalmic Goods,Manufacturing
-BLGO,0000880242,"BIOLARGO, INC.",2800,Chemicals & Allied Products,Manufacturing
-BLTG,0002045873,BOUNDLESS GROUP,3827,Optical Instruments & Lenses,Manufacturing
-BMI,0000009092,BADGER METER INC,3824,Totalizing Fluid Meters & Counting Devices,Manufacturing
-BNET,0000875729,BION ENVIRONMENTAL TECHNOLOGIES INC,2870,Agricultural Chemicals,Manufacturing
-BNGO,0001411690,"Bionano Genomics, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-BNKK,0001760903,"BONK, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-BNRG,0001901215,Brenmiller Energy Ltd.,3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
-BOOM,0000034067,DMC Global Inc.,3390,Miscellaneous Primary Metal Products,Manufacturing
-BRC,0000746598,BRADY CORP,3990,Miscellaneous Manufacturing Industries,Manufacturing
-BRKR,0001109354,BRUKER CORP,3826,Laboratory Analytical Instruments,Manufacturing
-BRLT,0001866757,"Brilliant Earth Group, Inc.",3910,"Jewelry, Silverware & Plated Ware",Manufacturing
-BW,0001630805,"Babcock & Wilcox Enterprises, Inc.",3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
-BWEN,0001120370,"BROADWIND, INC.",3360,Nonferrous Foundries (Castings),Manufacturing
-BYAH,0001986247,"Park Ha Biological Technology Co., Ltd.",2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-CABR,0002020737,"Caring Brands, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-CAJPY,0000016988,CANON INC,3861,Photographic Equipment & Supplies,Manufacturing
-CAL,0000014707,CALERES INC,3140,"Footwear, (No Rubber)",Manufacturing
-CAMT,0001109138,CAMTEK LTD,3827,Optical Instruments & Lenses,Manufacturing
-CBT,0000016040,CABOT CORP,2890,Miscellaneous Chemical Products,Manufacturing
-CBUS,0001705843,"Cibus, Inc.",2870,Agricultural Chemicals,Manufacturing
-CC,0001627223,Chemours Co,2800,Chemicals & Allied Products,Manufacturing
-CCK,0001219601,"CROWN HOLDINGS, INC.",3411,Metal Cans,Manufacturing
-CDXS,0001200375,"CODEXIS, INC.",2860,Industrial Organic Chemicals,Manufacturing
-CE,0001306830,Celanese Corp,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
-CENX,0000949157,CENTURY ALUMINUM CO,3334,Primary Production of  Aluminum,Manufacturing
-CF,0001324404,"CF Industries Holdings, Inc.",2870,Agricultural Chemicals,Manufacturing
-CGNX,0000851205,COGNEX CORP,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-CHD,0000313927,CHURCH & DWIGHT CO INC /DE/,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-CITR,0000894556,CitroTech Inc.,2800,Chemicals & Allied Products,Manufacturing
-CIX,0001049606,COMPX INTERNATIONAL INC,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-CL,0000021665,COLGATE PALMOLIVE CO,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-CLIR,0001434524,ClearSign Technologies Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-CLNV,0001391426,Clean Vision Corp,2860,Industrial Organic Chemicals,Manufacturing
-CLW,0001441236,Clearwater Paper Corp,2631,Paperboard Mills,Manufacturing
-CLX,0000021076,CLOROX CO /DE/,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
-CMC,0000022444,COMMERCIAL METALS Co,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-CMPR,0001262976,CIMPRESS plc,2750,Commercial Printing,Manufacturing
-CMT,0001026655,CORE MOLDING TECHNOLOGIES INC,3089,"Plastics Products, NEC",Manufacturing
-CNEY,0001780785,CN ENERGY GROUP. INC.,2860,Industrial Organic Chemicals,Manufacturing
-CODA,0001334325,"Coda Octopus Group, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-COHR,0000820318,COHERENT CORP.,3827,Optical Instruments & Lenses,Manufacturing
-COHU,0000021535,COHU INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-COO,0000711404,"COOPER COMPANIES, INC.",3851,Ophthalmic Goods,Manufacturing
-COTY,0001024305,COTY INC.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-CPAC,0001221029,CEMENTOS PACASMAYO SAA,3241,"Cement, Hydraulic",Manufacturing
-CPRI,0001530721,Capri Holdings Ltd,3100,Leather & Leather Products,Manufacturing
-CPSH,0000814676,CPS TECHNOLOGIES CORP/DE/,3260,Pottery & Related Products,Manufacturing
-CR,0001944013,Crane Co,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-CRE,0002003977,Cre8 Enterprise Ltd,2750,Commercial Printing,Manufacturing
-CRH,0000849395,CRH PUBLIC LTD CO,3241,"Cement, Hydraulic",Manufacturing
-CROX,0001334036,"Crocs, Inc.",3021,Rubber & Plastics Footwear,Manufacturing
-CRS,0000017843,CARPENTER TECHNOLOGY CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-CSCID,0001113423,COSCIENS Biopharma Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-CSDX,0001106861,CS DIAGNOSTICS CORP.,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
-CSL,0000790051,CARLISLE COMPANIES INC,3060,"Fabricated Rubber Products, NEC",Manufacturing
-CSTE,0001504379,Caesarstone Ltd.,3281,Cut Stone & Stone Products,Manufacturing
-CSTM,0001563411,CONSTELLIUM SE,3341,Secondary Smelting & Refining of  Nonferrous Metals,Manufacturing
-CSW,0001624794,"CSW INDUSTRIALS, INC.",2891,Adhesives & Sealants,Manufacturing
-CTKB,0001831915,"Cytek Biosciences, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-CVCO,0000278166,"CAVCO INDUSTRIES, INC.",2451,Mobile Homes,Manufacturing
-CX,0001076378,CEMEX SAB DE CV,3241,"Cement, Hydraulic",Manufacturing
-CXT,0000025445,"Crane NXT, Co.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
-DAIO,0000351998,DATA I/O CORP,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-DAKT,0000915779,DAKTRONICS INC /SD/,3990,Miscellaneous Manufacturing Industries,Manufacturing
-DD,0001666700,"DuPont de Nemours, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-DDDX,0001453122,"3DX Industries, Inc.",2750,Commercial Printing,Manufacturing
-DECK,0000910521,DECKERS OUTDOOR CORP,3021,Rubber & Plastics Footwear,Manufacturing
-DETX,0001919776,"LIBERTY DEFENSE HOLDINGS, LTD.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-DHR,0000313616,DANAHER CORP /DE/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-DJCO,0000783412,DAILY JOURNAL CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-DLX,0000027996,DELUXE CORP,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Manufacturing
-DOGZ,0001707303,Dogness (International) Corp,3990,Miscellaneous Manufacturing Industries,Manufacturing
-DOW,0001751788,DOW INC.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-DPC,0002107018,DPC Holdings Ltd,3360,Nonferrous Foundries (Castings),Manufacturing
-DPUI,0001791929,"DISCOUNT PRINT USA, INC.",2750,Commercial Printing,Manufacturing
-DRS,0001833756,"Leonardo DRS, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-DSS,0000771999,"DSS, INC.",2650,Paperboard Containers & Boxes,Manufacturing
-DSWL,0000946936,DESWELL INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
-DSY,0001999297,Big Tree Cloud Holdings Ltd,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-EBF,0000033002,"ENNIS, INC.",2761,Manifold Business Forms,Manufacturing
-ECL,0000031462,ECOLAB INC.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-ECVT,0001708035,Ecovyst Inc.,2800,Chemicals & Allied Products,Manufacturing
-EL,0001001250,ESTEE LAUDER COMPANIES INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ELF,0001600033,"e.l.f. Beauty, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ELMT,0002101698,Elmet Group Co.,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-ELSE,0000351789,ELECTRO SENSORS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-EML,0000031107,EASTERN CO,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-EMN,0000915389,EASTMAN CHEMICAL CO,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-EMPG,0002005569,Empro Group Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ENTG,0001101302,ENTEGRIS INC,3089,"Plastics Products, NEC",Manufacturing
-EPC,0001096752,EDGEWELL PERSONAL CARE Co,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ESI,0001590714,Element Solutions Inc,2890,Miscellaneous Chemical Products,Manufacturing
-EVGN,0001574565,Evogene Ltd.,2870,Agricultural Chemicals,Manufacturing
-EXP,0000918646,EAGLE MATERIALS INC,3241,"Cement, Hydraulic",Manufacturing
-EYE,0001710155,"National Vision Holdings, Inc.",3851,Ophthalmic Goods,Manufacturing
-EYPT,0001314102,"EyePoint, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-FBDT,0001892704,"First Breach, Inc.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-FBIN,0001519751,"Fortune Brands Innovations, Inc.",2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Manufacturing
-FCUV,0001590418,FOCUS UNIVERSAL INC.,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-FEIM,0000039020,FREQUENCY ELECTRONICS INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-FF,0001337298,FutureFuel Corp.,2860,Industrial Organic Chemicals,Manufacturing
-FGI,0001864943,FGI Industries Ltd.,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
-FMC,0000037785,FMC CORP,2800,Chemicals & Allied Products,Manufacturing
-FMFC,0002024656,Kandal M Venture Ltd,3100,Leather & Leather Products,Manufacturing
-FOSL,0000883569,"Fossil Group, Inc.",3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
-FRD,0000039092,FRIEDMAN INDUSTRIES INC,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-FRTT,0002092967,Fort Technology Inc,2870,Agricultural Chemicals,Manufacturing
-FSI,0001069394,FLEXIBLE SOLUTIONS INTERNATIONAL INC,2890,Miscellaneous Chemical Products,Manufacturing
-FTK,0000928054,FLOTEK INDUSTRIES INC/CN/,2890,Miscellaneous Chemical Products,Manufacturing
-FTV,0001659166,Fortive Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-FUL,0000039368,FULLER H B CO,2891,Adhesives & Sealants,Manufacturing
-GEF,0000043920,"GREIF, INC",3412,"Metal Shipping Barrels, Drums, Kegs & Pails",Manufacturing
-GEOS,0001001115,GEOSPACE TECHNOLOGIES CORP,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-GEVO,0001392380,"Gevo, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-GFF,0000050725,GRIFFON CORP,3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
-GGB,0001073404,GERDAU S.A.,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-GLW,0000024741,CORNING INC /NY,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
-GPK,0001408075,GRAPHIC PACKAGING HOLDING CO,2650,Paperboard Containers & Boxes,Manufacturing
-GPRE,0001309402,Green Plains Inc.,2860,Industrial Organic Chemicals,Manufacturing
-GPRO,0001500435,"GoPro, Inc.",3861,Photographic Equipment & Supplies,Manufacturing
-GRMN,0001121788,GARMIN LTD,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-GRVT,0002078037,GreenVector Holdings Ltd,3241,"Cement, Hydraulic",Manufacturing
-GT,0000042582,GOODYEAR TIRE & RUBBER CO /OH/,3011,Tires & Inner Tubes,Manufacturing
-GTLS,0000892553,CHART INDUSTRIES INC,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-GURE,0000885462,"GULF RESOURCES, INC.",2800,Chemicals & Allied Products,Manufacturing
-GWTI,0001572386,"GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES",2860,Industrial Organic Chemicals,Manufacturing
-HBIO,0001123494,HARVARD BIOSCIENCE INC,3826,Laboratory Analytical Instruments,Manufacturing
-HCAI,0001958399,"Huachen AI Parking Management Technology Holding Co., Ltd",3990,Miscellaneous Manufacturing Industries,Manufacturing
-HGAS,0001817232,Global Gas Corp,2810,Industrial Inorganic Chemicals,Manufacturing
-HGYN,0001324759,HONG YUAN HOLDING GROUP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-HIHO,0001026785,HIGHWAY HOLDINGS LTD,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-HLIO,0001024795,"HELIOS TECHNOLOGIES, INC.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
-HLMN,0001822492,Hillman Solutions Corp.,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-HLN,0001900304,Haleon plc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-HUDI,0001791725,"Huadi International Group Co., Ltd.",3317,Steel Pipe & Tubes,Manufacturing
-HUHU,0001945415,HUHUTECH International Group Inc.,3360,Nonferrous Foundries (Castings),Manufacturing
-HUN,0001307954,Huntsman CORP,2800,Chemicals & Allied Products,Manufacturing
-HURC,0000315374,HURCO COMPANIES INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-HWKE,0001750777,"Hawkeye Systems, Inc.",3861,Photographic Equipment & Supplies,Manufacturing
-HWM,0000004281,Howmet Aerospace Inc.,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-HXL,0000717605,HEXCEL CORP /DE/,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-ICL,0000941221,ICL Group Ltd.,2870,Agricultural Chemicals,Manufacturing
-IFF,0000051253,INTERNATIONAL FLAVORS & FRAGRANCES INC,2860,Industrial Organic Chemicals,Manufacturing
-IIIN,0000764401,INSTEEL INDUSTRIES INC,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-ILMN,0001110803,"ILLUMINA, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-IMAX,0000921582,IMAX CORP,3861,Photographic Equipment & Supplies,Manufacturing
-IMSR,0002019804,Terrestrial Energy Inc. /DE/,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-INIS,0001038277,RADNOSTIX INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-INTT,0001036262,INTEST CORP,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-IOSP,0001054905,INNOSPEC INC.,2800,Chemicals & Allied Products,Manufacturing
-IP,0000051434,INTERNATIONAL PAPER CO /NEW/,2621,Paper Mills,Manufacturing
-IPAR,0000822663,INTERPARFUMS INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ITP,0001358190,"IT TECH PACKAGING, INC.",2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-ITRI,0000780571,"ITRON, INC.",3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-JBDI,0001964314,JBDI Holdings Ltd,3412,"Metal Shipping Barrels, Drums, Kegs & Pails",Manufacturing
-JBI,0001839839,"Janus International Group, Inc.",3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
-JCSE,0001905511,JE Cleantech Holdings Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
-JELD,0001674335,"JELD-WEN Holding, Inc.",2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Manufacturing
-JHX,0001159152,James Hardie Industries plc,3272,"Concrete Products, Except Block & Brick",Manufacturing
-KALU,0000811596,KAISER ALUMINUM CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-KARX,0001729637,Karbon-X Corp.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-KBLB,0001413119,"Kraig Biocraft Laboratories, Inc.",2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
-KEQU,0000055529,KEWAUNEE SCIENTIFIC CORP /DE/,3821,Laboratory Apparatus & Furniture,Manufacturing
-KEYS,0001601046,"Keysight Technologies, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-KLAC,0000319201,KLA CORP,3827,Optical Instruments & Lenses,Manufacturing
-KMB,0000055785,KIMBERLY CLARK CORP,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-KODK,0000031235,EASTMAN KODAK CO,3861,Photographic Equipment & Supplies,Manufacturing
-KOP,0001315257,Koppers Holdings Inc.,2400,Lumber & Wood Products (No Furniture),Manufacturing
-KRO,0001257640,KRONOS WORLDWIDE INC,2810,Industrial Inorganic Chemicals,Manufacturing
-KRT,0001758021,Karat Packaging Inc.,3089,"Plastics Products, NEC",Manufacturing
-KVUE,0001944048,Kenvue Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-LAB,0001162194,STANDARD BIOTOOLS INC.,3826,Laboratory Analytical Instruments,Manufacturing
-LCTC,0001493137,"Lifeloc Technologies, Inc",3826,Laboratory Analytical Instruments,Manufacturing
-LCUT,0000874396,"LIFETIME BRANDS, INC",3420,"Cutlery, Handtools & General Hardware",Manufacturing
-LEE,0000058361,"LEE ENTERPRISES, Inc",2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-LEGH,0001436208,Legacy Housing Corp,2451,Mobile Homes,Manufacturing
-LHX,0000202058,"L3HARRIS TECHNOLOGIES, INC. /DE/",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-LIN,0001707925,LINDE PLC,2810,Industrial Inorganic Chemicals,Manufacturing
-LNZA,0001843724,"LanzaTech Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-LODE,0001120970,Comstock Inc.,2860,Industrial Organic Chemicals,Manufacturing
-LOMA,0001711375,Loma Negra Compania Industrial Argentina Sociedad Anonima,3241,"Cement, Hydraulic",Manufacturing
-LOOP,0001504678,"Loop Industries, Inc.",2800,Chemicals & Allied Products,Manufacturing
-LPX,0000060519,LOUISIANA-PACIFIC CORP,2400,Lumber & Wood Products (No Furniture),Manufacturing
-LQMT,0001141240,LIQUIDMETAL TECHNOLOGIES INC,2800,Chemicals & Allied Products,Manufacturing
-LTBR,0001084554,LIGHTBRIDGE Corp,2810,Industrial Inorganic Chemicals,Manufacturing
-LUCY,0001808377,Innovative Eyewear Inc,3851,Ophthalmic Goods,Manufacturing
-LUD,0001984124,Luda Technology Group Ltd,3317,Steel Pipe & Tubes,Manufacturing
-LUNR,0001844452,"Intuitive Machines, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-LWLG,0001325964,"Lightwave Logic, Inc.",3080,Miscellaneous Plastics Products,Manufacturing
-LXFR,0001096056,LUXFER HOLDINGS PLC,2810,Industrial Inorganic Chemicals,Manufacturing
-LXU,0000060714,"LSB INDUSTRIES, INC.",2810,Industrial Inorganic Chemicals,Manufacturing
-LYB,0001489393,LyondellBasell Industries N.V.,2860,Industrial Organic Chemicals,Manufacturing
-MAGN,0000041719,Magnera Corp,2621,Paper Mills,Manufacturing
-MAS,0000062996,MASCO CORP /DE/,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
-MASS,0001555279,908 Devices Inc.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-MATV,0001000623,"Mativ Holdings, Inc.",2621,Paper Mills,Manufacturing
-MATW,0000063296,MATTHEWS INTERNATIONAL CORP,3360,Nonferrous Foundries (Castings),Manufacturing
-MEC,0001766368,"Mayville Engineering Company, Inc.",3460,Metal Forgings & Stampings,Manufacturing
-MEOH,0000886977,METHANEX CORP,2860,Industrial Organic Chemicals,Manufacturing
-MERC,0001333274,MERCER INTERNATIONAL INC.,2611,Pulp Mills,Manufacturing
-MGIH,0001903995,Millennium Group International Holdings Ltd,2750,Commercial Printing,Manufacturing
-MH,0001951070,"McGraw Hill, Inc.",2741,Miscellaneous Publishing,Manufacturing
-MIND,0000926423,"MIND TECHNOLOGY, INC",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-MIR,0001809987,"Mirion Technologies, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
-MITQ,0001770236,MOVING iMAGE TECHNOLOGIES INC.,3861,Photographic Equipment & Supplies,Manufacturing
-MKSI,0001049502,MKS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-MLAB,0000724004,MESA LABORATORIES INC /CO/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-MLI,0000089439,MUELLER INDUSTRIES INC,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-MOS,0001285785,MOSAIC CO,2870,Agricultural Chemicals,Manufacturing
-MOT,0002099681,MetaOptics Ltd,3827,Optical Instruments & Lenses,Manufacturing
-MOV,0000072573,MOVADO GROUP INC,3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
-MSAI,0001863990,"MultiSensor AI Holdings, Inc.",3827,Optical Instruments & Lenses,Manufacturing
-MT,0001243429,ArcelorMittal,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-MTD,0001037646,METTLER TOLEDO INTERNATIONAL INC/,3826,Laboratory Analytical Instruments,Manufacturing
-MTEN,0001948099,Mingteng International Corp Inc.,3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
-MTMV,0001393044,Motomova Inc,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-MTRN,0001104657,MATERION Corp,3460,Metal Forgings & Stampings,Manufacturing
-MTUS,0001598428,Metallus Inc.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-MTX,0000891014,MINERALS TECHNOLOGIES INC,2810,Industrial Inorganic Chemicals,Manufacturing
-MWA,0001350593,"Mueller Water Products, Inc.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
-MWG,0001941500,Multi Ways Holdings Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
-MYE,0000069488,MYERS INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
-NAUT,0001808805,"Nautilus Biotechnology, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-NCL,0001923780,Northann Corp.,3089,"Plastics Products, NEC",Manufacturing
-NEU,0001282637,NEWMARKET CORP,2860,Industrial Organic Chemicals,Manufacturing
-NEWH,0001371128,"NewHydrogen, Inc.",3081,Unsupported Plastics Film & Sheet,Manufacturing
-NGVT,0001653477,Ingevity Corp,2800,Chemicals & Allied Products,Manufacturing
-NKE,0000320187,"NIKE, Inc.",3021,Rubber & Plastics Footwear,Manufacturing
-NKLR,0002067627,Terra Innovatum Global N.V.,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-NL,0000072162,NL INDUSTRIES INC,2810,Industrial Inorganic Chemicals,Manufacturing
-NN,0001865631,NEXTNAV INC.,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-NOBH,0000072205,NOBILITY HOMES INC,2451,Mobile Homes,Manufacturing
-NOC,0001133421,NORTHROP GRUMMAN CORP /DE/,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-NPK,0000080172,NATIONAL PRESTO INDUSTRIES INC,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-NPO,0001164863,Enpro Inc.,3050,"Gaskets, Packg & Sealg Devices & Rubber & Plastics Hose",Manufacturing
-NTIC,0000875582,NORTHERN TECHNOLOGIES INTERNATIONAL CORP,3470,"Coating, Engraving & Allied Services",Manufacturing
-NTMJ,0002084296,Nintech Mould Factory Inc.,3089,"Plastics Products, NEC",Manufacturing
-NTR,0001725964,Nutrien Ltd.,2870,Agricultural Chemicals,Manufacturing
-NUE,0000073309,NUCOR CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-NUVI,0001410708,Emo Capital Corp.,2870,Agricultural Chemicals,Manufacturing
-NVMI,0001109345,NOVA LTD.,3827,Optical Instruments & Lenses,Manufacturing
-NWGL,0001948294,CL Workshop Group Ltd,2400,Lumber & Wood Products (No Furniture),Manufacturing
-NWL,0000814453,NEWELL BRANDS INC.,3089,"Plastics Products, NEC",Manufacturing
-NWPX,0001001385,"NWPX Infrastructure, Inc.",3317,Steel Pipe & Tubes,Manufacturing
-NWSA,0001564708,NEWS CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-NX,0001423221,Quanex Building Products CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-NYT,0000071691,NEW YORK TIMES CO,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-OC,0001370946,Owens Corning,3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Manufacturing
-OCC,0001000230,OPTICAL CABLE CORP,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
-ODC,0000074046,Oil-Dri Corp of America,3990,Miscellaneous Manufacturing Industries,Manufacturing
-ODD,0001907085,Oddity Tech Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-OEC,0001609804,Orion S.A.,2890,Miscellaneous Chemical Products,Manufacturing
-OFLX,0001317945,"Omega Flex, Inc.",3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
-OI,0000812074,"O-I Glass, Inc. /DE/",3221,Glass Containers,Manufacturing
-OLN,0000074303,OLIN Corp,2800,Chemicals & Allied Products,Manufacturing
-OLPX,0001868726,"OLAPLEX HOLDINGS, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ONON,0001858985,On Holding AG,3021,Rubber & Plastics Footwear,Manufacturing
-ONTO,0000704532,ONTO INNOVATION INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-OPTX,0001866816,"SYNTEC OPTICS HOLDINGS, INC.",3827,Optical Instruments & Lenses,Manufacturing
-OPXS,0001397016,Optex Systems Holdings Inc,3827,Optical Instruments & Lenses,Manufacturing
-ORIB,0001854183,Orion Bliss Corp.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-OWLT,0001816708,"Owlet, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
-PACB,0001299130,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-PACK,0001712463,Ranpak Holdings Corp.,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
-PCT,0001830033,"PureCycle Technologies, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-PG,0000080424,PROCTER & GAMBLE Co,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-PH,0000076334,Parker-Hannifin Corp,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-PKG,0000075677,PACKAGING CORP OF AMERICA,2650,Paperboard Containers & Boxes,Manufacturing
-PKOH,0000076282,PARK OHIO HOLDINGS CORP,3460,Metal Forgings & Stampings,Manufacturing
-PKX,0000889132,POSCO HOLDINGS INC.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-PMTS,0001641614,CPI Card Group Inc.,2750,Commercial Printing,Manufacturing
-POAS,0002024258,PHAOS TECHNOLOGY HOLDINGS (CAYMAN) Ltd,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-PPG,0000079879,PPG INDUSTRIES INC,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
-PRLB,0001443669,Proto Labs Inc,3440,Fabricated Structural Metal Products,Manufacturing
-PRM,0001880319,"Perimeter Solutions, Inc.",2800,Chemicals & Allied Products,Manufacturing
-PRPO,0001043961,"Precipio, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-PSO,0000938323,PEARSON PLC,2731,Books: Publishing or  Publishing & Printing,Manufacturing
-PTNM,0002046573,Pitanium Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-PUBC,0001575858,Purebase Corp,2870,Agricultural Chemicals,Manufacturing
-PURE,0001006028,"PURE BIOSCIENCE, INC.",2890,Miscellaneous Chemical Products,Manufacturing
-QSI,0001816431,Quantum-Si Inc,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-QTRX,0001503274,Quanterix Corp,3826,Laboratory Analytical Instruments,Manufacturing
-QTZM,0001663038,Quantum Genesis AI Corp.,2860,Industrial Organic Chemicals,Manufacturing
-QUAD,0001481792,"Quad/Graphics, Inc.",2750,Commercial Printing,Manufacturing
-QURT,0001549631,"Quarta-Rad, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-RAL,0002041385,Ralliant Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-RCKY,0000895456,"ROCKY BRANDS, INC.",3140,"Footwear, (No Rubber)",Manufacturing
-RECT,0001995116,Rectitude Holdings Ltd.,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-RETO,0001687277,"ReTo Eco-Solutions, Inc.",3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Manufacturing
-REX,0000744187,REX AMERICAN RESOURCES Corp,2860,Industrial Organic Chemicals,Manufacturing
-REYN,0001786431,Reynolds Consumer Products Inc.,2673,"Plastics, Foil & Coated Paper Bags",Manufacturing
-RGR,0000095029,STURM RUGER & CO INC,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-RMIX,0002094433,"Suncrete, Inc.",3272,"Concrete Products, Except Block & Brick",Manufacturing
-ROCK,0000912562,"GIBRALTAR INDUSTRIES, INC.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-ROG,0000084748,ROGERS CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-ROK,0001024478,"ROCKWELL AUTOMATION, INC",3829,"Measuring & Controlling Devices, NEC",Manufacturing
-ROP,0000882835,ROPER TECHNOLOGIES INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-RPID,0001380106,"RAPID MICRO BIOSYSTEMS, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-RPM,0000110621,RPM INTERNATIONAL INC/DE/,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
-RSCF,0001103090,"REFLECT SCIENTIFIC, INC.",3821,Laboratory Apparatus & Furniture,Manufacturing
-RVTY,0000031791,"REVVITY, INC.",3826,Laboratory Analytical Instruments,Manufacturing
-RXST,0001111485,"RxSight, Inc.",3851,Ophthalmic Goods,Manufacturing
-RYAM,0001597672,RAYONIER ADVANCED MATERIALS INC.,2611,Pulp Mills,Manufacturing
-SAFX,0002019793,"XCF Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-SCHL,0000866729,SCHOLASTIC CORP,2731,Books: Publishing or  Publishing & Printing,Manufacturing
-SCL,0000094049,STEPAN CO,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-SCND,0000087802,SCIENTIFIC INDUSTRIES INC,3826,Laboratory Analytical Instruments,Manufacturing
-SDST,0001831979,Stardust Power Inc.,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
-SEER,0001726445,"Seer, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-SENS,0001616543,"Senseonics Holdings, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-SFHG,0001926792,SAMFINE CREATION HOLDINGS GROUP Ltd,2750,Commercial Printing,Manufacturing
-SHFH,0002032609,Scientist Home Future Health Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-SHOO,0000913241,"STEVEN MADDEN, LTD.",3140,"Footwear, (No Rubber)",Manufacturing
-SID,0001049659,NATIONAL STEEL CO,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-SIM,0000887153,"GRUPO SIMEC, S.A.B. de C.V.",3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-SKY,0000090896,"Champion Homes, Inc.",2451,Mobile Homes,Manufacturing
-SLGN,0000849869,SILGAN HOLDINGS INC,3411,Metal Cans,Manufacturing
-SLI,0001537137,STANDARD LITHIUM LTD.,2800,Chemicals & Allied Products,Manufacturing
-SLSN,0000883107,"SOLESENCE, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-SLTN,0001508786,"SILVERTON ENERGY, INC.",3021,Rubber & Plastics Footwear,Manufacturing
-SLVM,0001856485,Sylvamo Corp,2621,Paper Mills,Manufacturing
-SMG,0000825542,SCOTTS MIRACLE-GRO CO,2870,Agricultural Chemicals,Manufacturing
-SMID,0000924719,SMITH MIDLAND CORP,3272,"Concrete Products, Except Block & Brick",Manufacturing
-SMR,0001822966,NUSCALE POWER Corp,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-SNA,0000091440,Snap-on Inc,3420,"Cutlery, Handtools & General Hardware",Manufacturing
-SNES,0001680378,"SenesTech, Inc.",2870,Agricultural Chemicals,Manufacturing
-SOBR,0001425627,"SOBR Safe, Inc.",2721,Periodicals: Publishing or  Publishing & Printing,Manufacturing
-SOLS,0002064953,Solstice Advanced Materials Inc.,2800,Chemicals & Allied Products,Manufacturing
-SON,0000091767,SONOCO PRODUCTS CO,2650,Paperboard Containers & Boxes,Manufacturing
-SPTJF,0000908732,SINOPEC SHANGHAI PETROCHEMICAL CO LTD,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-SSD,0000920371,"Simpson Manufacturing Co., Inc.",3420,"Cutlery, Handtools & General Hardware",Manufacturing
-ST,0001477294,Sensata Technologies Holding plc,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-STAA,0000718937,STAAR SURGICAL CO,3851,Ophthalmic Goods,Manufacturing
-STAI,0001994624,ScanTech AI Systems Inc.,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-STDN,0002086716,"Standard Nuclear, Inc.",2810,Industrial Inorganic Chemicals,Manufacturing
-STLD,0001022671,STEEL DYNAMICS INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-SUIC,0001394108,SUIC Worldwide Holdings Ltd.,2860,Industrial Organic Chemicals,Manufacturing
-SUZ,0000909327,Suzano S.A.,2621,Paper Mills,Manufacturing
-SW,0002005951,Smurfit Westrock plc,2650,Paperboard Containers & Boxes,Manufacturing
-SWBI,0001092796,"SMITH & WESSON BRANDS, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-SWIM,0001833197,"Latham Group, Inc.",3089,"Plastics Products, NEC",Manufacturing
-SWK,0000093556,"STANLEY BLACK & DECKER, INC.",3420,"Cutlery, Handtools & General Hardware",Manufacturing
-SXC,0001514705,"SunCoke Energy, Inc.",3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-SXT,0000310142,SENSIENT TECHNOLOGIES CORP,2860,Industrial Organic Chemicals,Manufacturing
-SYPR,0000864240,SYPRIS SOLUTIONS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
-TANH,0001588084,TANTECH HOLDINGS LTD,2860,Industrial Organic Chemicals,Manufacturing
-TDAY,0001579684,"USA TODAY Co., Inc.",2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
-TDY,0001094285,TELEDYNE TECHNOLOGIES INC,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
-TER,0000097210,"TERADYNE, INC",3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-TG,0000850429,TREDEGAR CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-TGE,0002053456,Generation Essentials Group,2721,Periodicals: Publishing or  Publishing & Printing,Manufacturing
-TGLS,0001534675,Tecnoglass Inc.,3211,Flat Glass,Manufacturing
-TLF,0000909724,TANDY LEATHER FACTORY INC,3100,Leather & Leather Products,Manufacturing
-TMO,0000097745,THERMO FISHER SCIENTIFIC INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-TOMZ,0000314227,"TOMI Environmental Solutions, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-TPCS,0001328792,TECHPRECISION CORP,3440,Fabricated Structural Metal Products,Manufacturing
-TPR,0001116132,"TAPESTRY, INC.",3100,Leather & Leather Products,Manufacturing
-TREX,0001069878,TREX CO INC,2400,Lumber & Wood Products (No Furniture),Manufacturing
-TRI,0001075124,THOMSON REUTERS CORP /CAN/,2741,Miscellaneous Publishing,Manufacturing
-TRMB,0000864749,TRIMBLE INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-TRNS,0000099302,TRANSCAT INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-TROX,0001530804,Tronox Holdings plc,2810,Industrial Inorganic Chemicals,Manufacturing
-TRS,0000842633,TRIMAS CORP,3460,Metal Forgings & Stampings,Manufacturing
-TS,0001190723,TENARIS SA,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-TSEOQ,0001519061,Trinseo PLC,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
-TT,0001466258,Trane Technologies plc,3822,Auto Controls For Regulating Residential & Comml Environments,Manufacturing
-TWI,0000899751,TITAN INTERNATIONAL INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-TX,0001342874,Ternium S.A.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
-TXG,0001770787,"10x Genomics, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
-UAMY,0000101538,UNITED STATES ANTIMONY CORP,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
-UAN,0001425292,"CVR PARTNERS, LP",2870,Agricultural Chemicals,Manufacturing
-UCLE,0001543623,US NUCLEAR CORP.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
-UFPI,0000912767,UFP INDUSTRIES INC,2421,"Sawmills & Planting Mills, General",Manufacturing
-UG,0000101295,UNITED GUARDIAN INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-UL,0000217410,UNILEVER PLC,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-VAT,0002109801,"VARSAL TECH, INC.",2800,Chemicals & Allied Products,Manufacturing
-VATE,0001006837,INNOVATE Corp.,3440,Fabricated Structural Metal Products,Manufacturing
-VGAS,0001841425,"Verde Clean Fuels, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-VHI,0000059255,VALHI INC /DE/,2810,Industrial Inorganic Chemicals,Manufacturing
-VLTO,0001967680,Veralto Corp,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
-VMI,0000102729,VALMONT INDUSTRIES INC,3440,Fabricated Structural Metal Products,Manufacturing
-VNT,0001786842,Vontier Corp,3824,Totalizing Fluid Meters & Counting Devices,Manufacturing
-VRA,0001495320,"Vera Bradley, Inc.",3100,Leather & Leather Products,Manufacturing
-VTSI,0001085243,"VirTra, Inc",3990,Miscellaneous Manufacturing Industries,Manufacturing
-VYST,0001308027,Vystar Corp,3060,"Fabricated Rubber Products, NEC",Manufacturing
-WALD,0001840199,Waldencast plc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-WAT,0001000697,WATERS CORP /DE/,3826,Laboratory Analytical Instruments,Manufacturing
-WBTN,0001997859,WEBTOON Entertainment Inc.,2741,Miscellaneous Publishing,Manufacturing
-WDFC,0000105132,WD 40 CO,2890,Miscellaneous Chemical Products,Manufacturing
-WFF,0001980210,WF Holding Ltd,3990,Miscellaneous Manufacturing Industries,Manufacturing
-WFG,0001402388,"WEST FRASER TIMBER CO., LTD",2421,"Sawmills & Planting Mills, General",Manufacturing
-WLK,0001262823,WESTLAKE CORP,2860,Industrial Organic Chemicals,Manufacturing
-WLKP,0001604665,Westlake Chemical Partners LP,2860,Industrial Organic Chemicals,Manufacturing
-WLY,0000107140,"JOHN WILEY & SONS, INC.",2731,Books: Publishing or  Publishing & Printing,Manufacturing
-WMS,0001604028,"ADVANCED DRAINAGE SYSTEMS, INC.",3086,Plastics Foam Products,Manufacturing
-WNDW,0001071840,"SolarWindow Technologies, Inc.",2860,Industrial Organic Chemicals,Manufacturing
-WNW,0001787803,Meiwu Technology Co Ltd,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-WOR,0000108516,"WORTHINGTON ENTERPRISES, INC.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
-WRAP,0001702924,"WRAP TECHNOLOGIES, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
-WRBY,0001504776,Warby Parker Inc.,3851,Ophthalmic Goods,Manufacturing
-WTS,0000795403,WATTS WATER TECHNOLOGIES INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
-WWW,0000110471,WOLVERINE WORLD WIDE INC /DE/,3140,"Footwear, (No Rubber)",Manufacturing
-XAGE,0001842939,"Longevity Health Holdings, Inc.",2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
-XE,0002088896,"X-Energy, Inc.",3443,Fabricated Plate Work (Boiler Shops),Manufacturing
-XPEL,0001767258,"XPEL, Inc.",3470,"Coating, Engraving & Allied Services",Manufacturing
-XXC,0001875994,XINXU COPPER INDUSTRY TECHNOLOGY Ltd,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
-YCBD,0001644903,"cbdMD, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-YHGJ,0001042187,YUNHONG GREEN CTI LTD.,3060,"Fabricated Rubber Products, NEC",Manufacturing
-YSG,0001819580,Yatsen Holding Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
-ZHJD,0001794276,Intelligent Hotel Group Ltd.,2870,Agricultural Chemicals,Manufacturing
-ZJK,0001941506,"ZJK Industrial Co., Ltd.",3452,"Bolts, Nuts, Screws, Rivets & Washers",Manufacturing
-ZKIN,0001687451,"ZK International Group Co., Ltd.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
-ZONE,0001956741,"CleanCore Solutions, Inc.",2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
-ZTEK,0001904501,Zentek Ltd.,2890,Miscellaneous Chemical Products,Manufacturing
+FLWS,1084869,1 800 FLOWERS COM INC,5990,"Retail-Retail Stores, NEC",Retail
+TXG,1770787,"10x Genomics, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+DIBS,1600641,"1stdibs.com, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+XXII,1347858,"22nd Century Group, Inc.",2111,Cigarettes,Consumer Goods
+SCWO,933972,374Water Inc.,3621,Motors & Generators,Industrials
+DDDX,1453122,"3DX Industries, Inc.",2750,Commercial Printing,Manufacturing
+MASS,1555279,908 Devices Inc.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+AKA,1865107,A.K.A. BRANDS HOLDING CORP.,5961,Retail-Catalog & Mail-Order Houses,Retail
+AAON,824142,"AAON, INC.",3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+AIR,1750,AAR CORP,3720,Aircraft & Parts,Industrials
+ANF,1018840,ABERCROMBIE & FITCH CO /DE/,5651,Retail-Family Clothing Stores,Retail
+AGIG,1156041,"ABUNDIA GLOBAL IMPACT GROUP, INC.",1311,Crude Petroleum & Natural Gas,Energy
+ACCO,712034,ACCO BRANDS Corp,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Manufacturing
+ACMR,1680062,"ACM Research, Inc.",3559,"Special Industry Machinery, NEC",Industrials
+ACU,2098,ACME UNITED CORP,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+ASNS,1141284,ACTELIS NETWORKS INC,3669,"Communications Equipment, NEC",Industrials
+AYI,1144215,ACUITY INC. (DE),3640,Electric Lighting & Wiring Equipment,Industrials
+ADTN,926282,"ADTRAN Holdings, Inc.",3661,Telephone & Telegraph Apparatus,Industrials
+AAP,1158449,ADVANCE AUTO PARTS INC,5531,Retail-Auto & Home Supply Stores,Retail
+WMS,1604028,"ADVANCED DRAINAGE SYSTEMS, INC.",3086,Plastics Foam Products,Manufacturing
+AEIS,927003,ADVANCED ENERGY INDUSTRIES INC,3679,"Electronic Components, NEC",Industrials
+AMD,2488,ADVANCED MICRO DEVICES INC,3674,Semiconductors & Related Devices,Industrials
+ADNH,1744494,"ADVENT TECHNOLOGIES HOLDINGS, INC.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+AEHR,1040470,AEHR TEST SYSTEMS,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+AMTX,738214,"AEMETIS, INC",2860,Industrial Organic Chemicals,Manufacturing
+AETN,764630,"AETERNUM HEALTH, INC.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+LIDR,1818644,"AEye, Inc.",3714,Motor Vehicle Parts & Accessories,Industrials
+AGCO,880266,AGCO CORP /DE,3523,Farm Machinery & Equipment,Industrials
+A,1090872,"AGILENT TECHNOLOGIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+AIRI,1009891,AIR INDUSTRIES GROUP,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+AIRG,1272842,AIRGAIN INC,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+AIRO,1927958,"AIRO Group Holdings, Inc.",3721,Aircraft,Industrials
+ALG,897077,ALAMO GROUP INC,3523,Farm Machinery & Equipment,Industrials
+AIN,819793,ALBANY INTERNATIONAL CORP /DE/,2221,"Broadwoven Fabric Mills, Man Made Fiber & Silk",Consumer Goods
+ALB,915913,ALBEMARLE CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+ALGM,866291,"ALLEGRO MICROSYSTEMS, INC.",3674,Semiconductors & Related Devices,Industrials
+LNT,352541,ALLIANT ENERGY CORP,4931,Electric & Other Services Combined,Energy
+ALNT,46129,ALLIENT INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+ALTX,775057,ALTEX INDUSTRIES INC,1311,Crude Petroleum & Natural Gas,Energy
+MO,764180,"ALTRIA GROUP, INC.",2111,Cigarettes,Consumer Goods
+AMZE,1880343,"AMAZE HOLDINGS, INC.",5961,Retail-Catalog & Mail-Order Houses,Retail
+AMZN,1018724,AMAZON COM INC,5961,Retail-Catalog & Mail-Order Houses,Retail
+AMBA,1280263,AMBARELLA INC,3674,Semiconductors & Related Devices,Industrials
+AMCI,1937891,AMC Robotics Corp,5700,"Retail-Home Furniture, Furnishings & Equipment Stores",Retail
+AEE,1002910,AMEREN CORP,4931,Electric & Other Services Combined,Energy
+AEO,919012,AMERICAN EAGLE OUTFITTERS INC,5651,Retail-Family Clothing Stores,Retail
+AEP,4904,AMERICAN ELECTRIC POWER CO INC,4911,Electric Services,Energy
+AREB,1648087,AMERICAN REBEL HOLDINGS INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+AMSC,880807,AMERICAN SUPERCONDUCTOR CORP /DE/,3621,Motors & Generators,Industrials
+AVD,5981,AMERICAN VANGUARD CORP,2870,Agricultural Chemicals,Manufacturing
+CRMT,799850,AMERICAS CARMART INC,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+AME,1037868,AMETEK INC/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+AMKR,1047127,"AMKOR TECHNOLOGY, INC.",3674,Semiconductors & Related Devices,Industrials
+AP,6176,AMPCO PITTSBURGH CORP,3561,Pumps & Pumping Equipment,Industrials
+APH,820313,AMPHENOL CORP /DE/,3678,Electronic Connectors,Industrials
+ASYS,720500,AMTECH SYSTEMS INC,3559,"Special Industry Machinery, NEC",Industrials
+ADI,6281,ANALOG DEVICES INC,3674,Semiconductors & Related Devices,Industrials
+AR,1433270,ANTERO RESOURCES Corp,1311,Crude Petroleum & Natural Gas,Energy
+ANVI,1570132,"ANVI GLOBAL HOLDINGS, INC.",5400,Retail-Food Stores,Retail
+APA,1841666,APA Corp,1311,Crude Petroleum & Natural Gas,Energy
+APOG,6845,"APOGEE ENTERPRISES, INC.",3231,"Glass Products, Made of  Purchased Glass",Manufacturing
+AERG,879911,"APPLIED ENERGETICS, INC.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+AMAT,6951,APPLIED MATERIALS INC /DE,3674,Semiconductors & Related Devices,Industrials
+AAOI,1158114,"APPLIED OPTOELECTRONICS, INC.",3674,Semiconductors & Related Devices,Industrials
+ALDS,1755101,APPlife Digital Solutions Inc,5531,Retail-Auto & Home Supply Stores,Retail
+ATR,896622,"APTARGROUP, INC.",3089,"Plastics Products, NEC",Manufacturing
+APSI,1553264,AQUA POWER SYSTEMS INC.,4911,Electric Services,Energy
+ARKR,779544,ARK RESTAURANTS CORP,5812,Retail-Eating  Places,Retail
+ARKO,1823794,ARKO Corp.,5412,Retail-Convenience Stores,Retail
+AWI,7431,ARMSTRONG WORLD INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
+ARTW,7623,ARTS WAY MANUFACTURING CO INC,3523,Farm Machinery & Equipment,Industrials
+ABG,1144980,ASBURY AUTOMOTIVE GROUP INC,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+ACNT,95953,ASCENT INDUSTRIES CO.,2800,Chemicals & Allied Products,Manufacturing
+ASPI,1921865,ASP Isotopes Inc.,2890,Miscellaneous Chemical Products,Manufacturing
+ASTE,792987,ASTEC INDUSTRIES INC,3531,Construction Machinery & Equip,Industrials
+ATRO,8063,ASTRONICS CORP,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+ASTC,1001907,ASTROTECH Corp,3826,Laboratory Analytical Instruments,Manufacturing
+ATI,1018963,ATI INC,3317,Steel Pipe & Tubes,Manufacturing
+ATO,731802,ATMOS ENERGY CORP,4924,Natural Gas Distribution,Energy
+AUSI,826253,AURA SYSTEMS INC,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+ALV,1034670,AUTOLIV INC,3714,Motor Vehicle Parts & Accessories,Industrials
+AN,350698,"AUTONATION, INC.",5500,Retail-Auto Dealers & Gasoline Stations,Retail
+AATC,943034,AUTOSCOPE TECHNOLOGIES CORP,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+AZO,866787,AUTOZONE INC,5531,Retail-Auto & Home Supply Stores,Retail
+AVNW,1377789,"AVIAT NETWORKS, INC.",3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+AVNT,1122976,AVIENT CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+AVA,104918,AVISTA CORP,4931,Electric & Other Services Combined,Energy
+ACLS,1113232,AXCELIS TECHNOLOGIES INC,3559,"Special Industry Machinery, NEC",Industrials
+AXON,1069183,"AXON ENTERPRISE, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+AXTI,1051627,AXT INC,3674,Semiconductors & Related Devices,Industrials
+EVTV,1563568,"AZIO AI HOLDINGS, INC.",3714,Motor Vehicle Parts & Accessories,Industrials
+AZZ,8947,AZZ INC,3470,"Coating, Engraving & Allied Services",Manufacturing
+ASO,1817358,"Academy Sports & Outdoors, Inc.",5940,Retail-Miscellaneous Shopping Goods Stores,Retail
+ASII,1464865,"Accredited Solutions, Inc.",2080,Beverages,Consumer Goods
+GOLF,1672013,Acushnet Holdings Corp.,3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+ADNT,1670541,Adient plc,3714,Motor Vehicle Parts & Accessories,Industrials
+ASIX,1673985,AdvanSix Inc.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+AEBI,2048519,Aebi Schmidt Holding AG,3531,Construction Machinery & Equip,Industrials
+ALMU,1828805,"Aeluma, Inc.",3674,Semiconductors & Related Devices,Industrials
+AVAV,1368622,AeroVironment Inc,3721,Aircraft,Industrials
+AEVA,1789029,"Aeva Technologies, Inc.",3714,Motor Vehicle Parts & Accessories,Industrials
+UAVS,8504,AgEagle Aerial Systems Inc.,3721,Aircraft,Industrials
+AASP,930245,Agassi Sports Entertainment Corp.,5900,Retail-Miscellaneous Retail,Retail
+AIXN,835662,"AiXin Life International, Inc.",5912,Retail-Drug Stores and Proprietary Stores,Retail
+APD,2969,"Air Products & Chemicals, Inc.",2810,Industrial Inorganic Chemicals,Manufacturing
+AIRJ,1855474,AirJoule Technologies Corp.,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+ACI,1646972,"Albertsons Companies, Inc.",5411,Retail-Grocery Stores,Retail
+AA,1675149,Alcoa Corp,3334,Primary Production of  Aluminum,Manufacturing
+ANNA,1845123,"AleAnna, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+ALH,1317685,Alliance Laundry Holdings Inc.,3580,Refrigeration & Service Industry Machinery,Industrials
+ALSN,1411207,Allison Transmission Holdings Inc,3714,Motor Vehicle Parts & Accessories,Industrials
+ALTB,1642365,Alpine Auto Brokers Inc.,5990,"Retail-Retail Stores, NEC",Retail
+AEAE,1852016,AltEnergy Acquisition Corp,3714,Motor Vehicle Parts & Accessories,Industrials
+ALTO,778164,"Alto Ingredients, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+AMBQ,1500412,"Ambiq Micro, Inc.",3674,Semiconductors & Related Devices,Industrials
+AMCCF,1748790,Amcor plc,3990,Miscellaneous Manufacturing Industries,Manufacturing
+AILLO,18654,Ameren Illinois Co,4931,Electric & Other Services Combined,Energy
+AOUT,1808997,"American Outdoor Brands, Inc.",3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+AMPG,1518461,"AmpliTech Group, Inc.",3669,"Communications Equipment, NEC",Industrials
+AMPY,1533924,Amplify Energy Corp.,1311,Crude Petroleum & Natural Gas,Energy
+AMPX,1899287,"Amprius Technologies, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+AMRZ,2035989,Amrize Ltd,3241,"Cement, Hydraulic",Manufacturing
+AM,1623925,Antero Midstream Corp,4922,Natural Gas Transmission,Energy
+SEV,1786471,Aptera Motors Corp,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+APTV,1521332,Aptiv PLC,3714,Motor Vehicle Parts & Accessories,Industrials
+AQMS,1621832,"Aqua Metals, Inc.",3341,Secondary Smelting & Refining of  Nonferrous Metals,Manufacturing
+ARMK,1584509,Aramark,5812,Retail-Eating  Places,Retail
+RKDA,1469443,"Arcadia Biosciences, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+ACHR,1824502,Archer Aviation Inc.,3721,Aircraft,Industrials
+ADM,7084,Archer-Daniels-Midland Co,2070,Fats & Oils,Consumer Goods
+AROC,1389050,"Archrock, Inc.",4922,Natural Gas Transmission,Energy
+ACA,1739445,"Arcosa, Inc.",3440,Fabricated Structural Metal Products,Manufacturing
+ARHS,1875444,"Arhaus, Inc.",5712,Retail-Furniture Stores,Retail
+ARQ,1515156,"Arq, Inc.",2890,Miscellaneous Chemical Products,Manufacturing
+ARRY,1820721,"Array Technologies, Inc.",3674,Semiconductors & Related Devices,Industrials
+AIP,1667011,"Arteris, Inc.",3674,Semiconductors & Related Devices,Industrials
+ASTI,1350102,"Ascent Solar Technologies, Inc.",3674,Semiconductors & Related Devices,Industrials
+ALAB,1736297,"Astera Labs, Inc.",3674,Semiconductors & Related Devices,Industrials
+ATER,1757715,"Aterian, Inc.",3634,Electric Housewares & Fans,Industrials
+ATKR,1666138,Atkore Inc.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+AESI,1984060,Atlas Energy Solutions Inc.,1311,Crude Petroleum & Natural Gas,Energy
+ATMU,1921963,Atmus Filtration Technologies Inc.,3714,Motor Vehicle Parts & Accessories,Industrials
+ATOM,1420520,Atomera Inc,3674,Semiconductors & Related Devices,Industrials
+AVTR,1722482,"Avantor, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+AVY,8818,Avery Dennison Corp,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+AXTA,1616862,Axalta Coating Systems Ltd.,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
+AXIL,1718500,"Axil Brands, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+AZTA,933974,"Azenta, Inc.",3559,"Special Industry Machinery, NEC",Industrials
+BGS,1278027,"B&G Foods, Inc.",2000,Food and Kindred Products,Consumer Goods
+BABB,1123596,"BAB, INC.",5812,Retail-Eating  Places,Retail
+BMI,9092,BADGER METER INC,3824,Totalizing Fluid Meters & Counting Devices,Manufacturing
+BCPC,9326,BALCHEM CORP,2800,Chemicals & Allied Products,Manufacturing
+BALL,9389,BALL Corp,3411,Metal Cans,Manufacturing
+BRFH,1487197,BARFRESH FOOD GROUP INC.,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Consumer Goods
+BRN,10048,BARNWELL INDUSTRIES INC,1311,Crude Petroleum & Natural Gas,Energy
+BASA,1448705,"BASANITE, INC.",3990,Miscellaneous Manufacturing Industries,Manufacturing
+BSET,10329,BASSETT FURNITURE INDUSTRIES INC,2511,"Wood Household Furniture, (No Upholstered)",Consumer Goods
+BATL,1282648,BATTALION OIL CORP,1311,Crude Petroleum & Natural Gas,Energy
+BBXIB,1814974,"BBX Capital, Inc.",5400,Retail-Food Stores,Retail
+BBBY,1130713,"BED BATH & BEYOND, INC.",5961,Retail-Catalog & Mail-Order Houses,Retail
+BELFA,729580,BEL FUSE INC /NJ,3677,"Electronic Coils, Transformers & Other Inductors",Industrials
+BDC,913142,BELDEN INC.,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
+BRBR,1772016,"BELLRING BRANDS, INC.",2000,Food and Kindred Products,Consumer Goods
+BHE,863436,BENCHMARK ELECTRONICS INC,3672,Printed Circuit Boards,Industrials
+BBY,764478,BEST BUY CO INC,5731,"Retail-Radio, Tv & Consumer Electronics Stores",Retail
+BETA,1784570,"BETA Technologies, Inc.",3721,Aircraft,Industrials
+BYND,1655210,"BEYOND MEAT, INC.",2000,Food and Kindred Products,Consumer Goods
+BSIN,101594,BIG SKY INDUSTRIAL INC.,1311,Crude Petroleum & Natural Gas,Energy
+BSCL,1109262,"BILI Social International, Inc.",5960,Retail-Nonstore Retailers,Retail
+BIO,12208,"BIO-RAD LABORATORIES, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+BFNH,1310488,"BIOFORCE NANOSCIENCES HOLDINGS, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+BLGO,880242,"BIOLARGO, INC.",2800,Chemicals & Allied Products,Manufacturing
+BNET,875729,BION ENVIRONMENTAL TECHNOLOGIES INC,2870,Agricultural Chemicals,Manufacturing
+BJ,1531152,"BJ's Wholesale Club Holdings, Inc.",5331,Retail-Variety Stores,Retail
+BJRI,1013488,BJs RESTAURANTS INC,5812,Retail-Eating  Places,Retail
+BKTI,2186,BK Technologies Corp,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+BKV,1838406,BKV Corp,1311,Crude Petroleum & Natural Gas,Energy
+BKH,1130464,BLACK HILLS CORP /SD/,4911,Electric Services,Energy
+BIOF,1549145,"BLUE BIOFUELS, INC.",2860,Industrial Organic Chemicals,Manufacturing
+BDCO,793306,BLUE DOLPHIN ENERGY CO,1311,Crude Petroleum & Natural Gas,Energy
+BLMH,1996210,"BLUM HOLDINGS, INC.",5900,Retail-Miscellaneous Retail,Retail
+BA,12927,BOEING CO,3721,Aircraft,Industrials
+BINI,1499961,"BOLLINGER INNOVATIONS, INC.",3711,Motor Vehicles & Passenger Car Bodies,Industrials
+BNKK,1760903,"BONK, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+BWA,908255,BORGWARNER INC,3714,Motor Vehicle Parts & Accessories,Industrials
+SAM,949870,BOSTON BEER CO INC,2082,Malt Beverages,Consumer Goods
+BRC,746598,BRADY CORP,3990,Miscellaneous Manufacturing Industries,Manufacturing
+BRBF,1976870,BRB Foods Inc.,2000,Food and Kindred Products,Consumer Goods
+BRCC,1891101,BRC Inc.,2080,Beverages,Consumer Goods
+BRID,14177,BRIDGFORD FOODS CORP,2013,Sausages & Other Prepared Meat Products,Consumer Goods
+EAT,703351,"BRINKER INTERNATIONAL, INC",5812,Retail-Eating  Places,Retail
+BWEN,1120370,"BROADWIND, INC.",3360,Nonferrous Foundries (Castings),Manufacturing
+BF-B,14693,BROWN FORMAN CORP,2080,Beverages,Consumer Goods
+BRKRP,1109354,BRUKER CORP,3826,Laboratory Analytical Instruments,Manufacturing
+BC,14930,BRUNSWICK CORP,3510,Engines & Turbines,Industrials
+BTBD,1718224,"BT Brands, Inc.",5812,Retail-Eating  Places,Retail
+BKE,885245,BUCKLE INC,5651,Retail-Family Clothing Stores,Retail
+BUDA,2079720,"BUDA JUICE, INC.",2080,Beverages,Consumer Goods
+BBW,1113809,BUILD-A-BEAR WORKSHOP INC,5945,"Retail-Hobby, Toy & Game Shops",Retail
+BWXT,1486957,"BWX Technologies, Inc.",3510,Engines & Turbines,Industrials
+BW,1630805,"Babcock & Wilcox Enterprises, Inc.",3433,"Heating Equipment, Except Electric & Warm Air Furnaces",Manufacturing
+BKR,1701605,Baker Hughes Co,3533,Oil & Gas Field Machinery & Equipment,Industrials
+BARK,1819574,"Bark, Inc.",5990,"Retail-Retail Stores, NEC",Retail
+BNED,1634117,"Barnes & Noble Education, Inc.",5940,Retail-Miscellaneous Shopping Goods Stores,Retail
+BRLL,1631463,Barrel Energy Inc.,1311,Crude Petroleum & Natural Gas,Energy
+BBWI,701985,"Bath & Body Works, Inc.",5990,"Retail-Retail Stores, NEC",Retail
+BLCO,1860742,Bausch & Lomb Corp,3851,Ophthalmic Goods,Manufacturing
+BODI,1826889,"Beachbody Company, Inc.",5960,Retail-Nonstore Retailers,Retail
+BEEM,1398805,Beam Global,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+BH,1726173,Biglari Holdings Inc.,5812,Retail-Eating  Places,Retail
+BESS,1066764,Bimergen Energy Corp,4911,Electric Services,Energy
+BNGO,1411690,"Bionano Genomics, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+BCHT,728385,Birchtech Corp.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+BRCB,2068577,"Black Rock Coffee Bar, Inc.",5810,Retail-Eating & Drinking Places,Retail
+BSM,1621434,"Black Stone Minerals, L.P.",1311,Crude Petroleum & Natural Gas,Energy
+BKSY,1753539,BlackSky Technology Inc.,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+BZAI,1871638,"Blaize Holdings, Inc.",3674,Semiconductors & Related Devices,Industrials
+BLNK,1429764,Blink Charging Co.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+BE,1664703,Bloom Energy Corp,3620,Electrical Industrial Apparatus,Industrials
+BLMN,1546417,"Bloomin' Brands, Inc.",5812,Retail-Eating  Places,Retail
+BLBD,1589526,Blue Bird Corp,3713,Truck & Bus Bodies,Industrials
+BLNH,2029586,"Blue Line Holdings, Inc.",2086,Bottled & Canned Soft Drinks & Carbonated Waters,Consumer Goods
+BLPG,1416697,"Blue Line Protection Group, Inc.",5900,Retail-Miscellaneous Retail,Retail
+BSFC,1730773,Blue Star Foods Corp.,2092,Prepared Fresh or  Frozen Fish & Seafoods,Consumer Goods
+BOBS,2085187,"Bob's Discount Furniture, Inc.",5712,Retail-Furniture Stores,Retail
+BOOT,1610250,"Boot Barn Holdings, Inc.",5661,Retail-Shoe Stores,Retail
+BRLS,1852973,Borealis Foods Inc.,2000,Food and Kindred Products,Consumer Goods
+BOF,1962481,BranchOut Food Inc.,2000,Food and Kindred Products,Consumer Goods
+BRLT,1866757,"Brilliant Earth Group, Inc.",3910,"Jewelry, Silverware & Plated Ware",Manufacturing
+AVGO,1730168,Broadcom Inc.,3674,Semiconductors & Related Devices,Industrials
+BWMG,1166708,"Brownie's Marine Group, Inc",3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+BLDR,1316835,"Builders FirstSource, Inc.",5211,Retail-Lumber & Other Building Materials Dealers,Retail
+BG,1996862,Bunge Global SA,2070,Fats & Oils,Consumer Goods
+BURL,1579298,"Burlington Stores, Inc.",5311,Retail-Department Stores,Retail
+BYRN,1354866,Byrna Technologies Inc.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+CBT,16040,CABOT CORP,2890,Miscellaneous Chemical Products,Manufacturing
+CAL,14707,CALERES INC,3140,"Footwear, (No Rubber)",Manufacturing
+CEIN,1309082,"CAMBER ENERGY, INC.",1311,Crude Petroleum & Natural Gas,Energy
+CPB,16732,CAMPBELL'S Co,2000,Food and Kindred Products,Consumer Goods
+CAPC,814926,"CAPSTONE COMPANIES, INC.",3640,Electric Lighting & Wiring Equipment,Industrials
+CSL,790051,CARLISLE COMPANIES INC,3060,"Fabricated Rubber Products, NEC",Manufacturing
+KMX,1170010,CARMAX INC,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+CRS,17843,CARPENTER TECHNOLOGY CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+CARR,1783180,CARRIER GLOBAL Corp,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+CRI,1060822,CARTERS INC,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+CVNA,1690820,CARVANA CO.,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+CASY,726958,CASEYS GENERAL STORES INC,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+CAT,18230,CATERPILLAR INC,3531,Construction Machinery & Equip,Industrials
+CATO,18255,CATO CORP,5621,Retail-Women's Clothing Stores,Retail
+CAVA,1639438,"CAVA GROUP, INC.",5812,Retail-Eating  Places,Retail
+CVCO,278166,"CAVCO INDUSTRIES, INC.",2451,Mobile Homes,Manufacturing
+CDW,1402057,CDW Corp,5961,Retail-Catalog & Mail-Order Houses,Retail
+CECO,3197,CECO ENVIRONMENTAL CORP,3564,Industrial & Commercial Fans & Blowers & Air Purifing Equip,Industrials
+CNP,1130310,CENTERPOINT ENERGY INC,4911,Electric Services,Energy
+CENX,949157,CENTURY ALUMINUM CO,3334,Primary Production of  Aluminum,Manufacturing
+CF,1324404,"CF Industries Holdings, Inc.",2870,Agricultural Chemicals,Manufacturing
+GTLS,892553,CHART INDUSTRIES INC,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+CAKE,887596,CHEESECAKE FACTORY INC,5812,Retail-Eating  Places,Retail
+CHKR,1524769,CHESAPEAKE GRANITE WASH TRUST,1311,Crude Petroleum & Natural Gas,Energy
+CPK,19745,CHESAPEAKE UTILITIES CORP,4923,Natural Gas Transmisison & Distribution,Energy
+CVX,93410,CHEVRON CORP,2911,Petroleum Refining,Energy
+CVR,19871,CHICAGO RIVET & MACHINE CO,3540,Metalworkg Machinery & Equipment,Industrials
+CMG,1058090,CHIPOTLE MEXICAN GRILL INC,5812,Retail-Eating  Places,Retail
+CHD,313927,CHURCH & DWIGHT CO INC /DE/,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+CIEN,936395,CIENA CORP,3661,Telephone & Telegraph Apparatus,Industrials
+CIMG,1527613,CIMG Inc.,5900,Retail-Miscellaneous Retail,Retail
+CMPR,1262976,CIMPRESS plc,2750,Commercial Printing,Manufacturing
+CTAS,723254,CINTAS CORP,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Consumer Goods
+CRUS,772406,"CIRRUS LOGIC, INC.",3674,Semiconductors & Related Devices,Industrials
+CIRX,813716,CIRTRAN CORP,2080,Beverages,Consumer Goods
+CKX,352955,"CKX LANDS, INC.",1311,Crude Petroleum & Natural Gas,Energy
+CLRO,840715,CLEARONE INC,3661,Telephone & Telegraph Apparatus,Industrials
+CLX,21076,CLOROX CO /DE/,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
+CMS,811156,CMS ENERGY CORP,4931,Electric & Other Services Combined,Energy
+UCFI,1901203,CN Healthy Food Tech Group Corp.,2000,Food and Kindred Products,Consumer Goods
+CNX,1070412,CNX Resources Corp,1311,Crude Petroleum & Natural Gas,Energy
+KO,21344,COCA COLA CO,2080,Beverages,Consumer Goods
+CDXS,1200375,"CODEXIS, INC.",2860,Industrial Organic Chemicals,Manufacturing
+JVA,1007019,COFFEE HOLDING CO INC,2090,Miscellaneous Food Preparations & Kindred Products,Consumer Goods
+CGNX,851205,COGNEX CORP,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+COHR,820318,COHERENT CORP.,3827,Optical Instruments & Lenses,Manufacturing
+COHU,21535,COHU INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+CL,21665,COLGATE PALMOLIVE CO,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+COLM,1050797,COLUMBIA SPORTSWEAR CO,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+CMCO,1005229,COLUMBUS MCKINNON CORP,3531,Construction Machinery & Equip,Industrials
+CMC,22444,COMMERCIAL METALS Co,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+CIX,1049606,COMPX INTERNATIONAL INC,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+CRK,23194,COMSTOCK RESOURCES INC,1311,Crude Petroleum & Natural Gas,Energy
+CMTL,23197,COMTECH TELECOMMUNICATIONS CORP /DE/,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+CAG,23217,CONAGRA BRANDS INC.,2000,Food and Kindred Products,Consumer Goods
+CONC,790273,CONECTISYS CORP,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+CNPWP,23426,CONNECTICUT LIGHT & POWER CO,4911,Electric Services,Energy
+COP,1163165,CONOCOPHILLIPS,2911,Petroleum Refining,Energy
+CBMJ,1452583,"CONSERVATIVE BROADCAST MEDIA & PUBLISHING, INC.",4911,Electric Services,Energy
+ED,1047862,CONSOLIDATED EDISON INC,4931,Electric & Other Services Combined,Energy
+STZ,16918,"CONSTELLATION BRANDS, INC.",2080,Beverages,Consumer Goods
+CMS-PB,201533,CONSUMERS ENERGY CO,4931,Electric & Other Services Combined,Energy
+COO,711404,"COOPER COMPANIES, INC.",3851,Ophthalmic Goods,Manufacturing
+CPRT,900075,COPART INC,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+CMT,1026655,CORE MOLDING TECHNOLOGIES INC,3089,"Plastics Products, NEC",Manufacturing
+GLW,24741,CORNING INC /NY,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
+COST,909832,COSTCO WHOLESALE CORP /NEW,5331,Retail-Variety Stores,Retail
+COTY,1024305,COTY INC.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+CVU,889348,CPI AEROSTRUCTURES INC,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+PMTS,1641614,CPI Card Group Inc.,2750,Commercial Printing,Manufacturing
+CPSH,814676,CPS TECHNOLOGIES CORP/DE/,3260,Pottery & Related Products,Manufacturing
+CBRL,1067294,"CRACKER BARREL OLD COUNTRY STORE, INC",5812,Retail-Eating  Places,Retail
+CRWS,25895,CROWN CRAFTS INC,2211,"Broadwoven Fabric Mills, Cotton",Consumer Goods
+CCK,1219601,"CROWN HOLDINGS, INC.",3411,Metal Cans,Manufacturing
+CSDX,1106861,CS DIAGNOSTICS CORP.,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
+CSW,1624794,"CSW INDUSTRIALS, INC.",2891,Adhesives & Sealants,Manufacturing
+CTS,26058,CTS CORP,3672,Printed Circuit Boards,Industrials
+CULP,723603,CULP INC,2211,"Broadwoven Fabric Mills, Cotton",Consumer Goods
+CMI,26172,CUMMINS INC,3510,Engines & Turbines,Industrials
+CW,26324,CURTISS WRIGHT CORP,3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+CVV,766792,CVD EQUIPMENT CORP,3559,"Special Industry Machinery, NEC",Industrials
+CVI,1376139,CVR ENERGY INC,2911,Petroleum Refining,Energy
+UAN,1425292,"CVR PARTNERS, LP",2870,Agricultural Chemicals,Manufacturing
+CVS,64803,CVS HEALTH Corp,5912,Retail-Drug Stores and Proprietary Stores,Retail
+ECXJ,1823635,"CXJ GROUP CO., Ltd",3714,Motor Vehicle Parts & Accessories,Industrials
+WHD,1699136,"Cactus, Inc.",3533,Oil & Gas Field Machinery & Equipment,Industrials
+CRC,1609253,California Resources Corp,1311,Crude Petroleum & Natural Gas,Energy
+CALY,837465,Callaway Golf Co,3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+CLMT,2013745,"Calumet, Inc. /DE",2911,Petroleum Refining,Energy
+CMBMF,1738177,Cambium Networks Corp,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+CWH,1669779,"Camping World Holdings, Inc.",5500,Retail-Auto Dealers & Gasoline Stations,Retail
+CNNE,1704720,"Cannae Holdings, Inc.",5810,Retail-Eating & Drinking Places,Retail
+CEPL,1009759,"Capstone Energy Plus, Inc.",3510,Engines & Turbines,Industrials
+PRTS,1378950,"CarParts.com, Inc.",5531,Retail-Auto & Home Supply Stores,Retail
+CRVW,1377149,CareView Communications Inc,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+CABR,2020737,"Caring Brands, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+CAHO,1678105,Caro Holdings Inc.,5961,Retail-Catalog & Mail-Order Houses,Retail
+CE,1306830,Celanese Corp,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
+CELH,1341766,"Celsius Holdings, Inc.",2086,Bottled & Canned Soft Drinks & Carbonated Waters,Consumer Goods
+CTRI,1981599,"Centuri Holdings, Inc.",4923,Natural Gas Transmisison & Distribution,Energy
+SKY,90896,"Champion Homes, Inc.",2451,Mobile Homes,Manufacturing
+CHPT,1777393,"ChargePoint Holdings, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+CC,1627223,Chemours Co,2800,Chemicals & Allied Products,Manufacturing
+CQP,1383650,"Cheniere Energy Partners, L.P.",4924,Natural Gas Distribution,Energy
+LNG,3570,"Cheniere Energy, Inc.",4924,Natural Gas Distribution,Energy
+CHWY,1766502,"Chewy, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+GDST,1858007,Chi Special Acquisition Corp.,3620,Electrical Industrial Apparatus,Industrials
+PLCE,1041859,"Childrens Place, Inc.",5651,Retail-Family Clothing Stores,Retail
+CHRD,1486159,Chord Energy Corp,1311,Crude Petroleum & Natural Gas,Energy
+CHRN,1549084,ChronoScale Holdings Corp,3569,"General Industrial Machinery & Equipment, NEC",Industrials
+CBUS,1705843,"Cibus, Inc.",2870,Agricultural Chemicals,Manufacturing
+CRCE,1911467,"Circle Energy, Inc./NV",1311,Crude Petroleum & Natural Gas,Energy
+CTRN,1318484,Citi Trends Inc,5600,Retail-Apparel & Accessory Stores,Retail
+CITR,894556,CitroTech Inc.,2800,Chemicals & Allied Products,Manufacturing
+CLAR,913277,Clarus Corp,3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+CLNE,1368265,Clean Energy Fuels Corp.,4932,Gas & Other Services Combined,Energy
+CETY,1329606,"Clean Energy Technologies, Inc.",4924,Natural Gas Distribution,Energy
+CLNV,1391426,Clean Vision Corp,2860,Industrial Organic Chemicals,Manufacturing
+ZONE,1956741,"CleanCore Solutions, Inc.",2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Manufacturing
+CLIR,1434524,ClearSign Technologies Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+CLFD,796505,"Clearfield, Inc.",3661,Telephone & Telegraph Apparatus,Industrials
+CLW,1441236,Clearwater Paper Corp,2631,Paperboard Mills,Manufacturing
+CWEN,1567683,"Clearway Energy, Inc.",4911,Electric Services,Energy
+CJAX,1763925,CoJax Oil & Gas Corp,1311,Crude Petroleum & Natural Gas,Energy
+COKE,317540,"Coca-Cola Consolidated, Inc.",2086,Bottled & Canned Soft Drinks & Carbonated Waters,Consumer Goods
+CODA,1334325,"Coda Octopus Group, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+CVGI,1290900,"Commercial Vehicle Group, Inc.",3714,Motor Vehicle Parts & Accessories,Industrials
+CODI,1345126,Compass Diversified Holdings,2510,Household Furniture,Consumer Goods
+LODE,1120970,Comstock Inc.,2860,Industrial Organic Chemicals,Manufacturing
+CLEV,1414382,Concrete Leveling Systems Inc,3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+CEG,1868275,Constellation Energy Corp,4911,Electric Services,Energy
+LOGC,2064307,ContextLogic Holdings Inc.,5961,Retail-Catalog & Mail-Order Houses,Retail
+CPS,1320461,Cooper-Standard Holdings Inc.,3714,Motor Vehicle Parts & Accessories,Industrials
+CLB,1958086,Core Laboratories Inc. /DE/,1389,"Oil & Gas Field Services, NEC",Energy
+CPNG,1834584,"Coupang, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+CR,1944013,Crane Co,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+CXT,25445,"Crane NXT, Co.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
+CRDO,1807794,Credo Technology Group Holding Ltd,3674,Semiconductors & Related Devices,Industrials
+CRGY,1866175,Crescent Energy Co,1311,Crude Petroleum & Natural Gas,Energy
+CRCT,1828962,"Cricut, Inc.",3559,"Special Industry Machinery, NEC",Industrials
+CWGL,1562151,"Crimson Wine Group, Ltd",2080,Beverages,Consumer Goods
+CROX,1334036,"Crocs, Inc.",3021,Rubber & Plastics Footwear,Manufacturing
+CRWE,1103833,"Crown Equity Holdings, Inc.",5734,Retail-Computer & Computer Software Stores,Retail
+CETI,1935092,"Cyber Enviro-Tech, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+CTKB,1831915,"Cytek Biosciences, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+DJCO,783412,DAILY JOURNAL CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+DAKT,915779,DAKTRONICS INC /SD/,3990,Miscellaneous Manufacturing Industries,Manufacturing
+DAN,26780,DANA Inc,3714,Motor Vehicle Parts & Accessories,Industrials
+DHR,313616,DANAHER CORP /DE/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+DRI,940944,DARDEN RESTAURANTS INC,5812,Retail-Eating  Places,Retail
+DAR,916540,DARLING INGREDIENTS INC.,2070,Fats & Oils,Consumer Goods
+DAIO,351998,DATA I/O CORP,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+DWSN,799165,DAWSON GEOPHYSICAL CO,1382,Oil & Gas Field Exploration Services,Energy
+DECK,910521,DECKERS OUTDOOR CORP,3021,Rubber & Plastics Footwear,Manufacturing
+FISN,1918102,"DEEP FISSION, INC.",4911,Electric Services,Energy
+DE,315189,DEERE & CO,3523,Farm Machinery & Equipment,Industrials
+DLX,27996,DELUXE CORP,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Manufacturing
+DXLG,813298,"DESTINATION XL GROUP, INC.",5651,Retail-Family Clothing Stores,Retail
+DVN,1090012,DEVON ENERGY CORP/DE,1311,Crude Petroleum & Natural Gas,Energy
+DKS,1089063,"DICK'S SPORTING GOODS, INC.",5940,Retail-Miscellaneous Shopping Goods Stores,Retail
+DBD,28823,"DIEBOLD NIXDORF, Inc",3578,Calculating & Accounting Machines (No Electronic Computers),Industrials
+DDT,28917,"DILLARD'S, INC.",5311,Retail-Department Stores,Retail
+DIOD,29002,DIODES INC /DEL/,3674,Semiconductors & Related Devices,Industrials
+DXYN,29332,DIXIE GROUP INC,2273,Carpets & Rugs,Consumer Goods
+BOOM,34067,DMC Global Inc.,3390,Miscellaneous Primary Metal Products,Manufacturing
+SONM,1178697,"DNA X, Inc.",3661,Telephone & Telegraph Apparatus,Industrials
+DNOW,1599617,DNOW Inc.,3533,Oil & Gas Field Machinery & Equipment,Industrials
+DG,29534,DOLLAR GENERAL CORP,5331,Retail-Variety Stores,Retail
+DLTR,935703,"DOLLAR TREE, INC.",5331,Retail-Variety Stores,Retail
+D,715957,"DOMINION ENERGY, INC",4911,Electric Services,Energy
+DCI,29644,DONALDSON Co INC,3564,Industrial & Commercial Fans & Blowers & Air Purifing Equip,Industrials
+DMLP,1172358,"DORCHESTER MINERALS, L.P.",1311,Crude Petroleum & Natural Gas,Energy
+PLOW,1287213,"DOUGLAS DYNAMICS, INC",3531,Construction Machinery & Equip,Industrials
+DOV,29905,DOVER Corp,3530,"Construction, Mining & Materials Handling Machinery & Equip",Industrials
+DOW,1751788,DOW INC.,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+DSS,771999,"DSS, INC.",2650,Paperboard Containers & Boxes,Manufacturing
+DQWS,1652561,DSwiss Inc,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+DTM,1842022,"DT Midstream, Inc.",4922,Natural Gas Transmission,Energy
+DTW,936340,DTE ENERGY CO,4911,Electric Services,Energy
+DCO,30305,DUCOMMUN INC /DE/,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+DUKR,1638911,DUKE Robotics Corp.,3721,Aircraft,Industrials
+DLTH,1649744,DULUTH HOLDINGS INC.,5600,Retail-Apparel & Accessory Stores,Retail
+BRQL,1854526,DYNAMIC AEROSPACE SYSTEMS Corp,3721,Aircraft,Industrials
+DCH,1062231,Dauch Corp,3714,Motor Vehicle Parts & Accessories,Industrials
+PLAY,1525769,"Dave & Buster's Entertainment, Inc.",5812,Retail-Eating  Places,Retail
+DK,1694426,"Delek US Holdings, Inc.",2911,Petroleum Refining,Energy
+DBI,1319947,Designer Brands Inc.,5661,Retail-Shoe Stores,Retail
+FANG,1539838,"Diamondback Energy, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+DBGI,1668010,"Digital Brands Group, Inc.",5600,Retail-Apparel & Accessory Stores,Retail
+DIN,49754,"Dine Brands Global, Inc.",5812,Retail-Eating  Places,Retail
+DORM,868780,"Dorman Products, Inc.",3714,Motor Vehicle Parts & Accessories,Industrials
+DFLI,1847986,Dragonfly Energy Holdings Corp.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+DTI,1884516,Drilling Tools International Corp,3533,Oil & Gas Field Machinery & Equipment,Industrials
+DD,1666700,"DuPont de Nemours, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+DUK,1326160,Duke Energy CORP,4931,Electric & Other Services Combined,Energy
+BROS,1866581,Dutch Bros Inc.,5810,Retail-Eating & Drinking Places,Retail
+EXP,918646,EAGLE MATERIALS INC,3241,"Cement, Hydraulic",Manufacturing
+EML,31107,EASTERN CO,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+EMN,915389,EASTMAN CHEMICAL CO,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+KODK,31235,EASTMAN KODAK CO,3861,Photographic Equipment & Supplies,Manufacturing
+ECTM,1487798,ECA Marcellus Trust I,1311,Crude Petroleum & Natural Gas,Energy
+ESSI,1490873,"ECO SCIENCE SOLUTIONS, INC.",5900,Retail-Miscellaneous Retail,Retail
+ECL,31462,ECOLAB INC.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+EPC,1096752,EDGEWELL PERSONAL CARE Co,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+EIX,827052,EDISON INTERNATIONAL,4911,Electric Services,Energy
+CTA-PA,30554,"EIDP, Inc.",2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
+ELSE,351789,ELECTRO SENSORS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+EMR,32604,EMERSON ELECTRIC CO,3600,Electronic & Other Electrical Equipment (No Computer Equip),Industrials
+MSN,32621,EMERSON RADIO CORP,3651,Household Audio & Video Equipment,Industrials
+EP,887396,EMPIRE PETROLEUM CORP,1311,Crude Petroleum & Natural Gas,Energy
+ENR,1632790,"ENERGIZER HOLDINGS, INC.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+EFOI,924168,"ENERGY FOCUS, INC/DE",3640,Electric Lighting & Wiring Equipment,Industrials
+EPAC,6955,ENERPAC TOOL GROUP CORP,3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+EBF,33002,"ENNIS, INC.",2761,Manifold Business Forms,Manufacturing
+ENTG,1101302,ENTEGRIS INC,3089,"Plastics Products, NEC",Manufacturing
+EAI,7323,"ENTERGY ARKANSAS, LLC",4911,Electric Services,Energy
+ETR,65984,ENTERGY CORP /DE/,4911,Electric Services,Energy
+ELC,1348952,"ENTERGY LOUISIANA, LLC",4911,Electric Services,Energy
+EMP,66901,"ENTERGY MISSISSIPPI, LLC",4911,Electric Services,Energy
+ENO,71508,"ENTERGY NEW ORLEANS, LLC",4931,Electric & Other Services Combined,Energy
+ETI-P,1427437,"ENTERGY TEXAS, INC.",4911,Electric Services,Energy
+EPD,1061219,ENTERPRISE PRODUCTS PARTNERS L.P.,4922,Natural Gas Transmission,Energy
+EOG,821189,EOG RESOURCES INC,1311,Crude Petroleum & Natural Gas,Energy
+EONR,1842556,EON Resources Inc.,1311,Crude Petroleum & Natural Gas,Energy
+EQT,33213,EQT Corp,1311,Crude Petroleum & Natural Gas,Energy
+MOJO,1414953,EQUATOR Beverage Co,2080,Beverages,Consumer Goods
+ESAB,1877322,ESAB Corp,3569,"General Industrial Machinery & Equipment, NEC",Industrials
+ESCA,33488,ESCALADE INC,3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+ESE,866706,ESCO TECHNOLOGIES INC,3669,"Communications Equipment, NEC",Industrials
+ESP,33533,ESPEY MFG & ELECTRONICS CORP,3679,"Electronic Components, NEC",Industrials
+GWH,1819438,"ESS Tech, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+EL,1001250,ESTEE LAUDER COMPANIES INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ETD,896156,ETHAN ALLEN INTERIORS INC,2511,"Wood Household Furniture, (No Upholstered)",Consumer Goods
+ES,72741,EVERSOURCE ENERGY,4911,Electric Services,Energy
+MRAM,1438423,EVERSPIN TECHNOLOGIES INC.,3674,Semiconductors & Related Devices,Industrials
+EPM,1006655,EVOLUTION PETROLEUM CORP,1311,Crude Petroleum & Natural Gas,Energy
+EXC,1109357,EXELON CORP,4931,Electric & Other Services Combined,Energy
+EXE,895126,EXPAND ENERGY Corp,1311,Crude Petroleum & Natural Gas,Energy
+XPRO,1575828,EXPRO GROUP HOLDINGS N.V.,1389,"Oil & Gas Field Services, NEC",Energy
+EZPW,876523,EZCORP INC,5900,Retail-Miscellaneous Retail,Retail
+ETN,1551182,Eaton Corp plc,3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+ECVT,1708035,Ecovyst Inc.,2800,Chemicals & Allied Products,Manufacturing
+LOCO,1606366,"El Pollo Loco Holdings, Inc.",5812,Retail-Eating  Places,Retail
+ESI,1590714,Element Solutions Inc,2890,Miscellaneous Chemical Products,Manufacturing
+NUVI,1410708,Emo Capital Corp.,2870,Agricultural Chemicals,Manufacturing
+ENS,1289308,EnerSys,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+WATT,1575793,Energous Corp,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+ERII,1421517,"Energy Recovery, Inc.",3559,"Special Industry Machinery, NEC",Industrials
+ET,1276187,Energy Transfer LP,4922,Natural Gas Transmission,Energy
+NRGV,1828536,"Energy Vault Holdings, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+ENVX,1828318,Enovix Corp,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+ENPH,1463101,"Enphase Energy, Inc.",3674,Semiconductors & Related Devices,Industrials
+NPO,1164863,Enpro Inc.,3050,"Gaskets, Packg & Sealg Devices & Rubber & Plastics Hose",Manufacturing
+NTRX,1363598,"Entrex Carbon Market, Inc.",5712,Retail-Furniture Stores,Retail
+ELA,701719,Envela Corp,5944,Retail-Jewelry Stores,Retail
+EOSE,1805077,"Eos Energy Enterprises, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+EPSN,1726126,Epsilon Energy Ltd.,1311,Crude Petroleum & Natural Gas,Energy
+EVEX,1823652,"Eve Holding, Inc.",3721,Aircraft,Industrials
+EVRG,1711269,"Evergy, Inc.",4931,Electric & Other Services Combined,Energy
+EVOH,1700844,EvoAir Holdings Inc.,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+EMAT,1866226,Evolution Metals & Technologies Corp.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+EE,1888447,"Excelerate Energy, Inc.",4924,Natural Gas Distribution,Energy
+XPON,1894954,Expion360 Inc.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+EYPT,1314102,"EyePoint, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+FACT,2028935,FACT II Acquisition Corp.,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+FFAI,1805521,FARADAY FUTURE INTELLIGENT ELECTRIC INC.,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+FCCI,1807689,"FAST CASUAL CONCEPTS, INC.",5810,Retail-Eating & Drinking Places,Retail
+FAST,815556,FASTENAL CO,5200,"Retail-Building Materials, Hardware, Garden Supply",Retail
+FBCD,1370816,"FBC Holding, Inc.",5600,Retail-Apparel & Accessory Stores,Retail
+FSS,277509,FEDERAL SIGNAL CORP /DE/,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+FGPR,922358,FERRELLGAS PARTNERS L P,5900,Retail-Miscellaneous Retail,Retail
+FGI,1864943,FGI Industries Ltd.,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
+FIGS,1846576,"FIGS, Inc.",2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+FSLR,1274494,"FIRST SOLAR, INC.",3674,Semiconductors & Related Devices,Industrials
+FE,1031296,FIRSTENERGY CORP,4911,Electric Services,Energy
+FIVE,1177609,"FIVE BELOW, INC",5331,Retail-Variety Stores,Retail
+BDL,12040,FLANIGANS ENTERPRISES INC,5812,Retail-Eating  Places,Retail
+FLEX,866374,FLEX LTD.,3672,Printed Circuit Boards,Industrials
+FSI,1069394,FLEXIBLE SOLUTIONS INTERNATIONAL INC,2890,Miscellaneous Chemical Products,Manufacturing
+FLXS,37472,FLEXSTEEL INDUSTRIES INC,2510,Household Furniture,Consumer Goods
+FTK,928054,FLOTEK INDUSTRIES INC/CN/,2890,Miscellaneous Chemical Products,Manufacturing
+FLO,1128928,FLOWERS FOODS INC,2000,Food and Kindred Products,Consumer Goods
+FLS,30625,FLOWSERVE CORP,3561,Pumps & Pumping Equipment,Industrials
+FMC,37785,FMC CORP,2800,Chemicals & Allied Products,Manufacturing
+FCUV,1590418,FOCUS UNIVERSAL INC.,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+F,37996,FORD MOTOR CO,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+FORM,1039399,FORMFACTOR INC,3674,Semiconductors & Related Devices,Industrials
+FET,1401257,"FORUM ENERGY TECHNOLOGIES, INC.",3533,Oil & Gas Field Machinery & Equipment,Industrials
+FOXF,1424929,FOX FACTORY HOLDING CORP,3751,"Motorcycles, Bicycles & Parts",Industrials
+FELE,38725,FRANKLIN ELECTRIC CO INC,3621,Motors & Generators,Industrials
+FKWL,722572,FRANKLIN WIRELESS CORP,3661,Telephone & Telegraph Apparatus,Industrials
+FEIM,39020,FREQUENCY ELECTRONICS INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+FRD,39092,FRIEDMAN INDUSTRIES INC,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+FTCI,1828161,"FTC Solar, Inc.",3674,Semiconductors & Related Devices,Industrials
+FTEK,846913,"FUEL TECH, INC.",3564,Industrial & Commercial Fans & Blowers & Air Purifing Equip,Industrials
+FCEL,886128,FUELCELL ENERGY INC,3620,Electrical Industrial Apparatus,Industrials
+FUL,39368,FULLER H B CO,2891,Adhesives & Sealants,Manufacturing
+FN,1408710,Fabrinet,3661,Telephone & Telegraph Apparatus,Industrials
+FAC,2049662,Factorial Energy Inc.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+FATPQ,1705012,"Fat Brands, Inc",5812,Retail-Eating  Places,Retail
+FIEE,1467761,"FiEE, Inc.",3661,Telephone & Telegraph Apparatus,Industrials
+FLY,1860160,Firefly Aerospace Inc.,3760,Guided Missiles & Space Vehicles & Parts,Industrials
+FWRG,1789940,"First Watch Restaurant Group, Inc.",5812,Retail-Eating  Places,Retail
+FCFS,840489,"FirstCash Holdings, Inc.",5900,Retail-Miscellaneous Retail,Retail
+FND,1507079,"Floor & Decor Holdings, Inc.",5211,Retail-Lumber & Other Building Materials Dealers,Retail
+FLOC,2035149,Flowco Holdings Inc.,3533,Oil & Gas Field Machinery & Equipment,Industrials
+FLNC,1868941,"Fluence Energy, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+FLUX,1083743,"Flux Power Holdings, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+FLYE,1975940,"Fly-E Group, Inc.",3711,Motor Vehicles & Passenger Car Bodies,Industrials
+FTV,1659166,Fortive Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+FBIN,1519751,"Fortune Brands Innovations, Inc.",2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Manufacturing
+FVTI,1626745,"Fortune Valley Treasures, Inc.",5900,Retail-Miscellaneous Retail,Retail
+FOSL,883569,"Fossil Group, Inc.",3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
+FFLO,1543652,"Free Flow USA, Inc.",5531,Retail-Auto & Home Supply Stores,Retail
+RAIL,1320854,"FreightCar America, Inc.",3743,Railroad Equipment,Industrials
+FRPT,1611647,"Freshpet, Inc.",2040,Grain Mill Products,Consumer Goods
+FNKO,1704711,"Funko, Inc.",3944,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",Consumer Goods
+FF,1337298,FutureFuel Corp.,2860,Industrial Organic Chemicals,Manufacturing
+GIII,821002,G III APPAREL GROUP LTD /DE/,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+GAP,39911,GAP INC,5651,Retail-Family Clothing Stores,Retail
+GRMN,1121788,GARMIN LTD,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+GCTS,1851961,"GCT Semiconductor Holding, Inc.",3674,Semiconductors & Related Devices,Industrials
+GEV,1996810,GE Vernova Inc.,3600,Electronic & Other Electrical Equipment (No Computer Equip),Industrials
+GENK,1891856,"GEN Restaurant Group, Inc.",5812,Retail-Eating  Places,Retail
+GENC,64472,GENCOR INDUSTRIES INC,3531,Construction Machinery & Equip,Industrials
+GNRC,1474735,GENERAC HOLDINGS INC.,3621,Motors & Generators,Industrials
+GD,40533,GENERAL DYNAMICS CORP,3730,Ship & Boat Building & Repairing,Industrials
+GE,40545,GENERAL ELECTRIC CO,3600,Electronic & Other Electrical Equipment (No Computer Equip),Industrials
+GIS,40704,GENERAL MILLS INC,2040,Grain Mill Products,Consumer Goods
+GCO,18498,GENESCO INC,5661,Retail-Shoe Stores,Retail
+GNTX,355811,GENTEX CORP,3714,Motor Vehicle Parts & Accessories,Industrials
+RSKIA,84112,"GEORGE RISK INDUSTRIES, INC.",3669,"Communications Equipment, NEC",Industrials
+GPJA,41091,GEORGIA POWER CO,4911,Electric Services,Energy
+GEOS,1001115,GEOSPACE TECHNOLOGIES CORP,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+ROCK,912562,"GIBRALTAR INDUSTRIES, INC.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+GIFT,1760233,"GIFTIFY, INC.",5961,Retail-Catalog & Mail-Order Houses,Retail
+GTLL,932021,GLOBAL TECHNOLOGIES LTD,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+GWLL,1800373,"GOLDENWELL BIOTECH, INC.",2000,Food and Kindred Products,Consumer Goods
+GT,42582,GOODYEAR TIRE & RUBBER CO /OH/,3011,Tires & Inner Tubes,Manufacturing
+GRC,42682,GORMAN RUPP CO,3561,Pumps & Pumping Equipment,Industrials
+GGG,42888,GRACO INC,3561,Pumps & Pumping Equipment,Industrials
+EAF,931148,GRAFTECH INTERNATIONAL LTD,3620,Electrical Industrial Apparatus,Industrials
+GHM,716314,GRAHAM CORP,3560,General Industrial Machinery & Equipment,Industrials
+GTE,1273441,GRAN TIERRA ENERGY INC.,1311,Crude Petroleum & Natural Gas,Energy
+GPK,1408075,GRAPHIC PACKAGING HOLDING CO,2650,Paperboard Containers & Boxes,Manufacturing
+GTIJF,1879373,GRAPHJET TECHNOLOGY,3620,Electrical Industrial Apparatus,Industrials
+GBX,923120,GREENBRIER COMPANIES INC,3743,Railroad Equipment,Industrials
+GWTI,1572386,"GREENWAY TECHNOLOGIES, INC. & SUBSIDIARIES",2860,Industrial Organic Chemicals,Manufacturing
+GEF,43920,"GREIF, INC",3412,"Metal Shipping Barrels, Drums, Kegs & Pails",Manufacturing
+GLGI,1088413,"GREYSTONE LOGISTICS, INC.",3559,"Special Industry Machinery, NEC",Industrials
+GFF,50725,GRIFFON CORP,3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
+GRVE,918573,GROOVE BOTANICALS INC.,1311,Crude Petroleum & Natural Gas,Energy
+GPI,1031203,GROUP 1 AUTOMOTIVE INC,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+GSIT,1126741,GSI TECHNOLOGY INC,3674,Semiconductors & Related Devices,Industrials
+GURE,885462,"GULF RESOURCES, INC.",2800,Chemicals & Allied Products,Manufacturing
+GPOR,874499,GULFPORT ENERGY CORP,1311,Crude Petroleum & Natural Gas,Energy
+GME,1326380,GameStop Corp.,5734,Retail-Computer & Computer Software Stores,Retail
+GTX,1735707,Garrett Motion Inc.,3714,Motor Vehicle Parts & Accessories,Industrials
+GTES,1718512,Gates Industrial Corp plc,3560,General Industrial Machinery & Equipment,Industrials
+GNSS,924383,Genasys Inc.,3651,Household Audio & Video Equipment,Industrials
+GM,1467858,General Motors Co,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+GNE,1528356,Genie Energy Ltd.,4931,Electric & Other Services Combined,Energy
+THRM,903129,Gentherm Inc,3714,Motor Vehicle Parts & Accessories,Industrials
+GEVO,1392380,"Gevo, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+GLAI,1473490,"Global AI, Inc.",5960,Retail-Nonstore Retailers,Retail
+HGAS,1817232,Global Gas Corp,2810,Industrial Inorganic Chemicals,Manufacturing
+ATVK,1530185,"Globaltek Ventures, Inc.",3714,Motor Vehicle Parts & Accessories,Industrials
+GOGR,1378866,Go Green Global Technologies Corp.,3677,"Electronic Coils, Transformers & Other Inductors",Industrials
+GPRO,1500435,"GoPro, Inc.",3861,Photographic Equipment & Supplies,Manufacturing
+GTIM,825324,Good Times Restaurants Inc.,5812,Retail-Eating  Places,Retail
+PEW,2051380,GrabAGun Digital Holdings Inc.,5940,Retail-Miscellaneous Shopping Goods Stores,Retail
+GRNT,1928446,"Granite Ridge Resources, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+GPRE,1309402,Green Plains Inc.,2860,Industrial Organic Chemicals,Manufacturing
+GTEC,1735041,Greenland Technologies Holding Corp.,3560,General Industrial Machinery & Equipment,Industrials
+GRDX,1604191,GridAI Technologies Corp.,4931,Electric & Other Services Combined,Energy
+GO,1771515,Grocery Outlet Holding Corp.,5411,Retail-Grocery Stores,Retail
+GROV,1841761,"Grove Collaborative Holdings, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+GRWG,1604868,GrowGeneration Corp.,5200,"Retail-Building Materials, Hardware, Garden Supply",Retail
+GRDN,1802255,"Guardian Pharmacy Services, Inc.",5912,Retail-Drug Stores and Proprietary Stores,Retail
+GUER,1832487,"Guerrilla RF, Inc.",3674,Semiconductors & Related Devices,Industrials
+GULTU,1565146,Gulf Coast Ultra Deep Royalty Trust,1311,Crude Petroleum & Natural Gas,Energy
+HAIN,910406,HAIN CELESTIAL GROUP INC,2000,Food and Kindred Products,Consumer Goods
+HNRG,788965,HALLADOR ENERGY CO,4911,Electric Services,Energy
+HAL,45012,HALLIBURTON CO,1389,"Oil & Gas Field Services, NEC",Energy
+HOG,793952,"HARLEY-DAVIDSON, INC.",3751,"Motorcycles, Bicycles & Parts",Industrials
+HLIT,851310,HARMONIC INC.,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+HBIO,1123494,HARVARD BIOSCIENCE INC,3826,Laboratory Analytical Instruments,Manufacturing
+HAS,46080,"HASBRO, INC.",3944,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",Consumer Goods
+HVT,216085,HAVERTY FURNITURE COMPANIES INC,5712,Retail-Furniture Stores,Retail
+HE,354707,HAWAIIAN ELECTRIC INDUSTRIES INC,4911,Electric Services,Energy
+HCWC,1948864,HEALTHY CHOICE WELLNESS CORP.,5411,Retail-Grocery Stores,Retail
+HEI,46619,HEICO CORP,3724,Aircraft Engines & Engine Parts,Industrials
+HELE,916789,HELEN OF TROY LTD,3634,Electric Housewares & Fans,Industrials
+HLIO,1024795,"HELIOS TECHNOLOGIES, INC.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
+HLX,866829,HELIX ENERGY SOLUTIONS GROUP INC,1389,"Oil & Gas Field Services, NEC",Energy
+HSY,47111,HERSHEY CO,2060,Sugar & Confectionery Products,Consumer Goods
+HXL,717605,HEXCEL CORP /DE/,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+HIRU,925779,HIRU Corp,5812,Retail-Eating  Places,Retail
+HNI,48287,HNI CORP,2522,Office Furniture (No Wood),Consumer Goods
+HD,354950,"HOME DEPOT, INC.",5211,Retail-Lumber & Other Building Materials Dealers,Retail
+HON,773840,HONEYWELL INTERNATIONAL INC,3724,Aircraft Engines & Engine Parts,Industrials
+HGYN,1324759,HONG YUAN HOLDING GROUP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+HOFT,1077688,HOOKER FURNISHINGS Corp,2510,Household Furniture,Consumer Goods
+HRL,48465,HORMEL FOODS CORP /DE/,2011,Meat Packing Plants,Consumer Goods
+HUBB,48898,HUBBELL INC,3670,Electronic Components & Accessories,Industrials
+HII,1501585,"HUNTINGTON INGALLS INDUSTRIES, INC.",3730,Ship & Boat Building & Repairing,Industrials
+HURC,315374,HURCO COMPANIES INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+HY,1173514,"HYSTER-YALE, INC.",3537,"Industrial Trucks, Tractors, Trailors & Stackers",Industrials
+HDRN,2023730,"Hadron Energy, Inc.",4911,Electric Services,Energy
+HBB,1709164,Hamilton Beach Brands Holding Co,3634,Electric Housewares & Fans,Industrials
+HWKE,1750777,"Hawkeye Systems, Inc.",3861,Photographic Equipment & Supplies,Manufacturing
+HAYW,1834622,"Hayward Holdings, Inc.",3580,Refrigeration & Service Industry Machinery,Industrials
+HCMC,844856,Healthier Choices Management Corp.,2100,Tobacco Products,Consumer Goods
+HLEO,1953988,Helio Corp /FL/,3760,Guided Missiles & Space Vehicles & Parts,Industrials
+HP,46765,"Helmerich & Payne, Inc.",1381,Drilling Oil & Gas Wells,Energy
+HVII,1846416,Hennessy Capital Investment Corp. VII,4911,Electric Services,Energy
+HESM,1789832,Hess Midstream LP,1311,Crude Petroleum & Natural Gas,Energy
+HPK,1792849,"HighPeak Energy, Inc.",1381,Drilling Oil & Gas Wells,Energy
+HLMN,1822492,Hillman Solutions Corp.,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+HLLY,1822928,Holley Inc.,3714,Motor Vehicle Parts & Accessories,Industrials
+HNST,1530979,"Honest Company, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+HOUR,1874875,"Hour Loop, Inc",5961,Retail-Catalog & Mail-Order Houses,Retail
+HWM,4281,Howmet Aerospace Inc.,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+HUN,1307954,Huntsman CORP,2800,Chemicals & Allied Products,Manufacturing
+HYLN,1759631,Hyliion Holdings Corp.,3713,Truck & Bus Bodies,Industrials
+GPUS,896493,"Hyperscale Data, Inc.",3533,Oil & Gas Field Machinery & Equipment,Industrials
+IEP,813762,ICAHN ENTERPRISES L.P.,2911,Petroleum Refining,Energy
+ICHR,1652535,"ICHOR HOLDINGS, LTD.",3674,Semiconductors & Related Devices,Industrials
+IDA,1057877,IDACORP INC,4911,Electric Services,Energy
+IEX,832101,IDEX CORP /DE/,3561,Pumps & Pumping Equipment,Industrials
+IEHC,50292,IEH Corp,3678,Electronic Connectors,Industrials
+ITW,49826,ILLINOIS TOOL WORKS INC,3560,General Industrial Machinery & Equipment,Industrials
+ILMN,1110803,"ILLUMINA, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+IMAX,921582,IMAX CORP,3861,Photographic Equipment & Supplies,Manufacturing
+IMO,49938,IMPERIAL OIL LTD,2911,Petroleum Refining,Energy
+PI,1114995,IMPINJ INC,3679,"Electronic Components, NEC",Industrials
+INR,2029118,"INFINITY NATURAL RESOURCES, INC.",1311,Crude Petroleum & Natural Gas,Energy
+IMKTA,50493,INGLES MARKETS INC,5411,Retail-Grocery Stores,Retail
+INHD,1961847,INNO HOLDINGS INC.,5990,"Retail-Retail Stores, NEC",Retail
+IOSP,1054905,INNOSPEC INC.,2800,Chemicals & Allied Products,Manufacturing
+VATE,1006837,INNOVATE Corp.,3440,Fabricated Structural Metal Products,Manufacturing
+IVDN,1190370,INNOVATIVE DESIGNS INC,2390,Miscellaneous Fabricated Textile Products,Consumer Goods
+INSG,1022652,INSEEGO CORP.,3669,"Communications Equipment, NEC",Industrials
+NSIT,932696,INSIGHT ENTERPRISES INC,5961,Retail-Catalog & Mail-Order Houses,Retail
+IIIN,764401,INSTEEL INDUSTRIES INC,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+INTC,50863,INTEL CORP,3674,Semiconductors & Related Devices,Industrials
+TILE,715787,INTERFACE INC,2273,Carpets & Rugs,Consumer Goods
+IFF,51253,INTERNATIONAL FLAVORS & FRAGRANCES INC,2860,Industrial Organic Chemicals,Manufacturing
+IP,51434,INTERNATIONAL PAPER CO /NEW/,2621,Paper Mills,Manufacturing
+IPAR,822663,INTERPARFUMS INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+INTT,1036262,INTEST CORP,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+IPST,1788230,"IP STRATEGY HOLDINGS, INC.",2080,Beverages,Consumer Goods
+IPGP,1111928,IPG PHOTONICS CORP,3674,Semiconductors & Related Devices,Industrials
+ITP,1358190,"IT TECH PACKAGING, INC.",2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+ITRI,780571,"ITRON, INC.",3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+ITT,216228,ITT INC.,3561,Pumps & Pumping Equipment,Industrials
+IPWR,1507957,Ideal Power Inc.,3674,Semiconductors & Related Devices,Industrials
+IR,1699150,Ingersoll Rand Inc.,3560,General Industrial Machinery & Equipment,Industrials
+NGVT,1653477,Ingevity Corp,2800,Chemicals & Allied Products,Manufacturing
+INGR,1046257,Ingredion Inc,2040,Grain Mill Products,Consumer Goods
+LUCY,1808377,Innovative Eyewear Inc,3851,Ophthalmic Goods,Manufacturing
+IPSI,1591913,"Innovative Payment Solutions, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+INVX,1042893,"Innovex International, Inc.",3533,Oil & Gas Field Machinery & Equipment,Industrials
+ZHJD,1794276,Intelligent Hotel Group Ltd.,2870,Agricultural Chemicals,Manufacturing
+TRNR,1785056,"Interactive Strength, Inc.",3600,Electronic & Other Electrical Equipment (No Computer Equip),Industrials
+LUNR,1844452,"Intuitive Machines, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+ISPR,1948455,Ispire Technology Inc.,2111,Cigarettes,Consumer Goods
+SJM,91419,J M SMUCKER Co,2033,"Canned, Fruits, Veg, Preserves, Jams & Jellies",Consumer Goods
+JJSF,785956,J&J SNACK FOODS CORP,2052,Cookies & Crackers,Consumer Goods
+JILL,1687932,"J.Jill, Inc.",2330,"Women's, Misses':  and Juniors Outerwear",Consumer Goods
+JBL,898293,JABIL INC,3672,Printed Circuit Boards,Industrials
+JACK,807882,JACK IN THE BOX INC,5812,Retail-Eating  Places,Retail
+JAKK,1009829,JAKKS PACIFIC INC,3944,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",Consumer Goods
+JBTM,1433660,JBT MAREL Corp,3550,Special Industry Machinery (No Metalworking Machinery),Industrials
+JELD,1674335,"JELD-WEN Holding, Inc.",2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Manufacturing
+JCTC,885307,JEWETT CAMERON TRADING CO LTD,5211,Retail-Lumber & Other Building Materials Dealers,Retail
+WLY,107140,"JOHN WILEY & SONS, INC.",2731,Books: Publishing or  Publishing & Printing,Manufacturing
+JOUT,788329,JOHNSON OUTDOORS INC,3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+JSDA,1083522,JONES SODA CO.,2080,Beverages,Consumer Goods
+JBI,1839839,"Janus International Group, Inc.",3442,"Metal Doors, Sash, Frames, Moldings & Trim",Manufacturing
+JRSH,1696558,"Jerash Holdings (US), Inc.",2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+JOBY,1819848,"Joby Aviation, Inc.",3721,Aircraft,Industrials
+JCI,833444,Johnson Controls International plc,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+KAI,886346,KADANT INC,3550,Special Industry Machinery (No Metalworking Machinery),Industrials
+KALU,811596,KAISER ALUMINUM CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+KMT,55242,KENNAMETAL INC,3541,"Machine Tools, Metal Cutting Types",Industrials
+KEQU,55529,KEWAUNEE SCIENTIFIC CORP /DE/,3821,Laboratory Apparatus & Furniture,Manufacturing
+KTCC,719733,KEY TRONIC CORP,3672,Printed Circuit Boards,Industrials
+KMB,55785,KIMBERLY CLARK CORP,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+KMI,1506307,"KINDER MORGAN, INC.",4922,Natural Gas Transmission,Energy
+KLAC,319201,KLA CORP,3827,Optical Instruments & Lenses,Manufacturing
+KLXE,1738827,"KLX Energy Services Holdings, Inc.",1389,"Oil & Gas Field Services, NEC",Energy
+KSS,885639,KOHLS Corp,5311,Retail-Department Stores,Retail
+KOPN,771266,KOPIN CORP,3674,Semiconductors & Related Devices,Industrials
+KOSS,56701,KOSS CORP,3651,Household Audio & Video Equipment,Industrials
+KTOS,1069258,"KRATOS DEFENSE & SECURITY SOLUTIONS, INC.",3760,Guided Missiles & Space Vehicles & Parts,Industrials
+KR,56873,KROGER CO,5411,Retail-Grocery Stores,Retail
+KNOS,1108248,KRONOS ADVANCED TECHNOLOGIES INC,3564,Industrial & Commercial Fans & Blowers & Air Purifing Equip,Industrials
+KRO,1257640,KRONOS WORLDWIDE INC,2810,Industrial Inorganic Chemicals,Manufacturing
+KLIC,56978,KULICKE & SOFFA INDUSTRIES INC,3674,Semiconductors & Related Devices,Industrials
+KULR,1662684,"KULR Technology Group, Inc.",3670,Electronic Components & Accessories,Industrials
+KRUS,1772177,"KURA SUSHI USA, INC.",5812,Retail-Eating  Places,Retail
+KUST,1342958,"KUSTOM ENTERTAINMENT, INC.",3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+KAVL,1762239,"Kaival Brands Innovations Group, Inc.",5960,Retail-Nonstore Retailers,Retail
+KRT,1758021,Karat Packaging Inc.,3089,"Plastics Products, NEC",Manufacturing
+KARX,1729637,Karbon-X Corp.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+KRMN,2040127,Karman Holdings Inc.,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+KVUE,1944048,Kenvue Inc.,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+KDP,1418135,Keurig Dr Pepper Inc.,2080,Beverages,Consumer Goods
+KEYS,1601046,"Keysight Technologies, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+KE,1606757,"Kimball Electronics, Inc.",3672,Printed Circuit Boards,Industrials
+KRP,1657788,"Kimbell Royalty Partners, LP",1311,Crude Petroleum & Natural Gas,Energy
+KCRD,1696025,"Kindcard, Inc.",5940,Retail-Miscellaneous Shopping Goods Stores,Retail
+KNTK,1692787,Kinetik Holdings Inc.,4922,Natural Gas Transmission,Energy
+KRFG,774415,"King Resources, Inc.",3612,"Power, Distribution & Specialty Transformers",Industrials
+KITL,1608092,Kisses From Italy Inc.,5810,Retail-Eating & Drinking Places,Retail
+KSCP,1600983,"Knightscope, Inc.",3669,"Communications Equipment, NEC",Industrials
+KN,1587523,Knowles Corp,3651,Household Audio & Video Equipment,Industrials
+KGS,1767042,"Kodiak Gas Services, Inc.",4922,Natural Gas Transmission,Energy
+KLNG,1110607,"Koil Energy Solutions, Inc.",3533,Oil & Gas Field Machinery & Equipment,Industrials
+KTB,1760965,"Kontoor Brands, Inc.",2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Consumer Goods
+KOP,1315257,Koppers Holdings Inc.,2400,Lumber & Wood Products (No Furniture),Manufacturing
+KOS,1509991,Kosmos Energy Ltd.,1311,Crude Petroleum & Natural Gas,Energy
+KHC,1637459,Kraft Heinz Co,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Consumer Goods
+KBLB,1413119,"Kraig Biocraft Laboratories, Inc.",2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Manufacturing
+DNUT,1857154,"Krispy Kreme, Inc.",5400,Retail-Food Stores,Retail
+LHX,202058,"L3HARRIS TECHNOLOGIES, INC. /DE/",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+LZB,57131,LA-Z-BOY INC,2510,Household Furniture,Consumer Goods
+LRCX,707549,LAM RESEARCH CORP,3559,"Special Industry Machinery, NEC",Industrials
+LE,799288,"LANDS' END, INC.",5651,Retail-Family Clothing Stores,Retail
+LSCC,855658,LATTICE SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices,Industrials
+LCII,763744,LCI INDUSTRIES,3714,Motor Vehicle Parts & Accessories,Industrials
+LEA,842162,LEAR CORP,3714,Motor Vehicle Parts & Accessories,Industrials
+LEE,58361,"LEE ENTERPRISES, Inc",2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+LEG,58492,LEGGETT & PLATT INC,2510,Household Furniture,Consumer Goods
+LII,1069202,LENNOX INTERNATIONAL INC,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+LEVI,94845,LEVI STRAUSS & CO,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+LGL,61004,LGL GROUP INC,3679,"Electronic Components, NEC",Industrials
+LCUT,874396,"LIFETIME BRANDS, INC",3420,"Cutlery, Handtools & General Hardware",Manufacturing
+LTBR,1084554,LIGHTBRIDGE Corp,2810,Industrial Inorganic Chemicals,Manufacturing
+LPTH,889971,LIGHTPATH TECHNOLOGIES INC,3674,Semiconductors & Related Devices,Industrials
+LECO,59527,LINCOLN ELECTRIC HOLDINGS INC,3540,Metalworkg Machinery & Equipment,Industrials
+LIN,1707925,LINDE PLC,2810,Industrial Inorganic Chemicals,Manufacturing
+LNN,836157,LINDSAY CORP,3523,Farm Machinery & Equipment,Industrials
+LIQT,1307579,LIQTECH INTERNATIONAL INC,3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+LQMT,1141240,LIQUIDMETAL TECHNOLOGIES INC,2800,Chemicals & Allied Products,Manufacturing
+LAD,1023128,LITHIA MOTORS INC,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+LFUS,889331,LITTELFUSE INC /DE,3613,Switchgear & Switchboard Apparatus,Industrials
+LIVE,1045742,LIVE VENTURES Inc,5900,Retail-Miscellaneous Retail,Retail
+LMT,936468,LOCKHEED MARTIN CORP,3760,Guided Missiles & Space Vehicles & Parts,Industrials
+LPX,60519,LOUISIANA-PACIFIC CORP,2400,Lumber & Wood Products (No Furniture),Manufacturing
+LOW,60667,LOWES COMPANIES INC,5211,Retail-Lumber & Other Building Materials Dealers,Retail
+YHC,1843165,LQR House Inc.,2080,Beverages,Consumer Goods
+LXU,60714,"LSB INDUSTRIES, INC.",2810,Industrial Inorganic Chemicals,Manufacturing
+LSEB,1888740,LSEB Creative Corp.,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Consumer Goods
+LYTS,763532,LSI INDUSTRIES INC,3640,Electric Lighting & Wiring Equipment,Industrials
+LSF,1650696,"Laird Superfood, Inc.",2000,Food and Kindred Products,Consumer Goods
+LW,1679273,"Lamb Weston Holdings, Inc.",2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Consumer Goods
+LNZA,1843724,"LanzaTech Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+LRDC,1442492,"Laredo Oil, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+LASE,1807887,Laser Photonics Corp,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+SWIM,1833197,"Latham Group, Inc.",3089,"Plastics Products, NEC",Manufacturing
+LEAT,1456189,Leatt Corp,3751,"Motorcycles, Bicycles & Parts",Industrials
+LEGH,1436208,Legacy Housing Corp,2451,Mobile Homes,Manufacturing
+DRS,1833756,"Leonardo DRS, Inc.",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+LESL,1821806,"Leslie's, Inc.",5990,"Retail-Retail Stores, NEC",Retail
+LBRT,1694028,Liberty Energy Inc.,1389,"Oil & Gas Field Services, NEC",Energy
+LCTC,1493137,"Lifeloc Technologies, Inc",3826,Laboratory Analytical Instruments,Manufacturing
+LWAY,814586,"Lifeway Foods, Inc.",2020,Dairy Products,Consumer Goods
+LWLG,1325964,"Lightwave Logic, Inc.",3080,Miscellaneous Plastics Products,Manufacturing
+LVO,1491419,"LiveOne, Inc.",5812,Retail-Eating  Places,Retail
+LVWR,1898795,"LiveWire Group, Inc.",3751,"Motorcycles, Bicycles & Parts",Industrials
+LOAR,2000178,Loar Holdings Inc.,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+XAGE,1842939,"Longevity Health Holdings, Inc.",2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+LOOP,1504678,"Loop Industries, Inc.",2800,Chemicals & Allied Products,Manufacturing
+LOVE,1701758,Lovesac Co,5712,Retail-Furniture Stores,Retail
+LCID,1811210,"Lucid Group, Inc.",3711,Motor Vehicles & Passenger Car Bodies,Industrials
+LVLU,1780201,"Lulu's Fashion Lounge Holdings, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+LITE,1633978,Lumentum Holdings Inc.,3669,"Communications Equipment, NEC",Industrials
+LUVU,1374567,"Luvu Brands, Inc.",2510,Household Furniture,Consumer Goods
+LYB,1489393,LyondellBasell Industries N.V.,2860,Industrial Organic Chemicals,Manufacturing
+MPTI,1902314,"M-tron Industries, Inc.",3679,"Electronic Components, NEC",Industrials
+MNR,1980088,MACH NATURAL RESOURCES LP,1311,Crude Petroleum & Natural Gas,Energy
+MTSI,1493594,"MACOM Technology Solutions Holdings, Inc.",3674,Semiconductors & Related Devices,Industrials
+MX,1325702,MAGNACHIP SEMICONDUCTOR Corp,3674,Semiconductors & Related Devices,Industrials
+MBUU,1590976,"MALIBU BOATS, INC.",3730,Ship & Boat Building & Repairing,Industrials
+TUSK,1679268,"MAMMOTH ENERGY SERVICES, INC.",1389,"Oil & Gas Field Services, NEC",Energy
+MTW,61986,MANITOWOC CO INC,3531,Construction Machinery & Equip,Industrials
+HZO,1057060,MARINEMAX INC,5531,Retail-Auto & Home Supply Stores,Retail
+MZTI,57515,MARZETTI CO,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Consumer Goods
+MAS,62996,MASCO CORP /DE/,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
+MTRN,1104657,MATERION Corp,3460,Metal Forgings & Stampings,Manufacturing
+MAT,63276,MATTEL INC /DE/,3942,Dolls & Stuffed Toys,Consumer Goods
+MATW,63296,MATTHEWS INTERNATIONAL CORP,3360,Nonferrous Foundries (Castings),Manufacturing
+MXL,1288469,"MAXLINEAR, INC",3674,Semiconductors & Related Devices,Industrials
+MKC,63754,MCCORMICK & CO INC,2090,Miscellaneous Food Preparations & Kindred Products,Consumer Goods
+MCD,63908,MCDONALDS CORP,5812,Retail-Eating  Places,Retail
+MDWK,1295514,"MDWerks, Inc.",2080,Beverages,Consumer Goods
+MED,910329,MEDIFAST INC,2090,Miscellaneous Food Preparations & Kindred Products,Consumer Goods
+BKTH,1144392,MEGOLA INC,2890,Miscellaneous Chemical Products,Manufacturing
+MERC,1333274,MERCER INTERNATIONAL INC.,2611,Pulp Mills,Manufacturing
+MRCY,1049521,MERCURY SYSTEMS INC,3670,Electronic Components & Accessories,Industrials
+MLAB,724004,MESA LABORATORIES INC /CO/,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+MEI,65270,METHODE ELECTRONICS INC,3678,Electronic Connectors,Industrials
+MTD,1037646,METTLER TOLEDO INTERNATIONAL INC/,3826,Laboratory Analytical Instruments,Manufacturing
+MXC,66418,MEXCO ENERGY CORP,1311,Crude Petroleum & Natural Gas,Energy
+MALG,1309251,MICROALLIANCE GROUP INC.,2080,Beverages,Consumer Goods
+MCHP,827054,MICROCHIP TECHNOLOGY INC,3674,Semiconductors & Related Devices,Industrials
+MU,723125,MICRON TECHNOLOGY INC,3674,Semiconductors & Related Devices,Industrials
+MVIS,65770,"MICROVISION, INC.",3679,"Electronic Components, NEC",Industrials
+MIDD,769520,MIDDLEBY Corp,3580,Refrigeration & Service Industry Machinery,Industrials
+MLR,924822,MILLER INDUSTRIES INC /TN/,3713,Truck & Bus Bodies,Industrials
+MLKN,66382,"MILLERKNOLL, INC.",2520,Office Furniture,Consumer Goods
+MIND,926423,"MIND TECHNOLOGY, INC",3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+MTX,891014,MINERALS TECHNOLOGIES INC,2810,Industrial Inorganic Chemicals,Manufacturing
+MKSI,1049502,MKS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+MOBX,1855467,"MOBIX LABS, INC",3674,Semiconductors & Related Devices,Industrials
+MOD,67347,MODINE MANUFACTURING CO,3714,Motor Vehicle Parts & Accessories,Industrials
+MHK,851968,MOHAWK INDUSTRIES INC,2273,Carpets & Rugs,Consumer Goods
+TAP,24545,MOLSON COORS BEVERAGE CO,2082,Malt Beverages,Consumer Goods
+MPWR,1280452,MONOLITHIC POWER SYSTEMS INC,3674,Semiconductors & Related Devices,Industrials
+MOG-A,67887,MOOG INC.,3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+MOS,1285785,MOSAIC CO,2870,Agricultural Chemicals,Manufacturing
+MPAA,918251,MOTORCAR PARTS OF AMERICA INC,3714,Motor Vehicle Parts & Accessories,Industrials
+MOV,72573,MOVADO GROUP INC,3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Manufacturing
+MITQ,1770236,MOVING iMAGE TECHNOLOGIES INC.,3861,Photographic Equipment & Supplies,Manufacturing
+MLI,89439,MUELLER INDUSTRIES INC,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+MUR,717423,MURPHY OIL CORP,1311,Crude Petroleum & Natural Gas,Energy
+MVO,1371782,MV Oil Trust,1311,Crude Petroleum & Natural Gas,Energy
+MYE,69488,MYERS INDUSTRIES INC,3089,"Plastics Products, NEC",Manufacturing
+M,794367,"Macy's, Inc.",5311,Retail-Department Stores,Retail
+MDEX,1318268,Madison Technologies Inc.,5900,Retail-Miscellaneous Retail,Retail
+MMCP,1879293,"Mag Mile Capital, Inc.",3567,Industrial Process Furnaces & Ovens,Industrials
+MAGN,41719,Magnera Corp,2621,Paper Mills,Manufacturing
+MGY,1698990,Magnolia Oil & Gas Corp,1311,Crude Petroleum & Natural Gas,Energy
+MSS,1892292,Maison Solutions Inc.,5411,Retail-Grocery Stores,Retail
+MAMA,1520358,"Mama's Creations, Inc.",2013,Sausages & Other Prepared Meat Products,Consumer Goods
+MPC,1510295,Marathon Petroleum Corp,2911,Petroleum Refining,Energy
+MRVL,1835632,"Marvell Technology, Inc.",3674,Semiconductors & Related Devices,Industrials
+MAMO,1952853,Massimo Group,3790,Miscellaneous Transportation Equipment,Industrials
+MBC,1941365,"MasterBrand, Inc.",2511,"Wood Household Furniture, (No Upholstered)",Consumer Goods
+MCFT,1638290,"MasterCraft Boat Holdings, Inc.",3730,Ship & Boat Building & Repairing,Industrials
+MTDR,1520006,Matador Resources Co,1311,Crude Petroleum & Natural Gas,Energy
+MATV,1000623,"Mativ Holdings, Inc.",2621,Paper Mills,Manufacturing
+MEC,1766368,"Mayville Engineering Company, Inc.",3460,Metal Forgings & Stampings,Manufacturing
+MH,1951070,"McGraw Hill, Inc.",2741,Miscellaneous Publishing,Manufacturing
+MTUS,1598428,Metallus Inc.,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+MVST,1760689,"Microvast Holdings, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+MIR,1809987,"Mirion Technologies, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
+MNTS,1781162,Momentus Inc.,3760,Guided Missiles & Space Vehicles & Parts,Industrials
+MDLZ,1103982,"Mondelez International, Inc.",2000,Food and Kindred Products,Consumer Goods
+MNST,865752,Monster Beverage Corp,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Consumer Goods
+MNTK,1826600,"Montauk Renewables, Inc.",4932,Gas & Other Services Combined,Energy
+MTMV,1393044,Motomova Inc,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+MSI,68505,"Motorola Solutions, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+MWA,1350593,"Mueller Water Products, Inc.",3490,Miscellaneous Fabricated Metal Products,Manufacturing
+MSAI,1863990,"MultiSensor AI Holdings, Inc.",3827,Optical Instruments & Lenses,Manufacturing
+MUSA,1573516,Murphy USA Inc.,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+NBR,1163739,NABORS INDUSTRIES LTD,1381,Drilling Oil & Gas Wells,Energy
+NSSC,69633,"NAPCO SECURITY TECHNOLOGIES, INC",3669,"Communications Equipment, NEC",Industrials
+NATH,69733,"NATHANS FAMOUS, INC.",5812,Retail-Eating  Places,Retail
+FIZZ,69891,NATIONAL BEVERAGE CORP,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Consumer Goods
+NFG,70145,NATIONAL FUEL GAS CO,4924,Natural Gas Distribution,Energy
+NPK,80172,NATIONAL PRESTO INDUSTRIES INC,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+NGS,1084991,NATURAL GAS SERVICES GROUP INC,1389,"Oil & Gas Field Services, NEC",Energy
+NATL,1974138,NCR Atleos Corp,3578,Calculating & Accounting Machines (No Electronic Computers),Industrials
+VYX,70866,NCR Voyix Corp,3578,Calculating & Accounting Machines (No Electronic Computers),Industrials
+NCSM,1692427,"NCS Multistage Holdings, Inc.",1389,"Oil & Gas Field Services, NEC",Energy
+NPWR,1845437,NET Power Inc.,3620,Electrical Industrial Apparatus,Industrials
+NLST,1282631,NETLIST INC,3674,Semiconductors & Related Devices,Industrials
+NJR,356309,NEW JERSEY RESOURCES CORP,4924,Natural Gas Distribution,Energy
+NYT,71691,NEW YORK TIMES CO,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+NWL,814453,NEWELL BRANDS INC.,3089,"Plastics Products, NEC",Manufacturing
+NEU,1282637,NEWMARKET CORP,2860,Industrial Organic Chemicals,Manufacturing
+NWS,1564708,NEWS CORP,2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+NEE,753308,NEXTERA ENERGY INC,4911,Electric Services,Energy
+NN,1865631,NEXTNAV INC.,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+NXXT,1817004,"NEXTNRG, INC.",5500,Retail-Auto Dealers & Gasoline Stations,Retail
+NGL,1504461,NGL Energy Partners LP,4922,Natural Gas Transmission,Energy
+NKE,320187,"NIKE, Inc.",3021,Rubber & Plastics Footwear,Manufacturing
+NI,1111711,NISOURCE INC.,4931,Electric & Other Services Combined,Energy
+NICH,772263,NITCHES INC,2330,"Women's, Misses':  and Juniors Outerwear",Consumer Goods
+NL,72162,NL INDUSTRIES INC,2810,Industrial Inorganic Chemicals,Manufacturing
+LASR,1124796,"NLIGHT, INC.",3674,Semiconductors & Related Devices,Industrials
+NNBR,918541,NN INC,3540,Metalworkg Machinery & Equipment,Industrials
+NOBH,72205,NOBILITY HOMES INC,2451,Mobile Homes,Manufacturing
+NROM,709005,NOBLE ROMANS INC,5812,Retail-Eating  Places,Retail
+NNUP,888981,NOCOPI TECHNOLOGIES INC/MD/,3944,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",Consumer Goods
+NIMU,720762,NON INVASIVE MONITORING SYSTEMS INC /FL/,3760,Guided Missiles & Space Vehicles & Parts,Industrials
+NDLS,1275158,NOODLES & Co,5812,Retail-Eating  Places,Retail
+NDSN,72331,NORDSON CORP,3569,"General Industrial Machinery & Equipment, NEC",Industrials
+NSYS,722313,NORTECH SYSTEMS INC,3679,"Electronic Components, NEC",Industrials
+NOG,1104485,"NORTHERN OIL & GAS, INC.",1311,Crude Petroleum & Natural Gas,Energy
+NTIC,875582,NORTHERN TECHNOLOGIES INTERNATIONAL CORP,3470,"Coating, Engraving & Allied Services",Manufacturing
+NOC,1133421,NORTHROP GRUMMAN CORP /DE/,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+NOV,1021860,NOV Inc.,3533,Oil & Gas Field Machinery & Equipment,Industrials
+NOVT,1076930,NOVANTA INC,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+NRG,1013871,"NRG ENERGY, INC.",4911,Electric Services,Energy
+NSARO,13372,NSTAR ELECTRIC CO,4911,Electric Services,Energy
+NRDE,1759546,NU RIDE INC.,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+NUE,73309,NUCOR CORP,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+SMR,1822966,NUSCALE POWER Corp,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+NVEC,724910,NVE CORP /NEW/,3674,Semiconductors & Related Devices,Industrials
+NVDA,1045810,NVIDIA CORP,3674,Semiconductors & Related Devices,Industrials
+NWPX,1001385,"NWPX Infrastructure, Inc.",3317,Steel Pipe & Tubes,Manufacturing
+NNE,1923891,Nano Nuclear Energy Inc.,4911,Electric Services,Energy
+EYE,1710155,"National Vision Holdings, Inc.",3851,Ophthalmic Goods,Manufacturing
+NGVC,1547459,"Natural Grocers by Vitamin Cottage, Inc.",5411,Retail-Grocery Stores,Retail
+NRHI,1680689,"Natural Resource Holdings, Inc.",5960,Retail-Nonstore Retailers,Retail
+NMHI,1947861,Nature's Miracle Holding Inc.,3523,Farm Machinery & Equipment,Industrials
+KITT,1849820,"Nauticus Robotics, Inc.",3569,"General Industrial Machinery & Equipment, NEC",Industrials
+NAUT,1808805,"Nautilus Biotechnology, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+NVTS,1821769,Navitas Semiconductor Corp,3674,Semiconductors & Related Devices,Industrials
+NEOV,1748137,NeoVolta Inc.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+NEON,87050,Neonode Inc.,3679,"Electronic Components, NEC",Industrials
+GBR,105744,"New Concept Energy, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+NUAI,2028336,"New ERA Energy & Digital, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+NFE,1749723,New Fortress Energy Inc.,4924,Natural Gas Distribution,Energy
+HOVR,1930021,New Horizon Aircraft Ltd.,3721,Aircraft,Industrials
+NEWH,1371128,"NewHydrogen, Inc.",3081,Unsupported Plastics Film & Sheet,Manufacturing
+NWTG,1934245,"Newton Golf Company, Inc.",3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+NXMH,1811530,"Next Meats Holdings, Inc.",2000,Food and Kindred Products,Consumer Goods
+NXB,2067767,NextBoat Inc.,3730,Ship & Boat Building & Repairing,Industrials
+NEXT,1612720,NextDecade Corp,4923,Natural Gas Transmisison & Distribution,Energy
+NXT,1852131,Nextpower Inc.,3674,Semiconductors & Related Devices,Industrials
+NGTF,1593001,"NightFood Holdings, Inc.",3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+NINE,1532286,"Nine Energy Service, Inc.",1389,"Oil & Gas Field Services, NEC",Energy
+NE,1895262,Noble Corp plc,1381,Drilling Oil & Gas Wells,Energy
+NRIS,1603793,"Norris Industries, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+NWE,1993004,"NorthWestern Energy Group, Inc.",4931,Electric & Other Services Combined,Energy
+NCL,1923780,Northann Corp.,3089,"Plastics Products, NEC",Manufacturing
+NWN,1733998,Northwest Natural Holding Co,4924,Natural Gas Distribution,Energy
+NSTM,912544,NovelStem International Corp.,5990,"Retail-Retail Stores, NEC",Retail
+BURU,1814215,"Nuburu, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+NVVE,1836875,Nuvve Holding Corp.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+ORLY,898173,O REILLY AUTOMOTIVE INC,5531,Retail-Auto & Home Supply Stores,Retail
+OI,812074,"O-I Glass, Inc. /DE/",3221,Glass Containers,Manufacturing
+OXY,797468,OCCIDENTAL PETROLEUM CORP /DE/,1311,Crude Petroleum & Natural Gas,Energy
+OII,73756,OCEANEERING INTERNATIONAL INC,1389,"Oil & Gas Field Services, NEC",Energy
+OGE,1021635,OGE ENERGY CORP.,4911,Electric Services,Energy
+OIS,1121484,"OIL STATES INTERNATIONAL, INC",3533,Oil & Gas Field Machinery & Equipment,Industrials
+OKMN,1848334,"OKMIN RESOURCES, INC.",1311,Crude Petroleum & Natural Gas,Energy
+OLPX,1868726,"OLAPLEX HOLDINGS, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+OLN,74303,OLIN Corp,2800,Chemicals & Allied Products,Manufacturing
+ON,1097864,ON SEMICONDUCTOR CORP,3674,Semiconductors & Related Devices,Industrials
+OGS,1587732,"ONE Gas, Inc.",4924,Natural Gas Distribution,Energy
+STKS,1399520,"ONE Group Hospitality, Inc.",5812,Retail-Eating  Places,Retail
+OKE,1039684,ONEOK INC /NEW/,4923,Natural Gas Transmisison & Distribution,Energy
+ONTO,704532,ONTO INNOVATION INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+OPAL,1842279,OPAL Fuels Inc.,4932,Gas & Other Services Combined,Energy
+OPLN,1395942,"OPENLANE, Inc.",5500,Retail-Auto Dealers & Gasoline Stations,Retail
+OCC,1000230,OPTICAL CABLE CORP,3357,Drawing & Insulating of  Nonferrous Wire,Manufacturing
+OCLN,1419793,"ORIGINCLEAR, INC.",3559,"Special Industry Machinery, NEC",Industrials
+OESX,1409375,"ORION ENERGY SYSTEMS, INC.",3640,Electric Lighting & Wiring Equipment,Industrials
+ORA,1296445,"ORMAT TECHNOLOGIES, INC.",4911,Electric Services,Energy
+OSK,775158,OSHKOSH CORP,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+OSIS,1039065,OSI SYSTEMS INC,3674,Semiconductors & Related Devices,Industrials
+OXM,75288,OXFORD INDUSTRIES INC,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Consumer Goods
+OZSC,1679817,"OZOP ENERGY SOLUTIONS, INC.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+OPTT,1378140,"Ocean Power Technologies, Inc.",4911,Electric Services,Energy
+CPWR,827099,Ocean Thermal Energy Corp,4931,Electric & Other Services Combined,Energy
+ODC,74046,Oil-Dri Corp of America,3990,Miscellaneous Manufacturing Industries,Manufacturing
+OKLO,1849056,Oklo Inc.,4911,Electric Services,Energy
+OLLI,1639300,"Ollie's Bargain Outlet Holdings, Inc.",5331,Retail-Variety Stores,Retail
+OFLX,1317945,"Omega Flex, Inc.",3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Manufacturing
+OMTK,1404804,Omnitek Engineering Corp,3714,Motor Vehicle Parts & Accessories,Industrials
+OFRM,1696556,"Once Upon a Farm, PBC",2000,Food and Kindred Products,Consumer Goods
+ONDS,1646188,Ondas Inc.,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+ONEW,1772921,OneWater Marine Inc.,5531,Retail-Auto & Home Supply Stores,Retail
+OPXS,1397016,Optex Systems Holdings Inc,3827,Optical Instruments & Lenses,Manufacturing
+ORIB,1854183,Orion Bliss Corp.,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+OTIS,1781335,Otis Worldwide Corp,3600,Electronic & Other Electrical Equipment (No Computer Equip),Industrials
+OTTR,1466593,Otter Tail Corp,4911,Electric Services,Energy
+OUST,1816581,"Ouster, Inc.",3569,"General Industrial Machinery & Equipment, NEC",Industrials
+ODRS,1610718,"Outdoor Specialty Products, Inc.",3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+OVV,1792580,Ovintiv Inc.,1311,Crude Petroleum & Natural Gas,Energy
+OC,1370946,Owens Corning,3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Manufacturing
+OWLT,1816708,"Owlet, Inc.",3829,"Measuring & Controlling Devices, NEC",Manufacturing
+OYCG,1994582,Oyocar Group Inc.,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+PCAR,75362,PACCAR INC,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+PACB,1299130,"PACIFIC BIOSCIENCES OF CALIFORNIA, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+PKG,75677,PACKAGING CORP OF AMERICA,2650,Paperboard Containers & Boxes,Manufacturing
+PZZA,901491,PAPA JOHNS INTERNATIONAL INC,5812,Retail-Eating  Places,Retail
+PARR,821483,"PAR PACIFIC HOLDINGS, INC.",1311,Crude Petroleum & Natural Gas,Energy
+PAR,708821,PAR TECHNOLOGY CORP,3578,Calculating & Accounting Machines (No Electronic Computers),Industrials
+PKE,76267,PARK AEROSPACE CORP,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+PKOH,76282,PARK OHIO HOLDINGS CORP,3460,Metal Forgings & Stampings,Manufacturing
+PRKR,914139,PARKERVISION INC,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+PATK,76605,PATRICK INDUSTRIES INC,3714,Motor Vehicle Parts & Accessories,Industrials
+PTEN,889900,PATTERSON UTI ENERGY INC,1381,Drilling Oil & Gas Wells,Energy
+PBF,1534504,PBF Energy Inc.,2911,Petroleum Refining,Energy
+PED,1141197,PEDEVCO CORP,1311,Crude Petroleum & Natural Gas,Energy
+PTON,1639825,"PELOTON INTERACTIVE, INC.",3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+PAG,1019849,"PENSKE AUTOMOTIVE GROUP, INC.",5500,Retail-Auto Dealers & Gasoline Stations,Retail
+PNR,77360,PENTAIR plc,3550,Special Industry Machinery (No Metalworking Machinery),Industrials
+PEP,77476,PEPSICO INC,2080,Beverages,Consumer Goods
+PETS,1040130,PETMED EXPRESS INC,5912,Retail-Drug Stores and Proprietary Stores,Retail
+PCG,1004980,PG&E Corp,4931,Electric & Other Services Combined,Energy
+PHIN,1968915,PHINIA INC.,3714,Motor Vehicle Parts & Accessories,Industrials
+PEVM,1879848,PHOENIX MOTOR INC.,3713,Truck & Bus Bodies,Industrials
+PLAB,810136,PHOTRONICS INC,3674,Semiconductors & Related Devices,Industrials
+PPC,802481,PILGRIMS PRIDE CORP,2015,Poultry Slaughtering and Processing,Consumer Goods
+PNW,764622,PINNACLE WEST CAPITAL CORP,4911,Electric Services,Energy
+PPSI,1449792,"PIONEER POWER SOLUTIONS, INC.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+PBI,78814,PITNEY BOWES INC /DE/,3579,"Office Machines, NEC",Industrials
+PLXS,785786,PLEXUS CORP,3672,Printed Circuit Boards,Industrials
+PLUG,1093691,PLUG POWER INC,3620,Electrical Industrial Apparatus,Industrials
+POR,784977,PORTLAND GENERAL ELECTRIC CO /OR/,4911,Electric Services,Energy
+POWL,80420,POWELL INDUSTRIES INC,3613,Switchgear & Switchboard Apparatus,Industrials
+POWI,833640,POWER INTEGRATIONS INC,3674,Semiconductors & Related Devices,Industrials
+PSIX,1137091,"POWER SOLUTIONS INTERNATIONAL, INC.",3510,Engines & Turbines,Industrials
+PPG,79879,PPG INDUSTRIES INC,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
+PPL,922224,PPL Corp,4911,Electric Services,Energy
+PAXH,1350156,PREAXIA HEALTH CARE PAYMENT SYSTEMS INC.,5700,"Retail-Home Furniture, Furnishings & Equipment Stores",Retail
+PSMT,1041803,PRICESMART INC,5331,Retail-Variety Stores,Retail
+PNRG,56868,PRIMEENERGY RESOURCES CORP,1311,Crude Petroleum & Natural Gas,Energy
+PG,80424,PROCTER & GAMBLE Co,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+PNMXO,81023,PUBLIC SERVICE CO OF NEW MEXICO,4931,Electric & Other Services Combined,Energy
+PEG,788784,PUBLIC SERVICE ENTERPRISE GROUP INC,4931,Electric & Other Services Combined,Energy
+PURE,1006028,"PURE BIOSCIENCE, INC.",2890,Miscellaneous Chemical Products,Manufacturing
+PVH,78239,PVH CORP. /DE/,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Consumer Goods
+PSPX,1765651,Pacific Sports Exchange Inc.,5940,Retail-Miscellaneous Shopping Goods Stores,Retail
+PALX,1938569,Palomino Laboratories Inc.,3674,Semiconductors & Related Devices,Industrials
+PH,76334,Parker-Hannifin Corp,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+PTRN,1811935,Pattern Group Inc.,5961,Retail-Catalog & Mail-Order Houses,Retail
+PENG,1616533,"Penguin Solutions, Inc.",3674,Semiconductors & Related Devices,Industrials
+PRSO,890394,Peraso Inc.,3674,Semiconductors & Related Devices,Industrials
+PMNT,1849221,Perfect Moment Ltd.,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+PRM,1880319,"Perimeter Solutions, Inc.",2800,Chemicals & Allied Products,Manufacturing
+PRT,1724009,PermRock Royalty Trust,1311,Crude Petroleum & Natural Gas,Energy
+PPIH,914122,"Perma-Pipe International Holdings, Inc.",3564,Industrial & Commercial Fans & Blowers & Air Purifing Equip,Industrials
+PR,1658566,Permian Resources Corp,1311,Crude Petroleum & Natural Gas,Energy
+PVL,1520048,Permianville Royalty Trust,1311,Crude Petroleum & Natural Gas,Energy
+WOOF,1826470,"Petco Health & Wellness Company, Inc.",5990,"Retail-Retail Stores, NEC",Retail
+PTCO,1609258,PetroGas Co,1311,Crude Petroleum & Natural Gas,Energy
+PM,1413329,Philip Morris International Inc.,2111,Cigarettes,Consumer Goods
+PSX,1534701,Phillips 66,2911,Petroleum Refining,Energy
+PHXE-P,1818643,"Phoenix Energy One, LLC",1311,Crude Petroleum & Natural Gas,Energy
+PLAG,1117057,Planet Green Holdings Corp.,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Consumer Goods
+PL,1836833,Planet Labs PBC,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+PLBY,1803914,"Playboy, Inc.",5900,Retail-Miscellaneous Retail,Retail
+POLA,1622345,"Polar Power, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+PII,931015,Polaris Inc.,3790,Miscellaneous Transportation Equipment,Industrials
+PTLO,1871509,Portillo's Inc.,5812,Retail-Eating  Places,Retail
+POST,1530950,"Post Holdings, Inc.",2040,Grain Mill Products,Consumer Goods
+AIOT,1774170,"Powerfleet, Inc.",3669,"Communications Equipment, NEC",Industrials
+PROP,1162896,Prairie Operating Co.,1311,Crude Petroleum & Natural Gas,Energy
+PRPO,1043961,"Precipio, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+PRMB,2042694,Primo Brands Corp,2080,Beverages,Consumer Goods
+ACDC,1881487,ProFrac Holding Corp.,1389,"Oil & Gas Field Services, NEC",Energy
+PUMP,1680247,ProPetro Holding Corp.,1389,"Oil & Gas Field Services, NEC",Energy
+PRLB,1443669,Proto Labs Inc,3440,Fabricated Structural Metal Products,Manufacturing
+PCT,1830033,"PureCycle Technologies, Inc.",2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+PUBC,1575858,Purebase Corp,2870,Agricultural Chemicals,Manufacturing
+PRPL,1643953,"Purple Innovation, Inc.",2510,Household Furniture,Consumer Goods
+QSEP,1103795,"QS Energy, Inc.",3533,Oil & Gas Field Machinery & Equipment,Industrials
+KWR,81362,QUAKER CHEMICAL CORP,2990,Miscellaneous Products of  Petroleum & Coal,Energy
+QCOM,804328,QUALCOMM INC/DE,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+QUIK,882508,QUICKLOGIC Corp,3674,Semiconductors & Related Devices,Industrials
+QVCAQ,1355096,"QVC Group, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+QVCDQ,1254699,QVC INC,5961,Retail-Catalog & Mail-Order Houses,Retail
+Q,2058873,"Qnity Electronics, Inc.",3674,Semiconductors & Related Devices,Industrials
+QRVO,1604778,"Qorvo, Inc.",3674,Semiconductors & Related Devices,Industrials
+QUAD,1481792,"Quad/Graphics, Inc.",2750,Commercial Printing,Manufacturing
+QIND,1393781,Quality Industrial Corp.,3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+NX,1423221,Quanex Building Products CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+QTRX,1503274,Quanterix Corp,3826,Laboratory Analytical Instruments,Manufacturing
+QGAI,1663038,Quantum Genesis AI Corp.,2860,Industrial Organic Chemicals,Manufacturing
+QSI,1816431,Quantum-Si Inc,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+QS,1811414,QuantumScape Corp,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+QURT,1549631,"Quarta-Rad, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+QWTR,1487091,"Quest Water Global, Inc.",3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+RFIL,740664,R F INDUSTRIES LTD,3678,Electronic Connectors,Industrials
+INIS,1038277,RADNOSTIX INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+RL,1037038,RALPH LAUREN CORP,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Consumer Goods
+RMBS,917273,RAMBUS INC,3674,Semiconductors & Related Devices,Industrials
+RRC,315852,RANGE RESOURCES CORP,1311,Crude Petroleum & Natural Gas,Energy
+RPID,1380106,"RAPID MICRO BIOSYSTEMS, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+RYAM,1597672,RAYONIER ADVANCED MATERIALS INC.,2611,Pulp Mills,Manufacturing
+RBC,1324948,RBC Bearings INC,3562,Ball & Roller Bearings,Industrials
+RICK,935419,"RCI HOSPITALITY HOLDINGS, INC.",5812,Retail-Eating  Places,Retail
+RRGB,1171759,RED ROBIN GOURMET BURGERS INC,5812,Retail-Eating  Places,Retail
+REED,1140215,"REED'S, INC.",2086,Bottled & Canned Soft Drinks & Carbonated Waters,Consumer Goods
+RSCF,1103090,"REFLECT SCIENTIFIC, INC.",3821,Laboratory Apparatus & Furniture,Manufacturing
+RRX,82811,REGAL REXNORD CORP,3569,"General Industrial Machinery & Equipment, NEC",Industrials
+RSRV,83350,RESERVE PETROLEUM CO,1311,Crude Petroleum & Natural Gas,Energy
+RVTY,31791,"REVVITY, INC.",3826,Laboratory Analytical Instruments,Manufacturing
+REX,744187,REX AMERICAN RESOURCES Corp,2860,Industrial Organic Chemicals,Manufacturing
+RGCO,1069533,RGC RESOURCES INC,4923,Natural Gas Transmisison & Distribution,Energy
+RH,1528849,RH,5712,Retail-Furniture Stores,Retail
+RR,1963685,RICHTECH ROBOTICS INC.,3569,"General Industrial Machinery & Equipment, NEC",Industrials
+REI,1384195,"RING ENERGY, INC.",1311,Crude Petroleum & Natural Gas,Energy
+ROK,1024478,"ROCKWELL AUTOMATION, INC",3829,"Measuring & Controlling Devices, NEC",Manufacturing
+RCKY,895456,"ROCKY BRANDS, INC.",3140,"Footwear, (No Rubber)",Manufacturing
+ROG,84748,ROGERS CORP,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+ROP,882835,ROPER TECHNOLOGIES INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+ROST,745732,"ROSS STORES, INC.",5651,Retail-Family Clothing Stores,Retail
+RES,742278,RPC INC,1389,"Oil & Gas Field Services, NEC",Energy
+RPM,110621,RPM INTERNATIONAL INC/DE/,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Manufacturing
+RTX,101829,RTX Corp,3724,Aircraft Engines & Engine Parts,Industrials
+RUSHA,1012019,RUSH ENTERPRISES INC \TX\,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+RAIN,2028293,"Rain Enhancement Technologies Holdco, Inc.",3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+RAKR,1872292,Rainmaker Worldwide Inc.,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Consumer Goods
+RAL,2041385,Ralliant Corp,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+RNGR,1699039,"Ranger Energy Services, Inc.",1389,"Oil & Gas Field Services, NEC",Energy
+PACK,1712463,Ranpak Holdings Corp.,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Manufacturing
+REBN,1707910,"Reborn Coffee, Inc.",5812,Retail-Eating  Places,Retail
+RDW,1819810,Redwire Corp,3760,Guided Missiles & Space Vehicles & Parts,Industrials
+RMTG,1760026,Regenerative Medical Technology Group Inc.,5990,"Retail-Retail Stores, NEC",Retail
+REKR,1697851,"Rekor Systems, Inc.",3669,"Communications Equipment, NEC",Industrials
+RENT,1468327,"Rent the Runway, Inc.",5990,"Retail-Retail Stores, NEC",Retail
+REOS,1335288,ReoStar Energy CORP,1382,Oil & Gas Field Exploration Services,Energy
+QSR,1618756,Restaurant Brands International Inc.,5812,Retail-Eating  Places,Retail
+QSP,1618755,Restaurant Brands International Limited Partnership,5812,Retail-Eating  Places,Retail
+RVLV,1746618,"Revolve Group, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+REYN,1786431,Reynolds Consumer Products Inc.,2673,"Plastics, Foil & Coated Paper Bags",Manufacturing
+RTON,1580262,"Right On Brands, Inc.",5900,Retail-Miscellaneous Retail,Retail
+REPX,1001614,"Riley Exploration Permian, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+RIVN,1874178,"Rivian Automotive, Inc. / DE",3711,Motor Vehicles & Passenger Car Bodies,Industrials
+RKLB,1819994,Rocket Lab Corp,3760,Guided Missiles & Space Vehicles & Parts,Industrials
+RMCF,1616262,"Rocky Mountain Chocolate Factory, Inc.",2060,Sugar & Confectionery Products,Consumer Goods
+ROYL,1694617,"Royale Energy, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+RLEA,1893657,Rubber Leaf Inc,3714,Motor Vehicle Parts & Accessories,Industrials
+RXST,1111485,"RxSight, Inc.",3851,Ophthalmic Goods,Manufacturing
+SD,1349436,SANDRIDGE ENERGY INC,1311,Crude Petroleum & Natural Gas,Energy
+JBSS,880117,SANFILIPPO JOHN B & SON INC,2060,Sugar & Confectionery Products,Consumer Goods
+SANM,897723,SANMINA CORP,3672,Printed Circuit Boards,Industrials
+SCGX,1277575,SAXON CAPITAL GROUP INC,1311,Crude Petroleum & Natural Gas,Energy
+SCHL,866729,SCHOLASTIC CORP,2731,Books: Publishing or  Publishing & Printing,Manufacturing
+SCIA,830616,"SCI Engineered Materials, Inc.",3620,Electrical Industrial Apparatus,Industrials
+SCND,87802,SCIENTIFIC INDUSTRIES INC,3826,Laboratory Analytical Instruments,Manufacturing
+SMG,825542,SCOTTS MIRACLE-GRO CO,2870,Agricultural Chemicals,Manufacturing
+SRE,1032208,SEMPRA,4932,Gas & Other Services Combined,Energy
+SMTC,88941,SEMTECH CORP,3674,Semiconductors & Related Devices,Industrials
+SXT,310142,SENSIENT TECHNOLOGIES CORP,2860,Industrial Organic Chemicals,Manufacturing
+SNBH,1358633,SENTIENT BRANDS HOLDINGS INC.,5734,Retail-Computer & Computer Software Stores,Retail
+SES,1819142,SES AI Corp,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+SHW,89800,SHERWIN WILLIAMS CO,5200,"Retail-Building Materials, Hardware, Garden Supply",Retail
+SHOE,895447,SHOE STATION GROUP INC,5661,Retail-Shoe Stores,Retail
+SIF,90168,SIFCO INDUSTRIES INC,3724,Aircraft Engines & Engine Parts,Industrials
+SIG,832988,SIGNET JEWELERS LTD,5944,Retail-Jewelry Stores,Retail
+SLGN,849869,SILGAN HOLDINGS INC,3411,Metal Cans,Manufacturing
+SLAB,1038074,SILICON LABORATORIES INC.,3674,Semiconductors & Related Devices,Industrials
+SLTN,1508786,"SILVERTON ENERGY, INC.",3021,Rubber & Plastics Footwear,Manufacturing
+XAKJ,1128252,"SIPP International Industries, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+SITM,1451809,SITIME Corp,3674,Semiconductors & Related Devices,Industrials
+SWKS,4127,"SKYWORKS SOLUTIONS, INC.",3674,Semiconductors & Related Devices,Industrials
+SKYX,1598981,SKYX Platforms Corp.,3640,Electric Lighting & Wiring Equipment,Industrials
+SLB,87347,SLB LIMITED/NV,1389,"Oil & Gas Field Services, NEC",Energy
+SM,893538,SM Energy Co,1311,Crude Petroleum & Natural Gas,Energy
+SWBI,1092796,"SMITH & WESSON BRANDS, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+AOS,91142,SMITH A O CORP,3630,Household Appliances,Industrials
+SMID,924719,SMITH MIDLAND CORP,3272,"Concrete Products, Except Block & Brick",Manufacturing
+SFD,91388,SMITHFIELD FOODS INC,2011,Meat Packing Plants,Consumer Goods
+SOBR,1425627,"SOBR Safe, Inc.",2721,Periodicals: Publishing or  Publishing & Printing,Manufacturing
+SEDG,1419612,"SOLAREDGE TECHNOLOGIES, INC.",3674,Semiconductors & Related Devices,Industrials
+SLSN,883107,"SOLESENCE, INC.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+SODI,91668,SOLITRON DEVICES INC,3674,Semiconductors & Related Devices,Industrials
+SGI,1206264,SOMNIGROUP INTERNATIONAL INC.,2510,Household Furniture,Consumer Goods
+SAH,1043509,SONIC AUTOMOTIVE INC,5500,Retail-Auto Dealers & Gasoline Stations,Retail
+SOTK,806172,SONO TEK CORP,3559,"Special Industry Machinery, NEC",Industrials
+SON,91767,SONOCO PRODUCTS CO,2650,Paperboard Containers & Boxes,Manufacturing
+SDSYA,1163609,SOUTH DAKOTA SOYBEAN PROCESSORS LLC,2070,Fats & Oils,Consumer Goods
+SCE-PN,92103,SOUTHERN CALIFORNIA EDISON Co,4911,Electric Services,Energy
+SOCGP,92108,SOUTHERN CALIFORNIA GAS CO,4922,Natural Gas Transmission,Energy
+SO,92122,SOUTHERN CO,4911,Electric Services,Energy
+SPND,867038,SPINDLETOP OIL & GAS CO,1311,Crude Petroleum & Natural Gas,Energy
+SR,1126956,SPIRE INC,4924,Natural Gas Distribution,Energy
+SBEV,1553788,"SPLASH BEVERAGE GROUP, INC.",2080,Beverages,Consumer Goods
+SPWH,1132105,"SPORTSMAN'S WAREHOUSE HOLDINGS, INC.",5940,Retail-Miscellaneous Shopping Goods Stores,Retail
+SPRU,1772720,SPRUCE POWER HOLDING CORP,4911,Electric Services,Energy
+SPXC,88205,"SPX Technologies, Inc.",3540,Metalworkg Machinery & Equipment,Industrials
+SRXH,1471727,SRX Global Inc.,2080,Beverages,Consumer Goods
+STAA,718937,STAAR SURGICAL CO,3851,Ophthalmic Goods,Manufacturing
+LAB,1162194,STANDARD BIOTOOLS INC.,3826,Laboratory Analytical Instruments,Manufacturing
+SMP,93389,"STANDARD MOTOR PRODUCTS, INC.",3714,Motor Vehicle Parts & Accessories,Industrials
+SXI,310354,STANDEX INTERNATIONAL CORP/DE/,3580,Refrigeration & Service Industry Machinery,Industrials
+SWK,93556,"STANLEY BLACK & DECKER, INC.",3420,"Cutlery, Handtools & General Hardware",Manufacturing
+SGU,1002590,"STAR GROUP, L.P.",5990,"Retail-Retail Stores, NEC",Retail
+SBUX,829224,STARBUCKS CORP,5810,Retail-Eating & Drinking Places,Retail
+STLD,1022671,STEEL DYNAMICS INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+SCL,94049,STEPAN CO,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Manufacturing
+SHOO,913241,"STEVEN MADDEN, LTD.",3140,"Footwear, (No Rubber)",Manufacturing
+SRI,1043337,STONERIDGE INC,3714,Motor Vehicle Parts & Accessories,Industrials
+STRT,933034,STRATTEC SECURITY CORP,3714,Motor Vehicle Parts & Accessories,Industrials
+RGR,95029,STURM RUGER & CO INC,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+SPH,1005210,SUBURBAN PROPANE PARTNERS LP,5900,Retail-Miscellaneous Retail,Retail
+SUIC,1394108,SUIC Worldwide Holdings Ltd.,2860,Industrial Organic Chemicals,Manufacturing
+HYSR,1481028,"SUNHYDROGEN, INC.",3674,Semiconductors & Related Devices,Industrials
+SGC,95574,"SUPERIOR GROUP OF COMPANIES, INC.",2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+SYNA,817720,SYNAPTICS Inc,3674,Semiconductors & Related Devices,Industrials
+OPTX,1866816,"SYNTEC OPTICS HOLDINGS, INC.",3827,Optical Instruments & Lenses,Manufacturing
+SYPR,864240,SYPRIS SOLUTIONS INC,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+SOC,1831481,Sable Offshore Corp.,1311,Crude Petroleum & Natural Gas,Energy
+SDOT,1701756,Sadot Group Inc.,5810,Retail-Eating & Drinking Places,Retail
+SBH,1368458,"Sally Beauty Holdings, Inc.",5990,"Retail-Retail Stores, NEC",Retail
+SVV,1883313,"Savers Value Village, Inc.",5900,Retail-Miscellaneous Retail,Retail
+STAI,1994624,ScanTech AI Systems Inc.,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+SHFH,2032609,Scientist Home Future Health Ltd,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+SCTH,1703157,"Securetech Innovations, Inc.",3714,Motor Vehicle Parts & Accessories,Industrials
+SEER,1726445,"Seer, Inc.",3826,Laboratory Analytical Instruments,Manufacturing
+WTTR,1693256,"Select Water Solutions, Inc.",1389,"Oil & Gas Field Services, NEC",Energy
+LEDS,1333822,SemiLEDs Corp,3674,Semiconductors & Related Devices,Industrials
+SENEA,88948,Seneca Foods Corp,2033,"Canned, Fruits, Veg, Preserves, Jams & Jellies",Consumer Goods
+SNES,1680378,"SenesTech, Inc.",2870,Agricultural Chemicals,Manufacturing
+ST,1477294,Sensata Technologies Holding plc,3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+SENS,1616543,"Senseonics Holdings, Inc.",3823,"Industrial Instruments For Measurement, Display, and Control",Manufacturing
+SERV,1832483,Serve Robotics Inc. /DE/,3569,"General Industrial Machinery & Equipment, NEC",Industrials
+SHAK,1620533,Shake Shack Inc.,5810,Retail-Eating & Drinking Places,Retail
+SHLS,1831651,"Shoals Technologies Group, Inc.",3674,Semiconductors & Related Devices,Industrials
+SMPL,1702744,Simply Good Foods Co,2000,Food and Kindred Products,Consumer Goods
+SSD,920371,"Simpson Manufacturing Co., Inc.",3420,"Cutlery, Handtools & General Hardware",Manufacturing
+SKYT,1819974,"SkyWater Technology, Inc",3674,Semiconductors & Related Devices,Industrials
+SNBRQ,827187,Sleep Number Corp,2510,Household Furniture,Consumer Goods
+SMTK,1817760,"SmartKem, Inc.",3674,Semiconductors & Related Devices,Industrials
+BIRD,1653909,"Smartbird, Inc.",2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+SW,2005951,Smurfit Westrock plc,2650,Paperboard Containers & Boxes,Manufacturing
+SNA,91440,Snap-on Inc,3420,"Cutlery, Handtools & General Hardware",Manufacturing
+WNDW,1071840,"SolarWindow Technologies, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+SEI,1697500,"Solaris Energy Infrastructure, Inc.",3533,Oil & Gas Field Machinery & Equipment,Industrials
+SLDP,1844862,"Solid Power, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+STI,1881551,Solidion Technology Inc.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+SBDS,1870600,"Solo Brands, Inc.",3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+SOLS,2064953,Solstice Advanced Materials Inc.,2800,Chemicals & Allied Products,Manufacturing
+SONO,1314727,Sonos Inc,3651,Household Audio & Video Equipment,Industrials
+SWX,1692115,"Southwest Gas Holdings, Inc.",4923,Natural Gas Transmisison & Distribution,Energy
+SOWG,1490161,Sow Good Inc.,2000,Food and Kindred Products,Consumer Goods
+SHGI,1874138,"Sparx Holdings Group, Inc.",3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+SPB,109177,"Spectrum Brands Holdings, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+SFM,1575515,"Sprouts Farmers Market, Inc.",5411,Retail-Grocery Stores,Retail
+SLNG,1043186,"Stabilis Solutions, Inc.",4924,Natural Gas Distribution,Energy
+SARO,2025410,"StandardAero, Inc.",3724,Aircraft Engines & Engine Parts,Industrials
+SDST,1831979,Stardust Power Inc.,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
+SFIX,1576942,"Stitch Fix, Inc.",5961,Retail-Catalog & Mail-Order Houses,Retail
+SMC,2024218,Summit Midstream Corp,4922,Natural Gas Transmission,Energy
+SXC,1514705,"SunCoke Energy, Inc.",3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+SUN,1552275,Sunoco LP,2911,Petroleum Refining,Energy
+SUNC,2089661,SunocoCorp LLC,2911,Petroleum Refining,Energy
+RUN,1469367,Sunrun Inc.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+SG,1477815,"Sweetgreen, Inc.",5812,Retail-Eating  Places,Retail
+SLVM,1856485,Sylvamo Corp,2621,Paper Mills,Manufacturing
+SYM,1837240,Symbotic Inc.,3569,"General Industrial Machinery & Equipment, NEC",Industrials
+TE,1992243,T1 Energy Inc.,3674,Semiconductors & Related Devices,Industrials
+TALO,1724965,TALOS ENERGY INC.,1311,Crude Petroleum & Natural Gas,Energy
+TLF,909724,TANDY LEATHER FACTORY INC,3100,Leather & Leather Products,Manufacturing
+TPR,1116132,"TAPESTRY, INC.",3100,Leather & Leather Products,Manufacturing
+TGT,27419,TARGET CORP,5331,Retail-Variety Stores,Retail
+TAYD,96536,"TAYLOR DEVICES, INC.",3569,"General Industrial Machinery & Equipment, NEC",Industrials
+TPCS,1328792,TECHPRECISION CORP,3440,Fabricated Structural Metal Products,Manufacturing
+TGEN,1537435,TECOGEN INC.,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Industrials
+TDY,1094285,TELEDYNE TECHNOLOGIES INC,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Manufacturing
+TNC,97134,TENNANT CO,3580,Refrigeration & Service Industry Machinery,Industrials
+TER,97210,"TERADYNE, INC",3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+TEX,97216,TEREX CORP,3537,"Industrial Trucks, Tractors, Trailors & Stackers",Industrials
+TTI,844965,TETRA TECHNOLOGIES INC,1311,Crude Petroleum & Natural Gas,Energy
+TXN,97476,TEXAS INSTRUMENTS INC,3674,Semiconductors & Related Devices,Industrials
+TXT,217346,TEXTRON INC,3720,Aircraft & Parts,Industrials
+TMO,97745,THERMO FISHER SCIENTIFIC INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+THO,730263,THOR INDUSTRIES INC,3716,Motor Homes,Industrials
+TYGO,1855447,"TIGO ENERGY, INC.",3674,Semiconductors & Related Devices,Industrials
+TTSH,1552800,"TILE SHOP HOLDINGS, INC.",5700,"Retail-Home Furniture, Furnishings & Equipment Stores",Retail
+TLYS,1524025,"TILLY'S, INC.",5600,Retail-Apparel & Accessory Stores,Retail
+TKR,98362,TIMKEN CO,3562,Ball & Roller Bearings,Industrials
+TWI,899751,TITAN INTERNATIONAL INC,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Manufacturing
+TJX,109198,TJX COMPANIES INC /DE/,5651,Retail-Family Clothing Stores,Retail
+TOFB,730349,TOFUTTI BRANDS INC,2024,Ice Cream & Frozen Desserts,Consumer Goods
+TOMZ,314227,"TOMI Environmental Solutions, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+TR,98677,TOOTSIE ROLL INDUSTRIES INC,2060,Sugar & Confectionery Products,Consumer Goods
+TTC,737758,TORO CO,3524,Lawn & Garden Tractors & Home Lawn & Gardens Equip,Industrials
+TPICQ,1455684,"TPI COMPOSITES, INC",3510,Engines & Turbines,Industrials
+TSCO,916365,TRACTOR SUPPLY CO /DE/,5200,"Retail-Building Materials, Hardware, Garden Supply",Retail
+TRNS,99302,TRANSCAT INC,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+TG,850429,TREDEGAR CORP,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Manufacturing
+CANN,1477009,TREES Corp (Colorado),5912,Retail-Drug Stores and Proprietary Stores,Retail
+TREX,1069878,TREX CO INC,2400,Lumber & Wood Products (No Furniture),Manufacturing
+TRS,842633,TRIMAS CORP,3460,Metal Forgings & Stampings,Manufacturing
+TRMB,864749,TRIMBLE INC.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+TRN,99780,TRINITY INDUSTRIES INC,3743,Railroad Equipment,Industrials
+TRT,732026,TRIO-TECH INTERNATIONAL,3559,"Special Industry Machinery, NEC",Industrials
+TTMI,1116942,TTM TECHNOLOGIES INC,3672,Printed Circuit Boards,Industrials
+TWIN,100378,TWIN DISC INC,3560,General Industrial Machinery & Equipment,Industrials
+TXNM,1108426,TXNM ENERGY INC,4911,Electric Services,Energy
+TXO,1559432,"TXO Partners, L.P.",1311,Crude Petroleum & Natural Gas,Energy
+TSN,100493,"TYSON FOODS, INC.",2015,Poultry Slaughtering and Processing,Consumer Goods
+TLN,1622536,Talen Energy Corp,4911,Electric Services,Energy
+TBN,1997652,Tamboran Resources Corp,1311,Crude Petroleum & Natural Gas,Energy
+TNBI,1452011,Tanke Biosciences Corp,2040,Grain Mill Products,Consumer Goods
+TRGP,1389170,Targa Resources Corp.,4922,Natural Gas Transmission,Energy
+TMS,2048951,Teamshares Inc,5900,Retail-Miscellaneous Retail,Retail
+FTI,1681459,TechnipFMC plc,3533,Oil & Gas Field Machinery & Equipment,Industrials
+TGLS,1534675,Tecnoglass Inc.,3211,Flat Glass,Manufacturing
+TVE,1376986,Tennessee Valley Authority,4911,Electric Services,Energy
+NKLR,2067627,Terra Innovatum Global N.V.,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+IMSR,2019804,Terrestrial Energy Inc. /DE/,3443,Fabricated Plate Work (Boiler Shops),Manufacturing
+TSLA,1318605,"Tesla, Inc.",3711,Motor Vehicles & Passenger Car Bodies,Industrials
+TXRH,1289460,"Texas Roadhouse, Inc.",5812,Retail-Eating  Places,Retail
+REAL,1573221,"TheRealReal, Inc.",5900,Retail-Miscellaneous Retail,Retail
+TDUP,1484778,ThredUp Inc.,5961,Retail-Catalog & Mail-Order Houses,Retail
+AIEV,1912582,"Thunder Power Holdings, Inc.",3711,Motor Vehicles & Passenger Car Bodies,Industrials
+TITN,1409171,Titan Machinery Inc.,5990,"Retail-Retail Stores, NEC",Retail
+CURV,1792781,Torrid Holdings Inc.,5600,Retail-Apparel & Accessory Stores,Retail
+TRCK,1045942,"Track Group, Inc.",3669,"Communications Equipment, NEC",Industrials
+TRWD,1916558,Tradewinds Universal,2000,Food and Kindred Products,Consumer Goods
+COOK,1857853,"Traeger, Inc.",3630,Household Appliances,Industrials
+TT,1466258,Trane Technologies plc,3822,Auto Controls For Regulating Residential & Comml Environments,Manufacturing
+TDG,1260221,TransDigm Group INC,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Industrials
+RIG,1451505,Transocean Ltd.,1381,Drilling Oil & Gas Wells,Energy
+TSEOQ,1519061,Trinseo PLC,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Manufacturing
+TPET,1898766,Trio Petroleum Corp,1311,Crude Petroleum & Natural Gas,Energy
+TROX,1530804,Tronox Holdings plc,2810,Industrial Inorganic Chemicals,Manufacturing
+TRUG,1857086,"TruGolf Holdings, Inc.",3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+TKLS,1429393,"Trutankless, Inc.",3630,Household Appliances,Industrials
+TOGI,1349706,"TurnOnGreen, Inc.",3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+TPB,1290677,"Turning Point Brands, Inc.",2100,Tobacco Products,Consumer Goods
+TBCH,1493761,Turtle Beach Corp,3669,"Communications Equipment, NEC",Industrials
+TWNPQ,2011954,Twin Hospitality Group Inc.,5812,Retail-Eating  Places,Retail
+VEEE,1855509,"Twin Vee PowerCats, Co.",3730,Ship & Boat Building & Repairing,Industrials
+UFPI,912767,UFP INDUSTRIES INC,2421,"Sawmills & Planting Mills, General",Manufacturing
+UGI,884614,UGI CORP /PA/,4932,Gas & Other Services Combined,Energy
+ULBI,875657,ULTRALIFE CORP,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+UFI,100726,UNIFI INC,2200,Textile Mill Products,Consumer Goods
+UEPEN,100826,UNION ELECTRIC CO,4911,Electric Services,Energy
+UG,101295,UNITED GUARDIAN INC,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+UAMY,101538,UNITED STATES ANTIMONY CORP,3330,Primary Smelting & Refining of  Nonferrous Metals,Manufacturing
+UTL,755001,UNITIL CORP,4931,Electric & Other Services Combined,Energy
+OLED,1005284,UNIVERSAL DISPLAY CORP \PA\,3670,Electronic Components & Accessories,Industrials
+UEIC,101984,UNIVERSAL ELECTRONICS INC,3651,Household Audio & Video Equipment,Industrials
+URBN,912615,URBAN OUTFITTERS INC,5651,Retail-Family Clothing Stores,Retail
+UCLE,1543623,US NUCLEAR CORP.,3829,"Measuring & Controlling Devices, NEC",Manufacturing
+USAC,1522727,"USA Compression Partners, LP",4922,Natural Gas Transmission,Energy
+TDAY,1579684,"USA TODAY Co., Inc.",2711,Newspapers: Publishing or  Publishing & Printing,Manufacturing
+UI,1511737,Ubiquiti Inc.,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+ULTA,1403568,"Ulta Beauty, Inc.",5990,"Retail-Retail Stores, NEC",Retail
+UCTT,1275014,"Ultra Clean Holdings, Inc.",3674,Semiconductors & Related Devices,Industrials
+UA,1336917,"Under Armour, Inc.",2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+UMAC,1956955,"Unusual Machines, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+UTZ,1739566,"Utz Brands, Inc.",2090,Miscellaneous Food Preparations & Kindred Products,Consumer Goods
+VFC,103379,V F CORP,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Consumer Goods
+EGY,894627,VAALCO ENERGY INC /DE/,1311,Crude Petroleum & Natural Gas,Energy
+VLO,1035002,VALERO ENERGY CORP/TX,2911,Petroleum Refining,Energy
+VHI,59255,VALHI INC /DE/,2810,Industrial Inorganic Chemicals,Manufacturing
+VMI,102729,VALMONT INDUSTRIES INC,3440,Fabricated Structural Metal Products,Manufacturing
+VVV,1674910,VALVOLINE INC,2990,Miscellaneous Products of  Petroleum & Coal,Energy
+VECO,103145,VEECO INSTRUMENTS INC,3559,"Special Industry Machinery, NEC",Industrials
+APHD,1490054,"VERDE BIO HOLDINGS, INC.",1311,Crude Petroleum & Natural Gas,Energy
+VIAV,912093,VIAVI SOLUTIONS INC.,3674,Semiconductors & Related Devices,Industrials
+VICR,751978,VICOR CORP,3679,"Electronic Components, NEC",Industrials
+VLGEA,103595,VILLAGE SUPER MARKET INC,5411,Retail-Grocery Stores,Retail
+VNCE,1579157,VINCE HOLDING CORP.,5600,Retail-Apparel & Accessory Stores,Retail
+VIPZ,1832161,"VIP Play, Inc.",5900,Retail-Miscellaneous Retail,Retail
+VIRC,751365,VIRCO MFG CORPORATION,2531,Public Bldg & Related Furniture,Consumer Goods
+VSH,103730,VISHAY INTERTECHNOLOGY INC,3670,Electronic Components & Accessories,Industrials
+VC,1111335,VISTEON CORP,3714,Motor Vehicle Parts & Accessories,Industrials
+VOC,1505413,VOC Energy Trust,1311,Crude Petroleum & Natural Gas,Energy
+VAL,314808,Valaris Ltd,1381,Drilling Oil & Gas Wells,Energy
+VREX,1681622,Varex Imaging Corp,3679,"Electronic Components, NEC",Industrials
+VELO,1825079,"Velo3D, Inc.",3559,"Special Industry Machinery, NEC",Industrials
+VHUB,1972234,"VenHub Global, Inc.",3590,Misc Industrial & Commercial Machinery & Equipment,Industrials
+VG,2007855,"Venture Global, Inc.",4924,Natural Gas Distribution,Energy
+VRA,1495320,"Vera Bradley, Inc.",3100,Leather & Leather Products,Manufacturing
+VLTO,1967680,Veralto Corp,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Manufacturing
+VGAS,1841425,"Verde Clean Fuels, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+VRT,1674101,Vertiv Holdings Co,3679,"Electronic Components, NEC",Industrials
+VSTD,1898604,Vestand Inc.,5812,Retail-Eating  Places,Retail
+VSXY,1856437,Victoria's Secret & Co.,5621,Retail-Women's Clothing Stores,Retail
+VNOM,2074176,"Viper Energy, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+VTSI,1085243,"VirTra, Inc",3990,Miscellaneous Manufacturing Industries,Manufacturing
+VPG,1487952,"Vishay Precision Group, Inc.",3670,Electronic Components & Accessories,Industrials
+VISL,1565228,"Vislink Technologies, Inc.",3669,"Communications Equipment, NEC",Industrials
+VISN,1517228,"Vistance Networks, Inc.",3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+VST,1692819,Vistra Corp.,4911,Electric Services,Energy
+COCO,1482981,"Vita Coco Company, Inc.",2080,Beverages,Consumer Goods
+VITL,1579733,"Vital Farms, Inc.",2000,Food and Kindred Products,Consumer Goods
+VTS,1944558,"Vitesse Energy, Inc.",1311,Crude Petroleum & Natural Gas,Energy
+VPLM,1410738,Voip-pal.com Inc,3661,Telephone & Telegraph Apparatus,Industrials
+VNT,1786842,Vontier Corp,3824,Totalizing Fluid Meters & Counting Devices,Manufacturing
+VOYG,1788060,"Voyager Technologies, Inc./TX",3760,Guided Missiles & Space Vehicles & Parts,Industrials
+VRM,1580864,"Vroom, Inc.",5500,Retail-Auto Dealers & Gasoline Stations,Retail
+VUZI,1463972,Vuzix Corp,3663,Radio & Tv Broadcasting & Communications Equipment,Industrials
+VYST,1308027,Vystar Corp,3060,"Fabricated Rubber Products, NEC",Manufacturing
+WTI,1288403,W&T OFFSHORE INC,1311,Crude Petroleum & Natural Gas,Energy
+WNC,879526,WABASH NATIONAL Corp,3715,Truck Trailers,Industrials
+WAT,1000697,WATERS CORP /DE/,3826,Laboratory Analytical Instruments,Manufacturing
+WTS,795403,WATTS WATER TECHNOLOGIES INC,3490,Miscellaneous Fabricated Metal Products,Manufacturing
+WDFC,105132,WD 40 CO,2890,Miscellaneous Chemical Products,Manufacturing
+WBTN,1997859,WEBTOON Entertainment Inc.,2741,Miscellaneous Publishing,Manufacturing
+WEC,783325,"WEC ENERGY GROUP, INC.",4931,Electric & Other Services Combined,Energy
+WMK,105418,WEIS MARKETS INC,5411,Retail-Grocery Stores,Retail
+WAB,943452,WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP,3743,Railroad Equipment,Industrials
+WLK,1262823,WESTLAKE CORP,2860,Industrial Organic Chemicals,Manufacturing
+WHR,106640,WHIRLPOOL CORP /DE/,3630,Household Appliances,Industrials
+WVVI,838875,WILLAMETTE VALLEY VINEYARDS INC,2080,Beverages,Consumer Goods
+WMB,107263,"WILLIAMS COMPANIES, INC.",4922,Natural Gas Transmission,Energy
+WSM,719955,WILLIAMS SONOMA INC,5700,"Retail-Home Furniture, Furnishings & Equipment Stores",Retail
+WINA,908315,WINMARK CORP,5900,Retail-Miscellaneous Retail,Retail
+WGO,107687,WINNEBAGO INDUSTRIES INC,3716,Motor Homes,Industrials
+WELPM,107815,WISCONSIN ELECTRIC POWER CO,4911,Electric Services,Energy
+WOLF,895419,"WOLFSPEED, INC.",3674,Semiconductors & Related Devices,Industrials
+WWW,110471,WOLVERINE WORLD WIDE INC /DE/,3140,"Footwear, (No Rubber)",Manufacturing
+WOR,108516,"WORTHINGTON ENTERPRISES, INC.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+WRAP,1702924,"WRAP TECHNOLOGIES, INC.",3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Manufacturing
+WMT,104169,Walmart Inc.,5331,Retail-Variety Stores,Retail
+WRBY,1504776,Warby Parker Inc.,3851,Ophthalmic Goods,Manufacturing
+WBI,2064947,WaterBridge Infrastructure LLC,1389,"Oil & Gas Field Services, NEC",Energy
+W,1616707,Wayfair Inc.,5961,Retail-Catalog & Mail-Order Houses,Retail
+WFRD,1603923,Weatherford International plc,3533,Oil & Gas Field Machinery & Equipment,Industrials
+WEN,30697,Wendy's Co,5810,Retail-Eating & Drinking Places,Retail
+WES,1423902,"Western Midstream Partners, LP",4922,Natural Gas Transmission,Energy
+WLKP,1604665,Westlake Chemical Partners LP,2860,Industrial Organic Chemicals,Manufacturing
+WEST,1806347,Westrock Coffee Co,2080,Beverages,Consumer Goods
+WING,1636222,Wingstop Inc.,5812,Retail-Eating  Places,Retail
+WWD,108312,"Woodward, Inc.",3620,Electrical Industrial Apparatus,Industrials
+WKHS,1425287,Workhorse Group Inc.,3711,Motor Vehicles & Passenger Car Bodies,Industrials
+WKSP,1096275,Worksport Ltd,3714,Motor Vehicle Parts & Accessories,Industrials
+WS,1968487,"Worthington Steel, Inc.",3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Manufacturing
+XEL,72903,XCEL ENERGY INC,4931,Electric & Other Services Combined,Energy
+SAFX,2019793,"XCF Global, Inc.",2860,Industrial Organic Chemicals,Manufacturing
+XERI,1481504,"XERIANT, INC.",3721,Aircraft,Industrials
+XMAX,1473334,XMax Inc.,2510,Household Furniture,Consumer Goods
+XPEL,1767258,"XPEL, Inc.",3470,"Coating, Engraving & Allied Services",Manufacturing
+XIFR,1603145,"XPLR Infrastructure, LP",4911,Electric Services,Energy
+XOS,1819493,"Xos, Inc.",3714,Motor Vehicle Parts & Accessories,Industrials
+XYL,1524472,Xylem Inc.,3561,Pumps & Pumping Equipment,Industrials
+YETI,1670592,"YETI Holdings, Inc.",3949,"Sporting & Athletic Goods, NEC",Consumer Goods
+YUM,1041061,YUM BRANDS INC,5812,Retail-Eating  Places,Retail
+YHGJ,1042187,YUNHONG GREEN CTI LTD.,3060,"Fabricated Rubber Products, NEC",Manufacturing
+YSS,2086587,York Space Systems Inc.,3760,Guided Missiles & Space Vehicles & Parts,Industrials
+YUMC,1673358,"Yum China Holdings, Inc.",5812,Retail-Eating  Places,Retail
+ZBRA,877212,ZEBRA TECHNOLOGIES CORP,3560,General Industrial Machinery & Equipment,Industrials
+ZNOG,1131312,ZION OIL & GAS INC,1382,Oil & Gas Field Exploration Services,Energy
+ZRCN,1901297,ZRCN Inc.,3690,"Miscellaneous Electrical Machinery, Equipment & Supplies",Industrials
+ZVIA,1854139,Zevia PBC,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Consumer Goods
+ZUMZ,1318008,Zumiez Inc,5600,Retail-Apparel & Accessory Stores,Retail
+ZWS,1439288,Zurn Elkay Water Solutions Corp,3560,General Industrial Machinery & Equipment,Industrials
+YCBD,1644903,"cbdMD, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+ELF,1600033,"e.l.f. Beauty, Inc.",2844,"Perfumes, Cosmetics & Other Toilet Preparations",Manufacturing
+IPW,1830072,iPower Inc.,5200,"Retail-Building Materials, Hardware, Garden Supply",Retail
+IWAL,1498372,iWallet Corp,3669,"Communications Equipment, NEC",Industrials
+INDI,1841925,"indie Semiconductor, Inc.",3674,Semiconductors & Related Devices,Industrials
+LULU,1397187,lululemon athletica inc.,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Consumer Goods
+NVT,1720635,nVent Electric plc,3550,Special Industry Machinery (No Metalworking Machinery),Industrials

@@ -61,7 +61,7 @@ SUBMISSIONS_API = (
 
 # Replace with your own details before running
 SEC_HEADERS = {
-    "User-Agent": "Your Name your_email@example.com",
+    "User-Agent": "Perry research@example.com",
     "Accept-Encoding": "gzip, deflate",
     "Host": "data.sec.gov",
 }
